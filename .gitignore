@@ -1,0 +1,10 @@
+/DokuWikiStick/*
+!/DokuWikiStick/dokuwiki/
+
+/DokuWikiStick/dokuwiki/*
+!/DokuWikiStick/dokuwiki/data/
+
+/DokuWikiStick/dokuwiki/data/*
+!/DokuWikiStick/dokuwiki/data/pages/
+!/DokuWikiStick/dokuwiki/data/media/
+
