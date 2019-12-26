@@ -2,9 +2,15 @@
 
 "Ork Ridge" is an adventure designed for player characters between levels 5-20 about a world that is changing. It's set in Faerun, but in name and shape only.
 
+===== Geopolitics =====
+
 Traditional serfdoms and kingdoms no longer dominate the land, instead having recently been replaced by oligarchies, dictatorships, and in some rare cases, real democracy. Nations are no longer defined by race. Elves, Dwarves, and orcs can be found most anywhere. Racism is definitely an issue, but there are rarely groups of one race around anymore. It's just not economically sane anymore.
 
-Technology has advanced into the industrial era. Steam power has revolutionized transportation. Steam rail connects particularly close economic centers at a whopping 30 miles per hour. Steam ships now dominate national militaries, and have made their way into the commercial sector too.
+[[wiki:OrkRidge:Geopolitics|More]]
+
+===== Technology =====
+
+We have advanced into the industrial era. Steam power has revolutionized transportation. Steam rail connects particularly close economic centers at a whopping 30 miles per hour. Steam ships now dominate national militaries, and have made their way into the commercial sector too.
 
 The Bessemer process produces high quality steel at mind boggling prices. It's even being used for high rise construction in cities where land is at a premium.
 
