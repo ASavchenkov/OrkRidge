@@ -26,6 +26,8 @@ Firearms have made it possible for even the average commoner to combat a fully a
 ===== Chapter 1 The Resistance=====
 [[wiki:orkridge:chapter_1]]
 
+Levels 5-6
+
 The adventure starts with the players heading to and exploring a cave dungeon. Any level 4-5 dungeon near Neverwinter is suitable. I personally used the Cave of Echoes from [[https://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_starterset|The Lost Mines of Phandelver]]. They discover that the dungeon has recently been disturbed, and find a large spherical device with dozens of magical glyphs on it. They're accosted by [[wiki:orkridge:Eddard Teller]] and his entourage. The party is a loose end for his secretive weapon design group, and Teller will leave the capture of the party to his crew. Regardless of result, the players witness the weapon in action, as the cave system and mountain above it vanish into thin air, leaving a 2 mile wide crater.
 
 Either in chains, or blodied and wanted by the Gerbaut military, the party will need to somehow end up in [[wiki:orkridge:Neverwinter]]. Circumstance puts them in contact with the [[wiki:orkridge:Resistance]]. The party will be asked to perform several acts of subterfuge, including stealing some advanced weaponry, and destroying some advanced technology. Their hideout is discovered sooner or later, and one of the wizards leading the Resistance creates a teleportation circle for them to escape to Oosah and notify them of this new superweapon. The party is the only group to escape cleanly however, and all but two wizards are captured by the Gerbaut.
@@ -33,25 +35,34 @@ Either in chains, or blodied and wanted by the Gerbaut military, the party will 
 ===== Chapter 2 New Elfington=====
 [[wiki:orkridge:chapter_2]]
 
+Levels 7-8
+
 Unfortunately, teleportation circle capable ships are not yet in position, so the party has some time in [[wiki:orkridge:New Elfington]], the capital of Oosah. There are numerous attractions in this city, including a reviving swing scene, a demolition derby, a powerful drug cartel, and the mysterious disappearance of the Warforged.
 
 ===== Chapter 3 Trek to the North Forest=====
 [[wiki:orkridge:chapter_3]]
+
+Level 9
 
 The big day of the invasion has come, and the party is to head behind enemy lines to find the resistance members, and get the location of the lab in which this weapon is built. This requires that they travel East to the High Forest, where resistance members are likely held in the [[wiki:orkridge:Ghoulash]]. This plan takes them through war torn Neverwinter, Neverwinter Wood, Triboar, and finally the High Forest, where they find the Goulash and the Resistance.
 
 ===== Chapter 4 Ork Ridge=====
 [[wiki:orkridge:chapter_4]]
 
+Level 9
 
 Upon rescuing the captured Resistance members, they take refuge in a cave system in [[wiki:orkridge:the_lost_peaks]]. The nature of this strange geological formation is revealed to them, as is the location of [[wiki:orkridge:Ork Ridge (location)|Ork Ridge]], the laboratory where the weapon was created. They must then deal with Eddard Teller's plans for this weapon.
 
 ===== Chapter 4.5 interlogue =====
 [[wiki:orkridge:chapter_4.5]]
 
+Level 10
+
 The war isn't over. The Oosah has the upper hand, but the road ahead is a hard one. If the party want's to involve themselves in the rest of the war effort, they'll end up fighting in Waterdeep and Baldur's Gate, the final bastions of the Gerbaut military. They will then enjoy some time off.
 
 ===== Chapter 5 The Financial Crash=====
 [[wiki:orkridge:chapter_5]]
+
+Level 10
 
 Investment banking has gotten a bit crazy post war. CDO's wrapped in CDO's confuse investors, and when it's too late, the market crashes, and everyone loses everything. The financial and legal powers of the world are invited to New Elfington to resolve the problem at the largest financial conference to date. When it becomes obvious that the representatives are just there to serve themselves, protests and riots break loose. [[wiki:orkridge:Char Mark| A terrorist]] busts in, claiming to have replicated the weapon, and threatening to use if they don't figure a real solution out. It is unfortunately necessary for the weapon to trigger, teleporting the entirety of New Elfington to [[wiki:orkridge:Eberron]]. specifically, smack dab in the center of the Cyre.
