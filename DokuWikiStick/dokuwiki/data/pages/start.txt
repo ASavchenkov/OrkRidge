@@ -4,10 +4,12 @@
 
 The first, "[[wiki:orkridge:orkridge|Ork Ridge]]" occurs on the mega continent Faerun, and then on Eberron (both heavily modified and carved up to fit the adventure). This adventure is designed for a combination of D&D 5E and the "Stars Without Number" faction system.
 
-The second, "[[wiki:afpd:AFPD|Argument For Poor Design]]" occurs in "pre-cyberpunk" LA and is designed for "The Sprawl." It is much shorter, as it is primarily used to justify the world of Ork Ridge. Expect 3 or 4 sessions out of this content before you're really all on your own.
+The second, "[[wiki:afpd:AFPD|Argument For Poor Design]]" occurs in "pre-cyberpunk" LA and is designed for "The Sprawl." It is much shorter, as it is primarily used to justify the world of Ork Ridge. Expect 3 or 4 sessions out of this content before you're entirely on your own, or ignore it entirely.
 
 Both can be played independently, but they are best played together, or one after the other.
 
 ====== Organization ======
 
-This wiki is designed to be a guide for a DM, but because this adventure comes from a real game that I ran, the actual events will also be included to provide context for decisions that may have made sense for my particular group of players, but not for yours.
+This wiki is designed to be a guide for a DM, but because this adventure comes from a real game that I ran, the actual events will also be included to provide context for design decisions that may have made sense for my particular group of players, but not for yours.
+
+[[wiki:timelineTest|wiki:timelineTest]]
