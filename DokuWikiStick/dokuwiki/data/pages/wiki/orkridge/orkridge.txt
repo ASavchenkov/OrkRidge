@@ -1,16 +1,20 @@
 ====== Overview ======
 
-"Ork Ridge" is an adventure designed for player characters between levels 5-20 about a world that is changing. It's set in Faerun, but in name and shape only.
+"Ork Ridge" is an adventure designed for player characters between levels 5-20 about a world that is changing. Levels 5-10 are set in Faerun, but in name and shape only. Levels 11-15 are set in [[wiki:orkridge:Eberron]], which stays closer to the published material.
 
 ===== Geopolitics =====
 
 Traditional serfdoms and kingdoms no longer dominate the land, instead having recently been replaced by oligarchies, dictatorships, and in some rare cases, real democracy. Nations are no longer defined by race. Elves, Dwarves, and orcs can be found most anywhere. Racism is definitely an issue, but there are rarely groups of one race around anymore. It's just not economically sane anymore.
 
-The three most important nations are [[wiki:orkridge:Esania]], [[wiki:orkridge:Gerbaut]], and [[wiki:orkridge:Oosah]]. These nations are the Faerun equivalents of WW2 France, Germany, and the USA. At the start of the adventure, Gerbaut is occupying Esania, and Oosah is preparing to "liberate" Esania.
+The three most important nations of Faerun are [[wiki:orkridge:Esania]], [[wiki:orkridge:Gerbaut]], and [[wiki:orkridge:Oosah]]. These nations are the Faerun equivalents of WW2 France, Germany, and the USA. At the start of the adventure, Gerbaut is occupying Esania, and Oosah is preparing to "liberate" Esania.
+
+Geopolitics are more true to the book in Eberron.
 
 [[wiki:OrkRidge:Geopolitics|More]]
 
 ===== Technology =====
+
+==== Esania ====
 
 We have advanced into the industrial era. Steam power has revolutionized transportation. Steam rail connects particularly close economic centers at a whopping 30 miles per hour. Steam ships now dominate national militaries, and have made their way into the commercial sector too.
 
@@ -18,8 +22,12 @@ The Bessemer process produces high quality steel at mind boggling prices. It's e
 
 Firearms have made it possible for even the average commoner to combat a fully armored knight, though no self respecting marksman would be caught dead with one in their hands.
 
-[[wiki:OrkRidge:Technology|More]]
+=== Eberron ===
 
+Technology in [[wiki:orkridge:Eberron]] stays pretty close to the published material.
+
+
+[[wiki:OrkRidge:Technology|More]]
 
 ====== Adventure Chronology ======
 
