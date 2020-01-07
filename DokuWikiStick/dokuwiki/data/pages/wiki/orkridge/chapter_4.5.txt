@@ -3,4 +3,4 @@ The Oosah have secured Neverwinter, or it has been wiped off of the map. Either 
 
 ==== Invading Baldur's Gate ====
 
-Unbeknownst to the Oosah, a new long range artillery system is in place at Baldur's Gate, trained on any navy that might want to get within naval bombardment range.
+Unbeknownst to the Oosah, a new long range artillery system is in place at Baldur's Gate, trained on any navy that might want to get within naval bombardment range. This is codified as a "Planetary Defense" force asset in SWN. The Gerbaut have purchased stealth for this asset. It is used to defend against any naval attack.
