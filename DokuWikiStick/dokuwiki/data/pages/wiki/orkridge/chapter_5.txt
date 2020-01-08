@@ -1,35 +1,49 @@
-=== Post War Economy ===
+==== Post War Economy ====
 
 Hundreds of thousands of soldiers come home, many permanently injured. They want homes, jobs, and medical care, and thus the housing and medical industries boom. The financing industry comes along for the ride, promising rapid funding to help firms compete, albeit with high interest rates.
 
-=== The Rise of Finance ===
+==== The Rise of Finance ====
 
 The economy booms, and this debt becomes commonplace, and more complex. CDOs and synthetic CDOs are designed for mortgages and medical debt. Bankers make incredible fees selling and trading these financial products. The valuation of these products grows far higher than the real value. Whether bankers did this on purpose or through incompetence isn't a particularly important question. The damage is done, and they did it.
 
-=== And the Fall ===
+==== And the Fall ====
 
 The bubble pops, and shit rolls downhill as always. Hundreds of thousands lose their homes. Millions more lose retirement funds that had been invested in these bad financial products. The money didn't just disappear overnight. It was simply eaten up by ludicrous fees, hidden by inflated product valuations. The crash just showed everyone that the money was gone.
 
-=== And the Fall ===
+==== And the Fall ====
 
 The crash spills into other nations, affecting the entire globe. A conference is arranged in New Elfington to figure out a global response to this crisis. Representatives from governments and financial institutions globally show up for the largest financial conference in the history of Faerun.
 
-=== Hope ===
+==== Hope ====
 
 For a short while, the peoples of the world think those responsible might be held accountable...
 
-=== Nope ===
+==== Nope ====
 
 Turns out when everyone on the jury committed the crime, they find that it was all an accident. The people are angry and line the streets, laying siege to the venue. No one enters or leaves. Dron calls the party to help resolve the situation.
 
-=== Char Marks Returns ===
+==== Char Marks Returns ====
 
 An armed group has somehow made it into the venue. They're dressed in comically overdone colonial outfits, and masks depicting a white man with a powdered wig. One is actually wearing a powdered wig and a ton of makeup. He looks exactly like [[wiki:orkridge:Char Marks]]. The only problem is that [[wiki:orkridge:Azusa Actor]] is right there with the players as herself, so who could this be?
 
-=== The Ultimatum ===
+==== The Ultimatum ====
 
 "Ladies and gentle-men. The catering is here!"
 "Let's get past the niceties. The people outside won't let you out, and a lot of you want to use force against them because you're guilty... of what they're accusing you of... You know who you are. And the rest of you "innocent bystanders" are no better. You're in the same boat."
 "I've come to administer pre-emptive justice. You want to make it out of this building alive? Convict and appropriately punish the appropriate individuals. Try anything funny, and somewhere in this building, a WMD will remove it from the face of Faerun just like Wave-Echo cave."
 
 It is at this point that several officials speak out and begin to leave through the aisles, saying that they're going to contact the Oosah military. "Char Marks" casts Aganazzars Scorcher, immediately roasting two of the people who tried to leave, and leaving one badly burned. "Catering everybody. Get to work."
+
+==== The Sides ====
+
+The balance of this encounter is dependent on who the party sides with. That side needs to be weaker to make any fight that happens fair. I achieve this by altering the number of minions each side has. Alternatively, don't make the fight fair.
+
+=== Char Marks ===
+
+On the one hand, the people outside support Char Marks (Leosh Teller) and his position. Leosh is an Archmage with an expanded spell list. He also has a group of 12 "Bandit Captain"s under his command, spread about the building to keep people under control. He has also hidden a device underneath the sub-basement of the facility.
+
+=== Oosah ===
+
+On the other hand this makes Oosah look weak. If they cannot keep financiers safe, financiers will find other places to do business. Thus, security forces, even though they might understand the plight of the people, will do everything they can to take Char Marks down.
+
+5 plainclothes officers happen to be in attendance as +1s. 4 are "Martial Arts Adept"s. The other is "Nine-Fingers Keene."
