@@ -20,7 +20,7 @@ For a short while, the peoples of the world think those responsible might be hel
 
 ==== Nope ====
 
-Turns out when everyone on the jury committed the crime, they find that it was all an accident. The people are angry and line the streets, laying siege to the venue. No one enters or leaves. Dron calls the party to help resolve the situation.
+Turns out when a lot of the jurors are in on the grift, they don't convict. The conference seems to be heading towards governments bailing banks out. The people are angry and line the streets, laying siege to the venue. No one enters or leaves. Dron calls the party to help resolve the situation.
 
 ==== Char Marks Returns ====
 
@@ -36,7 +36,7 @@ It is at this point that several officials speak out and begin to leave through 
 
 ==== The Sides ====
 
-The balance of this encounter is dependent on who the party sides with. That side needs to be weaker to make any fight that happens fair. I achieve this by altering the number of minions each side has. Alternatively, don't make the fight fair.
+This encounter is basically guaranteed to end with someone rushing Char Marks, and him hitting the detonator while saying something cool. That being said, you might still want there to be a neat fight, so you might need to balance the number of henchmen on each side.
 
 === Char Marks ===
 
@@ -47,3 +47,7 @@ On the one hand, the people outside support Char Marks (Leosh Teller) and his po
 On the other hand this makes Oosah look weak. If they cannot keep financiers safe, financiers will find other places to do business. Thus, security forces, even though they might understand the plight of the people, will do everything they can to take Char Marks down.
 
 5 plainclothes officers happen to be in attendance as +1s. 4 are "Martial Arts Adept"s. The other is "Nine-Fingers Keene."
+
+==== A Flash of Light ====
+
+After Leosh triggers the device, the whole city is teleported into The Mourning (Eberron). It seems that a material that Leosh thought was inert, and used as a filler, was not, and instead of affecting the building, it affected the city.
