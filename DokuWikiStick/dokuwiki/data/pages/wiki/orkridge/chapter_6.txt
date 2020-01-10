@@ -29,7 +29,7 @@ On the second day, an airship is spotted North-East of the city. It seems to be 
 
 The ships arrive nearly at the same time, and the leaders, Nicole Zeph and Keira Cane are both are mostly civil towards each other, but each primarily ignores the other's claim to any authority, which obviously produces some tension. If things come to a boil, both manage to cool themselves off, and report the situation to their superiors. Rather suspiciously, after this happens, they're both suddenly on the same page.
 
-What actually happened is that they both got instructions from their corporate overlord [[wiki:orkridge:Bangcraft]] to work together and bring the discussion to Sharn, where economic interests can better exploit the situation.
+What actually happened is that they both got instructions from their corporate overlord [[wiki:orkridge:Laurens Ir'Tain]] to work together and bring the discussion to Sharn, where economic interests can better exploit the situation.
 
 New Elfington will temporarily be considered sovereign. During that time period, it needs to send envoys to Sharn to discuss this event with officials from each nation.
 
@@ -39,11 +39,13 @@ New Elfington will temporarily be considered sovereign. During that time period,
 The party is taken by airship to the nearest train station, at which point they transfer to a Lightning Rail. During this transfer, the party is swarmed with reporters. One manages to sneak a bug into the armor of the most important looking party member.
 
 
-This train is not only carrying passengers, but also some precious cargo, a clone for the fabulously wealthy [[wiki:orkridge:laurens_ir_tain| Laurens ir'Tain]]. This clone is a target for an agent of House Thuranni, who wishes to sabotage it to get more leverage over Bangcraft. See [[wiki:orkridge:Plot Against Laurens]].
+This train is not only carrying passengers, but also some precious cargo, a clone for the fabulously wealthy [[wiki:orkridge:laurens_ir_tain| Laurens ir'Tain]]. This clone is a target for an agent of House Thuranni, who wishes to sabotage it to get more leverage over Laurens. See [[wiki:orkridge:Plot Against Laurens]].
 
 ====== Sharn ======
 
 {{wiki:sharn2.jpg}}
+
+Sharn is... huge, specifically tall. It's a full 2km high at the tip of its grounded towers, and another kilometer up to the top of the floating towers.
 
 The party arrives at Terminus station, Sharn, and is immediately escorted to "The Cornerstone" in "Middle Tavick's Landing."
 
