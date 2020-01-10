@@ -12,7 +12,7 @@ The bubble pops, and shit rolls downhill as always. Hundreds of thousands lose t
 
 ==== And the Fall ====
 
-The crash spills into other nations, affecting the entire globe. A conference is arranged in New Elfington to figure out a global response to this crisis. Representatives from governments and financial institutions globally show up for the largest financial conference in the history of Faerun.
+The crash spills into other nations, affecting the entire globe. A conference is arranged in New Elfington, at the prestigious "Castle Bravo" to figure out a global response to this crisis. Representatives from governments and financial institutions globally show up for the largest financial conference in the history of Faerun.
 
 ==== Hope ====
 
@@ -42,12 +42,23 @@ This encounter is basically guaranteed to end with someone rushing Char Marks, a
 
 On the one hand, the people outside support Char Marks (Leosh Teller) and his position. Leosh is an Archmage with an expanded spell list. He also has a group of 12 "Bandit Captain"s under his command, spread about the building to keep people under control. He has also hidden a device underneath the sub-basement of the facility.
 
+== Complications ==
+  * The Oosah operatives have been slowly taking down the few henchmen that he has. Why have they not reported back yet?
+  * Someone is trying to escape, and Char doesn't want any more violence.
+  * Oosah forces have cut power to the building.
+
+
 === Oosah ===
 
 On the other hand this makes Oosah look weak. If they cannot keep financiers safe, financiers will find other places to do business. Thus, security forces, even though they might understand the plight of the people, will do everything they can to take Char Marks down.
 
 5 plainclothes officers happen to be in attendance as +1s. 4 are "Martial Arts Adept"s. The other is "Nine-Fingers Keene."
 
+== Complications ==
+  * The group is not working on a resolution fast enough, and Char's henchmen are getting rough with people.
+  * An officer was found out. Now everyone is being searched.
+  * The Oosah military is getting ready to breach, and they don't believe Char's threat.
+
 ==== A Flash of Light ====
 
-After Leosh triggers the device, the whole city is teleported into The Mourning (Eberron). It seems that a material that Leosh thought was inert, and used as a filler, was not, and instead of affecting the building, it affected the city.
+After Leosh triggers the device, the whole city is teleported into The Mourning (Eberron). It seems that a material ([[https://en.wikipedia.org/wiki/Castle_Bravo | Lichium]]) that Leosh thought was inert, and used as a filler, was not, and instead of affecting just the building, it blasted the entire city.
