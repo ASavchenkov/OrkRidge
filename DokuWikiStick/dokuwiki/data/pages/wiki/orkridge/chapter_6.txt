@@ -60,7 +60,9 @@ One thing that mages might want to do is research the magic that caused New Elfi
 
 For this purpose, they likely need to travel to [[https://eberron.fandom.com/wiki/The_University_of_Wynarn |The University of Wynarn]] or [[https://eberron.fandom.com/wiki/Arcanix | Arcanix]]
 
-Some very hard research, and perhaps friend making, reveals to the players that the spell "Teleportation Circle" is limited to travel within one plane... normally. one can upcast it at level 7 to travel between planes, and level 8 to travel anywhere.
+Some very hard research, and perhaps friend making, reveals to the players that the spell "Teleportation Circle" is limited to travel within one plane... normally. one can upcast it at level 6 to teleport physical objects, level 7 to travel between planes, and level 8 to travel anywhere.
+
+Players might also finally figure out the internal workings of The Device. They might learn that focusing more than one teleportation circle on a material with magical resonance abilities can enhance the range of the spell.
 
 ==== The Race of Eight Winds ====
 
