@@ -58,7 +58,10 @@ The party arrives at Terminus station, Sharn, and is immediately escorted to "Th
 
 One thing that mages might want to do is research the magic that caused New Elfington to teleport here, (or of course anything else). Morgrave University has an incredibly stocked library, though it's focus has less to do with arcana and more with distant lands, planets, and history. Most books have been scavenged from fires during the war, and both authors and experts are often dead. Players are unlikely to find direct answers to their questions about particularly powerful magic there.
 
-For this purpose, they likely need to travel to [[https://eberron.fandom.com/wiki/The_University_of_Wynarn |The University of Wynarn]].
+For this purpose, they likely need to travel to [[https://eberron.fandom.com/wiki/The_University_of_Wynarn |The University of Wynarn]] or [[https://eberron.fandom.com/wiki/Arcanix | Arcanix]]
+
+Some very hard research, and perhaps friend making, reveals to the players that the spell "Teleportation Circle" is limited to travel within one plane... normally. one can upcast it at level 7 to travel between planes, and level 8 to travel anywhere.
+
 ==== The Race of Eight Winds ====
 
 Sharn is known in particular for it's penchant for extreme sports. One that's coming up in particular is the [[https://eberron.fandom.com/wiki/The_Race_of_Eight_Winds| Race of Eight Winds]], modified from the canonical form to be far more inclusive to participants. It's also not strictly legal, though no law enforcement agency dares, or even wants to, interfere.
