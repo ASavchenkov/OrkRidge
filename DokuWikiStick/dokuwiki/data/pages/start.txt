@@ -11,5 +11,3 @@ Both can be played independently, but they are best played together, or one afte
 ====== Organization ======
 
 This wiki is designed to be a guide for a DM, but because this adventure comes from a real game that I ran, the actual events will also be included to provide context for design decisions that may have made sense for my particular group of players, but not for yours.
-
-[[wiki:timelineTest|wiki:timelineTest]]
