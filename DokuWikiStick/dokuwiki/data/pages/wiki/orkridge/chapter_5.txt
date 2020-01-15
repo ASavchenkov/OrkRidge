@@ -40,10 +40,10 @@ This encounter is basically guaranteed to end with someone rushing Char Marks, a
 
 === Char Marks ===
 
-On the one hand, the people outside support Char Marks (Leosh Teller) and his position. Leosh is an Archmage with an expanded spell list. He also has a group of 12 "Bandit Captain"s under his command, spread about the building to keep people under control. He has also hidden a device underneath the sub-basement of the facility.
+On the one hand, the people outside support Char Marks (Leosh Teller) and his position. Leosh is an Archmage with an expanded spell list. He also has a group of 12 **Bandit Captain**s under his command, spread about the building to keep people under control. He has also hidden a device in the sub-basement of the facility, guarded by the simulacrum and two of the **Bandit Captain**s
 
 == Complications ==
-  * The Oosah operatives have been slowly taking down the few henchmen that he has. Why have they not reported back yet?
+  * The Oosah operatives have been slowly taking down the few henchmen that he has. Why have they not reported back yet? (Ho Ho Ho. Now I have a shotgun)
   * Someone is trying to escape, and Char doesn't want any more violence.
   * Oosah forces have cut power to the building.
 
@@ -52,7 +52,7 @@ On the one hand, the people outside support Char Marks (Leosh Teller) and his po
 
 On the other hand this makes Oosah look weak. If they cannot keep financiers safe, financiers will find other places to do business. Thus, security forces, even though they might understand the plight of the people, will do everything they can to take Char Marks down.
 
-5 plainclothes officers happen to be in attendance as +1s. 4 are "Martial Arts Adept"s. The other is "Nine-Fingers Keene."
+5 plainclothes officers happen to be in attendance in disguise. 4 are "Martial Arts Adept"s. The other is **Nine-Fingers Keene**.
 
 == Complications ==
   * The group is not working on a resolution fast enough, and Char's henchmen are getting rough with people.
