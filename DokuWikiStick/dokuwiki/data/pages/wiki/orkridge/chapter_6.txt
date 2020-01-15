@@ -45,7 +45,7 @@ The party also makes a group stealth roll.
   * DC 22: The Displacer Beast takes note of them and circles around to ambush them instead.
   * DC 18: The giraffe also notices them, turns, and strikes a defensive pose.
 
-The Giraffe has an AC of 17, while the Displacer Beast's AC has been increased to 18. These high AC's are a result of this new meatal armor that they seem to both have. The displacer beasts HP is doubled and it's size goes up by 1.
+The Giraffe has an AC of 17, while the Displacer Beast's AC has been increased to 18. These high AC's are a result of this new meatal armor that they seem to both have. The displacer beast has double the hit dice and it's size goes up by 1.
 ===== First Contact =====
 
 On the second day, an airship is spotted North-East of the city. It seems to be headed right for them. This is a house of the Lyrandar airship sent by the nation of [[https://eberron.fandom.com/wiki/Thrane | Thrane]]. Within hours a second airship is spotted behind and to the South of it. This one was sent by [[https://eberron.fandom.com/wiki/Breland | Breland]]. Both border the Mournland, and both want to claim domain over whatever the hell is happening here. Other nations will follow, but their spies have yet to hear of this development.
