@@ -1,4 +1,4 @@
-[[wiki:orkridge:New Elfington]] was teleported to Eberron, specifically into the heart of the Mournland, next to K[[wiki:orkridge:Kalazart]]. The good news is that much like [[wiki:orkridge:the Lost Peaks]], the ground level of New Elfington is higher than the ground level of where it was teleported to, about 1 KM above, meaning the inhabitants of the city are safe from the Gray Mist.
+[[wiki:orkridge:New Elfington]] was teleported to Eberron, specifically into the heart of the Mournland, next to [[wiki:orkridge:Kalazart]]. The good news is that much like [[wiki:orkridge:the Lost Peaks]], the ground level of New Elfington is higher than the ground level of where it was teleported to, about 1 KM above, meaning the inhabitants of the city are safe from the Gray Mist.
 
 Far away, at [[https://eberron.fandom.com/wiki/Arythawn_Keep | Arythawn Keep]], Thranian scout officer [[wiki:orkridge:Ogma Fronis]] is called to the watchtower.
 
@@ -6,13 +6,13 @@ Far away, at [[https://eberron.fandom.com/wiki/Arythawn_Keep | Arythawn Keep]], 
 
 "Sound the alarm. Send animal messengers to Vathirond and Aruldsk. Tell Vathirond to fortify for an unknown threat, and to send for help. The Mournland is... moving."
 
-An eagle makes it to Vathirond, reaching a human. That human relays the message, and just barely makes it on the train headed to Starilaskur. When she gets there, she immediately passes the information on to an elven mage that casts sending to a military official in Sharn.
+An eagle makes it to Aruldsk, an owl to Vathirond. In Vathirond, a Brelish spy overhears the talk of the town, and barely makes it on the train headed to Starilaskur. When she gets there, she immediately passes the information on to an elven mage that casts sending to a military official in Sharn.
 
 ====== New Elfington ======
 
-It is only to the East that anyone can see land not covered in this Gray Mist.
+It is only to the West that anyone can see land not covered in this Gray Mist, and even then it is so far on the horizon that one might think it to be a hallucination.
 
-The contingent of Oosah military that happened to be in New Elfington, led by Dron at the time rapidly institutes martial law. Citizens are obviously terrified of what happened. Leosh Teller and his crew are jailed for terrorism, and Dron enlists the party in taking on dangerous tasks.
+The contingent of Oosah military that happened to be in New Elfington, led by Dron at the time rapidly institutes martial law. Citizens are obviously terrified of what happened. Leosh Teller escapes and his crew is jailed for terrorism, and Dron enlists the party in taking on dangerous tasks.
 
 ===== Vagrants and Activists =====
 
@@ -68,9 +68,19 @@ This train is not only carrying passengers, but also some precious cargo, a clon
 
 {{wiki:sharn2.jpg}}
 
-Sharn is... huge, specifically tall. It's a full 2km high at the tip of its grounded towers, and another kilometer up to the top of the floating towers.
+Sharn is... huge, specifically tall. It's a full 2km high at the tip of its grounded towers, and another kilometer up to the top of the floating towers. Beside that, it's also 7 km in diameter.
 
-The party arrives at Terminus station, Sharn, and is immediately escorted to "The Cornerstone" in "Middle Tavick's Landing."
+The party arrives at Terminus station, Sharn, and is immediately escorted to **The Cornerstone** in **Middle Tavick's Landing**., after having been assailed by paparazzi. 
 
 "Your accomodations have been taken care of, a gesture of goodwill from house Ghallanda. The hearings and meetings will begin tomorrow."
 
+===== Heated Debate =====
+
+The party is invited to the highest towers to begin the hearings. Everyone has something they want out of the situation, including New Elfington, hence the entourage they sent.
+
+  * [[wiki:orkridge:New Elfington]] just wants to get the city back home where it was.
+  * **New Cyre** believes new Elfington to be the promised land. A city within Cyre, safe from the Gray mist. They actually want to emigrate there and start fighting against the Gray Mist.
+  * **Breland** wants to set up businesses there and make a lot of profit off of looting Cyre beneath the Mist.
+  * **Thrane**: The Sacred Flame claims this to be the work of evil forces. No one is to be let in or out until they have deemed the situation stable and free of demonic influence.
+  * **Aundair** just wants to send its people to New Elfington to do some research.
+  * **Everyone** puts 2 and 2 together at some point, and realizes that the "devices" used in the war were not purely destructive. They teleport to potentially livable places. The rush is on to rediscover this technology, and use it for both military and civil purposes.
