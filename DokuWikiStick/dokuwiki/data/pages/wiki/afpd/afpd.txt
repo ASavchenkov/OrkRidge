@@ -25,3 +25,5 @@ None of these corporations are above underhanded subterfuge, especially since so
 [[wiki:afpd:Cyberware Black Market|Cyberware Black Market]]
 
 Dylan works for Cyberpunk LAPD
+
+[[wiki:afpd:Combat]]

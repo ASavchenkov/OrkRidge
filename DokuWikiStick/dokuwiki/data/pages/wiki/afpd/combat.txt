@@ -1,0 +1,22 @@
+Here we try to build a tactical combat system that works with any PBTA system. Core principles are:
+
+  * 2d6 roll when making a move.
+  * Generality. It should be possible to plug this into any PBTA system.
+  * precision and simplicity in everything: Effects, movement, and status.
+  * GM continues not to roll dice. Combat turns end up being chess like where certain characters could potentially move more often than others.
+
+
+====== Basic Moves ======
+
+These are moves that everyone has by default.
+
+  * **Run for it:**: Move four squares with some objective in mind. This might be cover, escape, or an item. What this objective is determines appropriate GM responses.
+  * **Get it Done:**: Any fiction that is better described by the base PBTA moves. Simply use the original system rules for this action.
+  * **Use Weapons:** You have a weapon, even if it is just your fist. Use any of the moves dictated by the weapon.
+  * **Tackle:** On a success, the only thing the target can do is attempt to escape.
+
+====== Weapons ======
+
+Combat is mostly carried out through the use of weapons, whether it be firearms, swords, pikes, bows, laser guns, etc.
+
+  * **Pointy Thing:** On a success, the target takes 2 harm.
