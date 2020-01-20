@@ -5,6 +5,16 @@ Here we try to build a tactical combat system that works with any PBTA system. C
   * precision and simplicity in everything: Effects, movement, and status.
   * GM continues not to roll dice. Combat turns end up being chess like where certain characters could potentially move more often than others.
 
+The more I work on this, the more I realize tactical gameplay just doesn't work in PBTA since it's not actually designed as a "game." Unlike chess, or even other TTRPGs, the only thing a party can do to increase their chances of achieving their objective is reduce the number of rolls made, and increase the stats used to make those rolls. The level of success a party achieves is determined almost entirely by the dice, and the players merely control what those dice mean in fiction.
+
+This means that certain core PBTA rules have to be broken for this system to be fun. A well positioned and tactically effective party should be able to mitigate the effects of poor rolls. I have yet to acheive this.
+
+====== GM Moves ======
+
+In tactical gameplay, the opponents options and actions should to a certain extent be predictable.
+
+===== Hard Moves =====
+If a player rolls a failure, or a mixed success and the team is already vulnerable in some way, such as through the result of a previous mixed success, or through their own poor decision making, the GM can choose to have an appropriate opponent do harm as established by the fiction.
 
 ====== Basic Moves ======
 
@@ -12,11 +22,31 @@ These are moves that everyone has by default.
 
   * **Run for it:**: Move four squares with some objective in mind. This might be cover, escape, or an item. What this objective is determines appropriate GM responses.
   * **Get it Done:**: Any fiction that is better described by the base PBTA moves. Simply use the original system rules for this action.
-  * **Use Weapons:** You have a weapon, even if it is just your fist. Use any of the moves dictated by the weapon.
+  * **Use Weapon:** You have a weapon, even if it is just your fist. Use any of the moves dictated by the weapon.
   * **Tackle:** On a success, the only thing the target can do is attempt to escape.
+  * **Hide:** You've gotten to cover, or gotten out of their sight.
+    * **Success:** Take +1 to your next move.
+    * **Mixed:** The GM makes a soft move. Examples include:
+      * **Change targets:** They divert their attention to one of your friends.
+
 
 ====== Weapons ======
 
 Combat is mostly carried out through the use of weapons, whether it be firearms, swords, pikes, bows, laser guns, etc.
 
-  * **Pointy Thing:** On a success, the target takes 2 harm.
+  * **Pointy Thing:**
+    * **Success:** The target takes n harm.
+    * **Mixed:** The GM makes a soft move. Examples include:
+      * **Everybody gets cut:** Before you got them, they got you.
+      * **Disarmed:** Sure you got them, but your knife is all the way over there now. 
+
+  * **Gun:** **Success:** The target takes n harm.
+    * **Mixed:** The GM makes a soft move. Examples include:
+      * **Jam:** It won't work until you try to unjam it.
+      * **Trigger Discipline:** You sure opened them up. Now you're out of ammo.
+      * **Tinnitus:** You really shouldn't use those things indoors. -1 to any rolls requiring hearing for a GM chosen time period.
+
+  * **AOE:** **Success:** The targets takes n harm.
+    * **Mixed:** The GM makes a soft move. Examples include:
+      * **Practice Throwing:** the AOE actually lands in an adjacent square of the GMs choosing.
+      * **Telegraphed:** They saw it coming from a mile away. Everyone managed to get down. reduce harm by -1.
