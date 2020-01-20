@@ -19,6 +19,8 @@ The contingent of Oosah military that happened to be in New Elfington, led by Dr
 
 Eberron is a more advanced simulation. It has slightly different physics, graphical processing, kinematics. These minute differences in the linkage between the mind of an individual and the world around it cause problems for the mind. Some can adapt, as the Warforged did, while others suffer increasingly horrible mental damage over the months to come.
 
+The very first pieces of this information should be hinted at while they're still in new Elfington, but the first real alarm should be raised when they're already in Sharn.
+
   - First some minor difficulty focusing.
   - A minor headache.
   - Nausea.
@@ -80,8 +82,11 @@ New Elfington will temporarily be considered sovereign. During that time period,
 The party is taken by airship to the nearest train station, at which point they transfer to a Lightning Rail. During this transfer, the party is swarmed with reporters. One manages to sneak a bug into the armor of the most important looking party member.
 
 
-This train is not only carrying passengers, but also some precious cargo, a clone for the fabulously wealthy [[wiki:orkridge:laurens_ir_tain| Laurens ir'Tain]]. This clone is a target for an agent of House Thuranni, who wishes to sabotage it to get more leverage over Laurens. See [[wiki:orkridge:Plot Against Laurens]].
+This train is not only carrying passengers, but also some precious cargo the identity of which is not revealed to the party. It is a clone for the fabulously wealthy [[wiki:orkridge:laurens_ir_tain| Laurens ir'Tain]]. This clone is a target for an agent of House Thuranni, who wishes to sabotage it to get more leverage over Laurens. See [[wiki:orkridge:Plot Against Laurens]].
 
+The first sign that something is wrong is when this agent falls into a catatonic state as the result of the spell **Magic Jar**. It would be hard to identify this spell however, because the magic jar is not on his person, but in his room.
+
+The agent then possesses the butler, slowly maneuvering him to the back of the carriage so as to take down the necromancy barrier, until he finally releases the butler back into his body, and projects his soul into the body of Lauren[[wiki:orkridge:laurens_ir_tain]].
 ====== Sharn ======
 
 {{wiki:sharn2.jpg}}
