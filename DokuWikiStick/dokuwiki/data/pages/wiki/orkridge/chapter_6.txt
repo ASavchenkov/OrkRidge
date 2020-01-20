@@ -13,6 +13,8 @@ An eagle makes it to Aruldsk, an owl to Vathirond. In Vathirond, a Brelish spy o
 It is only to the West that anyone can see land not covered in this Gray Mist, and even then it is so far on the horizon that one might think it to be a hallucination.
 
 The contingent of Oosah military that happened to be in New Elfington, led by Dron at the time rapidly institutes martial law. Citizens are obviously terrified of what happened. Leosh Teller escapes and his crew is jailed for terrorism, and Dron enlists the party in taking on dangerous tasks.
+
+
 ===== Effects of Eberron on Oosahns =====
 
 Eberron is a more advanced simulation. It has slightly different physics, graphical processing, kinematics. These minute differences in the linkage between the mind of an individual and the world around it cause problems for the mind. Some can adapt, as the Warforged did, while others suffer increasingly horrible mental damage over the months to come.
@@ -23,6 +25,12 @@ Eberron is a more advanced simulation. It has slightly different physics, graphi
   - Splitting migranes
   - Loss of coordination.
   - Various madnesses.
+===== Children on the Edge =====
+
+At some point the party likely gets to the edge of the plateau. They notice some children pretty close to the edge.
+
+A DC 15 Survival check reveals that this section of cliff is unstable, and going to fall over at any moment.
+A DC 15 Perception check reveals to the players that some cracking noise is happening underneath. This gives them even less time to save the kids though.
 
 ===== Vagrants and Activists =====
 
