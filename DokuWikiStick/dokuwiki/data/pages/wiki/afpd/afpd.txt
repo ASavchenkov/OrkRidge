@@ -14,7 +14,7 @@ Dark Ocon has rebranded into the company [[wiki:afpd:Academica|Academica]] and h
 
 None of these corporations are above underhanded subterfuge, especially since socioeconomic inequality is the focus of most politics, and politicians are in the pockets of the larger corporations. War between LLCs is as frequent if not more so than it is between rival nations, and if you want to make money, you have to get involved.
 
-[[wiki:afpd:Fawkes News]] owns most media outlets, [[wiki:afpd:White Claw Times|White Claw Times]]
+[[wiki:afpd:Fawkes News]] owns most media outlets. The [[wiki:afpd:White Claw Times|White Claw Times]] is the only independent source left.
 
 [[wiki:afpd:Mission 1]]
 
@@ -22,8 +22,8 @@ None of these corporations are above underhanded subterfuge, especially since so
 
 [[wiki:afpd:Mission 3]]
 
-[[wiki:afpd:Cyberware Black Market|Cyberware Black Market]]
+[[wiki:afpd:Mission 4]]
 
-Dylan works for Cyberpunk LAPD
+[[wiki:afpd:Cyberware Black Market|Cyberware Black Market]]
 
 [[wiki:afpd:Combat]]
