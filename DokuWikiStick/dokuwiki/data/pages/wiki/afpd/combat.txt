@@ -4,17 +4,19 @@ Here we try to build a tactical combat system that works with any PBTA system. C
   * Generality. It should be possible to plug this into any PBTA system.
   * precision and simplicity in everything: Effects, movement, and status.
   * GM continues not to roll dice. Combat turns end up being chess like where certain characters could potentially move more often than others.
+  * Successes should provide real advantages that, depending on circumstance outweigh the risks.
 
-The more I work on this, the more I realize tactical gameplay just doesn't work in PBTA since it's not actually designed as a "game." Unlike chess, or even other TTRPGs, the only thing a party can do to increase their chances of achieving their objective is reduce the number of rolls made, and increase the stats used to make those rolls. The level of success a party achieves is determined almost entirely by the dice, and the players merely control what those dice mean in fiction.
-
-This means that certain core PBTA rules have to be broken for this system to be fun. A well positioned and tactically effective party should be able to mitigate the effects of poor rolls. I have yet to acheive this.
+An individual or team advantage (abstract) should primarily vest as more options, some of which may be more powerful, but niche and difficult to access.
 
 ====== GM Moves ======
 
 In tactical gameplay, the opponents options and actions should to a certain extent be predictable.
 
 ===== Hard Moves =====
-If a player rolls a failure, or a mixed success and the team is already vulnerable in some way, such as through the result of a previous mixed success, or through their own poor decision making, the GM can choose to have an appropriate opponent do harm as established by the fiction.
+If a player rolls a failure, or a mixed success and the team is already vulnerable in some way, such as through the result of a previous mixed success, or through their own poor decision making, the GM can choose to:
+
+  * Do harm as established by the fiction.
+  * Take some objective.
 
 ====== Basic Moves ======
 
