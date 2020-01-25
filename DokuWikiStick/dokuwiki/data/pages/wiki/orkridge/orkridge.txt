@@ -36,9 +36,7 @@ Technology in [[wiki:orkridge:Eberron]] stays pretty close to the published mate
 
 Levels 5-6
 
-The adventure starts with the players heading to and exploring a cave dungeon. Any level 4-5 dungeon near Neverwinter is suitable. I personally used the Cave of Echoes from [[https://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_starterset|The Lost Mines of Phandelver]]. They discover that the dungeon has recently been disturbed, and find a large spherical device with dozens of magical glyphs on it. They're accosted by [[wiki:orkridge:Eddard Teller]] and his entourage. The party is a loose end for his secretive weapon design group, and Teller will leave the capture of the party to his crew. Regardless of result, the players witness the weapon in action, as the cave system and mountain above it vanish into thin air, leaving a 2 mile wide crater.
-
-Either in chains, or blodied and wanted by the Gerbaut military, the party will need to somehow end up in [[wiki:orkridge:Neverwinter]]. Circumstance puts them in contact with the [[wiki:orkridge:Resistance]]. The party will be asked to perform several acts of subterfuge, including stealing some advanced weaponry, and destroying some advanced technology. Their hideout is discovered sooner or later, and one of the wizards leading the Resistance creates a teleportation circle for them to escape to Oosah and notify them of this new superweapon. The party is the only group to escape cleanly however, and all but two wizards are captured by the Gerbaut.
+The adventure starts with the players heading to and exploring a cave dungeon. They stumble upon a Gerbaut secret weapon, and are embroiled in an [[wiki:orkridge:esania| Esanian]] resistance movement in Neverwinter, culminating in their hairy escape to The Oosahn city of New Elfington.
 
 ===== Chapter 2 New Elfington=====
 [[wiki:orkridge:chapter_2]]
