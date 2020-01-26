@@ -1,31 +1,38 @@
-====== Overview ======
+====== Ork Ridge ======
 
-"Ork Ridge" is an adventure designed for player characters between levels 5-20 about a world that is changing. Levels 5-10 are set in Faerun, but in name and shape only. Levels 11-15 are set in [[wiki:orkridge:Eberron]], which stays closer to the published material.
+"Ork Ridge" is an adventure focused on the "what if?" of a Faerun going through an industrial and cultural revolution. Nationalistic governments seek to dominate the world, and talented magical talent is tapped to create horrible weapons. Levels 5-10 follow the players as they discover the creation of such a weapon, and try to stop its further development and use. Levels 11-15 then take the players, and the entire city they're in, to [[wiki:orkridge:Eberron]], where this city's mayor enlists them in securing the future of his people.
 
+====== Changes to Faerun ======
 ===== Geopolitics =====
 
-Traditional serfdoms and kingdoms no longer dominate the land, instead having recently been replaced by oligarchies, dictatorships, and in some rare cases, real democracy. Nations are no longer defined by race. Elves, Dwarves, and orcs can be found most anywhere. Racism is definitely an issue, but there are rarely groups of one race around anymore. It's just not economically sane anymore.
+Traditional serfdoms and kingdoms no longer dominate the land, instead having recently been replaced by oligarchies, dictatorships, and in some rare cases, real democracy. Nations are no longer defined by race. Elves, Dwarves, and orcs can be found most anywhere. Bigotry is still rampant, but there are rarely groups of one race around anymore. It's just not economically sane anymore.
 
-The three most important nations of Faerun are [[wiki:orkridge:Esania]], [[wiki:orkridge:Gerbaut]], and [[wiki:orkridge:Oosah]]. These nations are the Faerun equivalents of WW2 France, Germany, and the USA. At the start of the adventure, Gerbaut is occupying Esania, and Oosah is preparing to "liberate" Esania.
+The three nations this adventure focuses on are: Esania, Gerbaut, and Oosah.
+These nations are more or less the Faerun equivalents of WW2 France, Germany, and the USA. At the start of the adventure, Gerbaut is occupying Esania, and Oosah is preparing to "liberate" Esania.
 
-Geopolitics are more true to the book in Eberron.
+==== Esania ====
 
-[[wiki:OrkRidge:Geopolitics|More]]
+Esanian territory stretches from the Reghed Glacier to just 50 miles North of [[wiki:orkridge:Waterdeep]], and just far enough East so to contain the entirety of the High Forest. Esania was the first functional democracy on all of Faerun, and was quite successful for it. It's capital is [[wiki:orkridge:Neverwinter]]. It is currently occupied by the Gerbaut.
+
+==== Gerbaut ====
+
+Due to a complex set of geopolitical constraints, the Gerbaut found imperial expansion necessary. The first nation they went for was Esania. Victory was rapid and decisive.
+
+==== Oosah ====
+
+A plutocratic federation of nations along the East coast of Faerun including Thay, Oosah is not happy about the Gerbaut having what amounts to a monopoly over the Northern Sword Coast. Esania must be liberated... for a price of course.
+
+Oosah is home to [[wiki:orkridge:New Elfington]], that serves as a spot for the players to rest mentally from the war effort.
 
 ===== Technology =====
 
-==== Faerun ====
+We have advanced into the industrial era. Steam power has revolutionized transportation. Steam rail connects particularly close economic centers at a whopping 30 miles per hour. Steam ships now dominate national navies, and have made their way into the commercial sector too.
 
-We have advanced into the industrial era. Steam power has revolutionized transportation. Steam rail connects particularly close economic centers at a whopping 30 miles per hour. Steam ships now dominate national militaries, and have made their way into the commercial sector too.
+The Bessemer process produces high quality steel at mind boggling prices. It's even being used for high rise construction in cities such as [[wiki:orkridge:Neverwinter]] where land is at a premium.
 
-The Bessemer process produces high quality steel at mind boggling prices. It's even being used for high rise construction in cities where land is at a premium.
+Firearms have made it possible for even the average militia to combat fully armored knights, though no self respecting marksman would be caught dead with one in their hands.
 
-Firearms have made it possible for even the average commoner to combat a fully armored knight, though no self respecting marksman would be caught dead with one in their hands.
-
-=== Eberron ===
-
-Technology in [[wiki:orkridge:Eberron]] stays pretty close to the published material.
-
+As the adventure unfolds, a number of radical advancements will be made, from repeating firearms, to electricity, and the horrible weapon being developed at Ork Ridge itself.
 
 [[wiki:OrkRidge:Technology|More]]
 
@@ -50,14 +57,14 @@ Unfortunately, teleportation circle capable ships are not yet in position, so th
 
 Level 9
 
-The big day of the invasion has come, and the party is to head behind enemy lines to find the resistance members, and get the location of the lab in which this weapon is built. This requires that they travel East to the High Forest, where resistance members are likely held in the [[wiki:orkridge:Ghoulash]]. This plan takes them through war torn Neverwinter, Neverwinter Wood, Triboar, and finally the High Forest, where they find the Goulash and the Resistance.
+The big day of the liberation has come, and the party is to head behind enemy lines to find the resistance members, and get the location of the lab in which this weapon is built. This requires that they travel East to the [[wiki:orkridge:The Lost Peaks]], where resistance members are likely held in the Ghoulash. This plan likely takes them through war torn Neverwinter, Neverwinter Wood, Triboar, and finally the High Forest, where they find the Goulash and the Resistance.
 
 ===== Chapter 4 Ork Ridge=====
 [[wiki:orkridge:chapter_4]]
 
 Level 9
 
-Upon rescuing the captured Resistance members, they take refuge in a cave system in [[wiki:orkridge:the_lost_peaks]]. The nature of this strange geological formation is revealed to them, as is the location of [[wiki:orkridge:Ork Ridge (location)|Ork Ridge]], the laboratory where the weapon was created. They must then deal with Eddard Teller's plans for this weapon.
+Upon rescuing the captured Resistance members, they take refuge in a cave system in [[wiki:orkridge:the_lost_peaks]]. The nature of this strange geological formation is revealed to them, as is the location of Ork Ridge, the laboratory where the weapon was created. They must then deal with Eddard Teller's plans for this weapon.
 
 ===== Chapter 4.5 interlogue =====
 [[wiki:orkridge:chapter_4.5]]
@@ -71,7 +78,7 @@ The war isn't over. The Oosah has the upper hand, but the road ahead is a hard o
 
 Level 10
 
-Investment banking has gotten a bit crazy post war. CDO's wrapped in CDO's confuse investors, and when it's too late, the market crashes, and everyone loses everything. The financial and legal powers of the world are invited to New Elfington to resolve the problem at the largest financial conference to date. When it becomes obvious that the representatives are just there to serve themselves, protests and riots break loose. [[wiki:orkridge:char_marks| A terrorist]] busts in, claiming to have replicated the weapon, and threatening to use if they don't figure a real solution out. It is unfortunately necessary for the weapon to trigger, teleporting the entirety of New Elfington to [[wiki:orkridge:Eberron]]. specifically, smack dab in the center of the Mournland.
+Post War Faerun is debt hungry, and after two years of what seems to be growth, the economy collapses. Major governments and institutions hold a conference to resolve the issue, but it is attacked and held hostage by [[wiki:orkridge:Char Marks]]. It is unfortunately necessary for the weapon to trigger, teleporting the entirety of New Elfington to [[wiki:orkridge:Eberron]]. 
 
 ===== Chapter 6 Intro to Eberron=====
 [[wiki:orkridge:chapter_6]]
