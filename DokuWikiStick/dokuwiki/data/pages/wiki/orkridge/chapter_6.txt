@@ -1,4 +1,4 @@
-[[wiki:orkridge:New Elfington]] was teleported to Eberron, specifically into the heart of the Mournland, next to [[wiki:orkridge:Kalazart]]. The good news is that much like [[wiki:orkridge:the Lost Peaks]], the ground level of New Elfington is higher than the ground level of where it was teleported to, about 1 KM above, meaning the inhabitants of the city are safe from the Gray Mist.
+[[wiki:orkridge:New Elfington]] was teleported to [[wiki:orkridge:Eberron]], specifically into the heart of the Mournland, next to [[wiki:orkridge:Kalazart]]. The good news is that much like [[wiki:orkridge:the Lost Peaks]], the ground level of New Elfington is higher than the ground level of where it was teleported to, about 1 KM above, meaning the inhabitants of the city are safe from the Gray Mist.
 
 Far away, at [[https://eberron.fandom.com/wiki/Arythawn_Keep | Arythawn Keep]], Thranian scout officer [[wiki:orkridge:Ogma Fronis]] is called to the watchtower.
 
@@ -15,7 +15,7 @@ It is only to the West that anyone can see land not covered in this Gray Mist, a
 The contingent of Oosah military that happened to be in New Elfington, led by Dron at the time rapidly institutes martial law. Citizens are obviously terrified of what happened. Leosh Teller escapes and his crew is jailed for terrorism, and Dron enlists the party in taking on dangerous tasks.
 
 
-===== Effects of Eberron on Oosahns =====
+===== Effects of Eberron on Faerunians =====
 
 Eberron is a more advanced simulation. It has slightly different physics, graphical processing, kinematics. These minute differences in the linkage between the mind of an individual and the world around it cause problems for the mind. Some can adapt, as the Warforged did, while others suffer increasingly horrible mental damage over the months to come.
 
@@ -66,6 +66,20 @@ The party also makes a group stealth roll.
   * DC 18: The giraffe also notices them, turns, and strikes a defensive pose.
 
 The Giraffe has an AC of 17, while the Displacer Beast's AC has been increased to 18. These high AC's are a result of this new meatal armor that they seem to both have. The displacer beast has double the hit dice and it's size goes up by 1.
+
+==== The Town of Kalazart====
+
+A road ends in the cliff face, and extends westwards. This road leads through a ringed city. Entering the city along this road takes them through:
+  - Lower income housing.
+  - Wealthy housing,
+  - Warehouses and manufacturing.
+  - The central market.
+
+Potential soundtrack during narration: **Snarky Puppy; Even Us**.
+
+By pure coincidence, a group of warforged operating under the command of the [[https://eberron.fandom.com/wiki/The_Lord_of_Blades| Lord of Blades]] returns from a scouting expedition to determine what's going on with this new geological phenomenon that just appeared out of nowhere.
+
+If the party manages to stay hidden, they can observe the warforged as they enter a warehouse/factory. They are reporting back to the **Lord of Blades** along what seems to be a landline going South. Their message is to mobilize an aerial scout to **Kalazart**
 ===== First Contact =====
 
 On the second day, an airship is spotted North-East of the city. It seems to be headed right for them. This is a house of the Lyrandar airship sent by the nation of [[https://eberron.fandom.com/wiki/Thrane | Thrane]]. Within hours a second airship is spotted behind and to the South of it. This one was sent by [[https://eberron.fandom.com/wiki/Breland | Breland]]. Both border the Mournland, and both want to claim domain over whatever the hell is happening here. Other nations will follow, but their spies have yet to hear of this development.
@@ -77,7 +91,7 @@ What actually happened is that they both got instructions from their corporate o
 New Elfington will temporarily be considered sovereign. During that time period, it needs to send envoys to Sharn to discuss this event with officials from each nation.
 
 ====== Murder on the Lighting Rail ======
-==== (Optional) ====
+**(Optional)**
 
 The party is taken by airship to the nearest train station, at which point they transfer to a Lightning Rail. During this transfer, the party is swarmed with reporters. One manages to sneak a bug into the armor of the most important looking party member.
 

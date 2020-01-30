@@ -1,4 +1,4 @@
-====== A Brief Overview ======
+====== Eberron ======
 
 The Eberron portion of the campaign makes few changes to the published material save for the planet's origin story.
 
@@ -16,6 +16,8 @@ Greed, mixed with the opportunity that such technology presents, starts a civil 
 
 On every world, scientific specialists are abducted, bought, assassinated, left for dead. After 50 years of war, most worlds no longer have the technological capabilities for interplanetary travel. Considering Eberron's already technologically disadvantaged position, even mastery over many conventional technologies is lost. This leads to the canonical level of technology in "Eberron: Rising From the Last War."
 
+By the end of the war, Cyre is considered by many nations to be the most dangerous, simply because they've retained most of their technology. They still control an orbital blockade system, and the other nations are quite unhappy about that.
+
 The last stockpiles of this new device are used in an enormous battle in Cyre. This leads to the Mourning, and the canonical magical and political effects of it described in the aforementioned sourcebook.
 
 ==== Notable Locations ====
@@ -28,6 +30,8 @@ When New Elfington gets transported into the Mourning, it becomes the subject of
 
 [[wiki:orkridge:Metrol]]
 The Mourning struck Metrol hard, and many of the residents took refuge in it's extensive metro system. A civilization of sorts lives in that metro now, a la Metro 2033. They can only get onto the surface for short periods of time, so they don't know that Cyre was the only nation affected by the Mourning.
+
+Furthermore, it is rumored to be the location of a secret base that controls the orbital blockade system.
 
 ===== Activities in Eberron=====
 
