@@ -1,7 +1,7 @@
 Here we try to build a tactical combat system that works with any PBTA system. Core principles are:
 
-  * 2d6 roll when making a move.
-  * Generality. It should be possible to plug this into any PBTA system.
+  * [2d6 + MOD] roll when making a move.
+  * Modularity. It should be possible to plug this into any PBTA system.
   * precision and simplicity in everything: Effects, movement, and status.
   * GM continues not to roll dice. Combat turns end up being chess like where certain characters could potentially move more often than others.
   * Successes should provide real advantages that, depending on circumstance outweigh the risks.
@@ -12,20 +12,20 @@ An individual or team advantage (abstract) should primarily vest as more options
 
 In tactical gameplay, the opponents options and actions should to a certain extent be predictable.
 
-===== Hard Moves =====
-If a player rolls a failure, or a mixed success and the team is already vulnerable in some way, such as through the result of a previous mixed success, or through their own poor decision making, the GM can choose to:
+If a player rolls a failure, the GM can make a move. The "hardness" of the move made is dependent on the options fictionally available to the GM. If the players have, either through clever thinking or good luck, gained a fictionally advantageous position, the set of moves available to the GM shrinks. A cuffed bad guy probably can't stab you. First they have to pick the lock. The GM should make the move that makes the most sense.
 
-  * Do harm as established by the fiction.
-  * Take some objective.
+The below are merely examples of options the GM might prepare or improvise on the spot for enemies or the encounter:
 
-====== Basic Moves ======
+  * **Have someone attack:** They have weapons, and the player has made themselves vulnerable in fiction somehow. Apply harm as defined by the fiction.
+  * **Unstable environment:** An explosion might cause a rockfall, a herd of animals might be bearing down on the players.
+  * **Bad Luck:** The grenade bounces just right to go in the wrong direction. You're assassinating someone in a crowd of civilians and miss. Use sparingly.
+====== Example Basic Move Set ======
 
-These are moves that everyone has by default.
+These are moves that everyone has by default:
 
-  * **Run for it:**: Move four squares with some objective in mind. This might be cover, escape, or an item. What this objective is determines appropriate GM responses.
   * **Get it Done:**: Any fiction that is better described by the base PBTA moves. Simply use the original system rules for this action.
-  * **Use Weapon:** You have a weapon, even if it is just your fist. Use any of the moves dictated by the weapon.
-  * **Tackle:** On a success, the only thing the target can do is attempt to escape.
+  * **Run for it:**: Move four units with some objective in mind. This might be cover, escape, or an item. What this objective is determines appropriate GM responses.
+  * **Tackle:** On a success, the only hard/soft move the target can do is escape.
   * **Hide:** You've gotten to cover, or gotten out of their sight.
     * **Success:** Take +1 to your next move.
     * **Mixed:** The GM makes a soft move. Examples include:

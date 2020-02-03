@@ -1,0 +1,40 @@
+====== Mission N ======
+
+This is the point at which the [[wiki:orkridge:orkridge | Ork Ridge]] and [[wiki:afpd:AFPD]] plots converge.
+
+===== Doodle's AI work =====
+
+[[wiki:afpd:corps#Doodle]] was approached independently by several entities to produce AI with various capabilites.
+
+  * [[wiki:afpd:corps#Academica]]: is looking for more effective autonomous weapons.
+    * Strike Drones that don't need human control.
+    * Missiles that can't be defeated by beaming, notching, and the F-Pole Maneuver.
+    * Land Drones that can operate in poor conditions with poor communications.
+  * [[wiki:afpd:corps#LAPD]]: Wants drones that can enforce the law in lower income neighborhoods.
+  * [[wiki:afpd:corps#Solarion]]: Wants drones to do work in hazardous conditions.
+
+Each of these corps wants a basically sentient robot, but is not planning on treating them well. They see a new source of slaves, and have offered the Doodle AI division "A deal they couldn't refuse."
+
+===== Faerun and Eberron as Simulations =====
+
+"Nature made the Human using one tool: The mistake" - Dr. Ford; Westworld.
+"Thin Anthony Hopkins" has decided that the best way to create an AI is to simulate a universe and let it develop on its own. This requires an enormous datacenter, each individual stored and run on a special ASIC, but the combination of numerous enormous contracts makes it possible.
+
+==== Faerun ====
+
+Faerun was their first world, primitive, but effective to such a point that individuals learned to the point of creating a basic civilization. When attempting to transfer individuals out of that world and into a robotic body, they found that the "brain" (so to speak) "melted." The difference between the simulated world, and the world the individual could see through their sensor was so great that they suffered from mode collapse trying to adapt too rapidly.
+
+==== Eberron ====
+
+Eberron was "Version 2." It was a much higher fidelity simulation. They learned from their mistakes and created a special race (Warforged) with sensory inputs just like those in their robot prototype chassis. The better simulation helped, but it still wasn't enough.
+
+==== The Purpose of Teleportation ====
+
+
+OK but what about travelling between simulations, how does that affect the individual?
+Eberronians had no issue travelling to Faerun, but the first instance of Faerunians coming to Eberron happens in [[wiki:orkridge:chapter_5|wiki:orkridge:Chapter 5]] of the Ork Ridge Adventure. It... Doesn't go well, but oddly enough a group of adventurers seem to not be particularly affected.
+
+
+==== A Final Hail Mary ====
+
+Thin Anthony Hopkins did note that the effects were lessened for adventurers, so perhaps life experience makes transition easier? He eggs the party into seeing the world, then finally requests that they try one final world. His hope is to make a big public stink about sending sentient AI to war and death instead of people before Doodle has a chance to sell the unfinished technology to someone who might do horrible things.
