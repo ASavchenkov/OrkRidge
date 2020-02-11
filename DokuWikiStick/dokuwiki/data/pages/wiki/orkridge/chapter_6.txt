@@ -100,17 +100,56 @@ This train is not only carrying passengers, but also some precious cargo the ide
 
 The first sign that something is wrong is when this agent falls into a catatonic state as the result of the spell **Magic Jar**. It would be hard to identify this spell however, because the magic jar is not on his person, but in his room.
 
-The agent then possesses the butler, slowly maneuvering him to the back of the carriage so as to take down the necromancy barrier, until he finally releases the butler back into his body, and projects his soul into the body of Lauren[[wiki:orkridge:laurens_ir_tain]].
+The agent then possesses another passenger, slowly maneuvering him to the back of the carriage so that when the deed is done this stranger is under suspicion, until he finally releases the stranger back into his body, and projects his soul into the body of Lauren[[wiki:orkridge:laurens_ir_tain]].
+
+It is at this point that he attempts to either escape with the clone, or kill it, returning to his body.
+
+====== Dream With Thin Anthony Hopkins ======
+
+The PCs are together in a white space with Thin Anthony Hopkins in front of them with a clipboard. Though he looks no different than he did before, his gait and overall demeanor betrays that he is very tired and anxious.
+
+"Alright, please list your symptoms." He's referring to the symptoms displayed by those in New Elfington, but the players are not experiencing them.
+
+"Hmm. You're saying you feel fine? The world around you doesn't send your head spinning? No nausea, vertigo, migranes?" After their response, he thinks for a time.
+
+"A man feeds birds in a park. Find him. He will make you an offer that is very easy to refuse. Do not. It might be the only way of keeping all of this going." If pushed:
+"Your world, your way of life, exists at the behest of apathetic bottom feeders who haven't the slightest understanding of what it is or what it means." A timer on his wrist counts down to 5 seconds. "I'm out of time. Find the man. He'll be wearing a big hat."
 ====== Sharn ======
 
 {{wiki:sharn2.jpg}}
 
 Sharn is... huge, specifically tall. It's a full 2km high at the tip of its grounded towers, and another kilometer up to the top of the floating towers. Beside that, it's also 7 km in diameter.
 
-The party arrives at Terminus station, Sharn, and is immediately escorted to **The Cornerstone** in **Middle Tavick's Landing**., after having been assailed by paparazzi. 
+The party arrives at Terminus station, Sharn. Here the doors open to **Commander Iyanna ir'Talan** circling with 4 **Boromar** henchmen. The players may intervene at any point during the following exchange:
 
-"Your accomodations have been taken care of, a gesture of goodwill from house Ghallanda. The hearings and meetings will begin tomorrow."
+"You're going to leave the dreamer and the money with my deputies, then you're going to leave."
+"Just cause we know your daddy don't mean we won't kill you right here."
+"The four of you'll be dead before you even clear your weapons, and you see this badge? That's gonna make it legal. Lets try this again. You're going to leave the dreamer and the money with my deputies, then you're going to leave."
 
+The henchmen mull it over a bit, drop their duffel bags, and start slowly backing away, only turning around to start jogging after clearing 30 ft. At precisely this time two half-elf guards arrive on the scene, pick the duffel bags up, and stand at attention.
+
+"Welcome to our charming city travelers." she says as she puts out her hand, expecting a handshake.
+
+
+and is immediately escorted to **The Cornerstone** in **Middle Tavick's Landing**. after having been assailed by paparazzi. 
+
+"Your accommodations have been taken care of, a gesture of goodwill from house Ghallanda. The hearings will begin tomorrow."
+
+===== A Night on the Town =====
+
+The party should be completely settled in by about 4PM, and the hearings start at 9AM the next day, so the characters have some time to rest and party. All of the relevant material for activities in Sharn is best written in the ERTLW sourcebook. Only one event is important to the story.
+
+==== Sky Race ====
+
+They notice some people setting up "Airspace Closed" signs, but they look like hooligans. These hooligans are setting up for a street race, a warm up of sorts for the [[wiki:orkridge:Eberron#The Race of Eight Winds (Baka R)]].
+
+  * If they follow these hooligans, they get to a classic Fast and Furious car meet with scantily clad people of all races and genders, and sleek modded skycoaches.
+  * If they don't, four of these modded skycoaches blast past them, requiring a dex saving throw to get out of the way or get knocked off the bridge. Refer to ERTLW tables for falling off of bridges.
+==== Lincoln Park ====
+
+This is when they realize that the plaza their hotel faces is actually **Lincoln Park**, with a statue and plaque of [[wiki:orkridge:Eberron#Broham Lincoln]]. They find a man with a tall hat feeding birds, and upon a second look, he and the statue look very similar. Broham speaks first to anyone who looks like they've done a lot of fighting. He assumes any and all Warforged fought in the war.
+
+"How did you do it? How did you go back to civvie life after that shit?"
 ===== Heated Debate =====
 
 The party is invited to the highest towers to begin the hearings. Everyone has something they want out of the situation, including New Elfington, hence the entourage they sent.
