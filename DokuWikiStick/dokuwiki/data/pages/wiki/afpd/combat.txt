@@ -77,14 +77,21 @@ Range 20
       * **Compromised Position:** Everyone in line of sight knows your position.
       * There's gotta be more I can add.
 
-=== Machine Gun ===
+==== Machine Gun ====
 
 3 Harm.
 Range 4
 
-  * **Spray and Pray:** Skill
-    * **Success:** Apply Harm-1 to anyone within one unit of the target.
+  * **Spray and Pray:** Skill; area 3 units in diameter
+    * **Success:** Apply Harm-1 to anyone in the area.
     * **Mixed:** Choose one of the below effects.
-      * **Trigger Discipline:** The clip runs dry. You'll have to reload.
-      * **Collateral Damage:** //Everyone// within 1 unit of the selected target takes Harm-1
-      * 
+      * **Trigger Discipline:** The clip runs dry. You'll have to reload as a move.
+      * **Collateral Damage:** //Everyone// int the area takes Harm-1
+  * **Suppressing Fire:** Skill; area 3 units in diameter.
+    * **Success:** Anyone who makes a move in the area that puts them in your line of sight immediately takes Harm-1.
+    * **Mixed:** If any of the targets can harm you, they fire back.
+      * **Counter Suppression:** Take cover to avoid harm, but they're no longer affected.
+      * **Take one for the Team:** They apply their harm to you.
+  * **Run and Gun:** Skill-1; Simultaneously "Run For It" and "Any Ranged Weapon." The roll counts for both moves.
+
+==== Handgun ====
