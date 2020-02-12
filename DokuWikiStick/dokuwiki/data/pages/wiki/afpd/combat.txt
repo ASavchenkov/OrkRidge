@@ -1,5 +1,10 @@
 Here we try to build a tactical combat system that works with any PBTA system. Core principles are:
-
+  
+  * Start and end with the fiction
+    * The player say's what they want to do.
+    * Discuss what move describes this best.
+    * Roll Dice.
+    * Resolve
   * [2d6 + MOD] roll when making a move.
   * Modularity. It should be possible to plug this into any PBTA system.
   * precision and simplicity in everything: Effects, movement, and status.
@@ -12,7 +17,7 @@ An individual or team advantage (abstract) should primarily vest as more options
 
 In tactical gameplay, the opponents options and actions should to a certain extent be predictable.
 
-If a player rolls a failure, the GM can make a move. The "hardness" of the move made is dependent on the options fictionally available to the GM. If the players have, either through clever thinking or good luck, gained a fictionally advantageous position, the set of moves available to the GM shrinks. A cuffed bad guy probably can't stab you. First they have to pick the lock. The GM should make the move that makes the most sense.
+If a player rolls a failure, the GM can make a move as normal. The "hardness" of the move made is dependent on the options fictionally available to the GM. If the players have, either through clever thinking or good luck, gained a fictionally advantageous position, the set of moves available to the GM shrinks. A cuffed bad guy probably can't stab you. First they have to pick the lock. The GM should make the move that makes the most sense. Combat should to a certain extent be //**predictable**//.
 
 The below are merely examples of options the GM might prepare or improvise on the spot for enemies or the encounter:
 
@@ -34,21 +39,52 @@ These are moves that everyone has by default:
 
 ====== Weapons ======
 
-Combat is mostly carried out through the use of weapons, whether it be firearms, swords, pikes, bows, laser guns, etc.
+Combat is mostly carried out through the use of weapons, whether it be firearms, swords, pikes, bows, laser guns, or even fists.
+These are generic moves when a more specific one from the weapon doesn't apply.
 
-  * **Pointy Thing:**
-    * **Success:** The target takes n harm.
-    * **Mixed:** The GM makes a soft move. Examples include:
+  * **Any Ranged Weapon:**
+    * **Success:** Target takes n harm. and/or special effect of weapon.
+    * **Mixed:** Choose one of the below.
+      * **Flesh Wound:** In your hurry you just winged them. Decrease harm by 1.
+      * **Gunfight:** You got the shot, and someone else got the shot on you.
+      * **Vulnerable:** You spent too long lining the shot up. Someone moved into position. Their next move will //inflict terrible harm (+1 harm)//
+
+* **Any Melee Weapon:**
+    * **Success:** Target takes n harm. and/or special effect of weapon.
+    * **Mixed:** Choose one of the below.
       * **Everybody gets cut:** Before you got them, they got you.
-      * **Disarmed:** Sure you got them, but your knife is all the way over there now. 
+      * **Disarmed:** Sure you got them, but your knife is all the way over there now.
+      * **On the Ground:** No one got cut, but you're both vulnerable now...
 
-  * **Gun:** **Success:** The target takes n harm.
-    * **Mixed:** The GM makes a soft move. Examples include:
-      * **Jam:** It won't work until you try to unjam it.
-      * **Trigger Discipline:** You sure opened them up. Now you're out of ammo.
-      * **Tinnitus:** You really shouldn't use those things indoors. -1 to any rolls requiring hearing for a GM chosen time period.
 
-  * **AOE:** **Success:** The targets takes n harm.
+  * **AOE:** **Success:** The targets take n harm.
     * **Mixed:** The GM makes a soft move. Examples include:
       * **Practice Throwing:** the AOE actually lands in an adjacent square of the GMs choosing.
       * **Telegraphed:** They saw it coming from a mile away. Everyone managed to get down. reduce harm by -1.
+
+===== More Specific Weapons =====
+
+==== Sniper Rifle ====
+3 Harm.
+Range 20
+
+  * **Precision Shot:** Skill - 1
+    * **Success:** Apply up to the harm of the weapon, plus one of the following effects.
+      * **Headshot:** Apply full harm +1.
+      * **Trick Shot:** You hit a specific body part or item on their person. It is disabled.
+      * **Long Distance** The target is up to double the range of the weapon away.
+    * **Mixed:**
+      * **Compromised Position:** Everyone in line of sight knows your position.
+      * There's gotta be more I can add.
+
+=== Machine Gun ===
+
+3 Harm.
+Range 4
+
+  * **Spray and Pray:** Skill
+    * **Success:** Apply Harm-1 to anyone within one unit of the target.
+    * **Mixed:** Choose one of the below effects.
+      * **Trigger Discipline:** The clip runs dry. You'll have to reload.
+      * **Collateral Damage:** //Everyone// within 1 unit of the selected target takes Harm-1
+      * 
