@@ -24,17 +24,17 @@ The below are merely examples of options the GM might prepare or improvise on th
   * **Have someone attack:** They have weapons, and the player has made themselves vulnerable in fiction somehow. Apply harm as defined by the fiction.
   * **Unstable environment:** An explosion might cause a rockfall, a herd of animals might be bearing down on the players.
   * **Bad Luck:** The grenade bounces just right to go in the wrong direction. You're assassinating someone in a crowd of civilians and miss. Use sparingly.
-====== Example Basic Move Set ======
+====== Player Moves ======
 
 These are moves that everyone has by default:
 
-  * **Get it Done:**: Any fiction that is better described by the base PBTA moves. Simply use the original system rules for this action.
+  * **Get it Done:**: Any fiction that is better described by the base PbtA moves. Simply use the original system rules for this action.
   * **Run for it:**: Move four units with some objective in mind. This might be cover, escape, or an item. What this objective is determines appropriate GM responses.
-  * **Tackle:** On a success, the only hard/soft move the target can do is escape.
+  * **Tackle:** On a success, the only move the target can do is escape.
+    * **Mixed** Now you're both on the ground. The only action you can take is to escape.
   * **Hide:** You've gotten to cover, or gotten out of their sight.
     * **Success:** Take +1 to your next move.
-    * **Mixed:** The GM makes a soft move. Examples include:
-      * **Change targets:** They divert their attention to one of your friends.
+    * **Mixed:** Choose one of the below.
 
 
 ====== Weapons ======
@@ -72,11 +72,16 @@ Range 20
     * **Success:** Apply up to the harm of the weapon, plus one of the following effects.
       * **Headshot:** Apply full harm +1.
       * **Trick Shot:** You hit a specific body part or item on their person. It is disabled.
-      * **Long Distance** The target is up to double the range of the weapon away.
+      * **Long Distance** The target is up to double the range of the weapon away. You'll have to compensate for the Coriolis effect.
     * **Mixed:**
       * **Compromised Position:** Everyone in line of sight knows your position.
       * There's gotta be more I can add.
 
+=== Mods ===
+
+  * **Silencer:** -1 Harm. You can attempt to hide to avoid the effects of **Compromised Position**
+  * **AP rounds:** -1 Harm. Ignores up to 2 armor.
+  * **Disassembly:** The components can fit in an inconspicuous briefcase. Takes a minute to assemble.
 ==== Machine Gun ====
 
 3 Harm.
@@ -86,12 +91,25 @@ Range 4
     * **Success:** Apply Harm-1 to anyone in the area.
     * **Mixed:** Choose one of the below effects.
       * **Trigger Discipline:** The clip runs dry. You'll have to reload as a move.
-      * **Collateral Damage:** //Everyone// int the area takes Harm-1
+      * **Collateral Damage:** //Everyone// in the area takes Harm-1
   * **Suppressing Fire:** Skill; area 3 units in diameter.
     * **Success:** Anyone who makes a move in the area that puts them in your line of sight immediately takes Harm-1.
     * **Mixed:** If any of the targets can harm you, they fire back.
       * **Counter Suppression:** Take cover to avoid harm, but they're no longer affected.
       * **Take one for the Team:** They apply their harm to you.
-  * **Run and Gun:** Skill-1; Simultaneously "Run For It" and "Any Ranged Weapon." The roll counts for both moves.
+      * **Too Late:** They complete their move before taking harm.
+
+=== Mods ===
+
+  * **Extended Magazine:** Negate one occurrence of **Trigger Discipline.**
+  * **Light:** Allows you to **Run and Gun**. Roll once. Use the result for any weapon ability and **Run For It**
 
 ==== Handgun ====
+2 Harm.
+Range 2
+
+* **Quick Draw:** Skill;
+    * **Success:** If your target 
+    * **Mixed:** Choose one of the below effects.
+      * **Trigger Discipline:** The clip runs dry. You'll have to reload as a move.
+      * **Collateral Damage:** //Everyone// in the area takes Harm-1
