@@ -148,9 +148,39 @@ They notice some people setting up "Airspace Closed" signs, but they look like h
   * If they follow these hooligans, they get to a classic Fast and Furious car meet with scantily clad people of all races and genders, and sleek modded skycoaches.
   * If they don't, four of these modded skycoaches blast past them, requiring a dex saving throw to get out of the way or get knocked off the bridge. Refer to ERTLW tables for falling off of bridges.
 
-If they're particularly perceptive or active, they notice a man in a tall hat ([[wiki:orkridge:Eberron#Broham Lincoln]]) get on a larger skycoach. During the race he does an extremely dangerous maneuver (up to interpretation) and his crew quits.
+If they're particularly perceptive or active, they notice a man in a tall hat ([[wiki:orkridge:Eberron#Broham Lincoln]]) get on a larger skycoach. During the practice race he does an extremely dangerous maneuver (up to interpretation) and his crew quits.
 
 Conversation with the participants reveal why the [[wiki:orkridge:Eberron#The Race of Eight Winds (Baka R)]] is so important. The prize is a blank 8th level spell scroll, anything you want.
+
+=== The Racers ===
+
+  * **Broham Lincoln:** Runs one of the larger machines. Minimum crew of 4 (including him)
+    * Pilot and Co-pilot, gunner and boarding crew.
+  * **Bon the Wizard:** An undercover member of the blackened book who prefers to do his investigations up close and personal.
+    * Crew of two burly goons with a well hidden intelligence.
+  * **Doris Boromar:** Runs a sky-cycle alone.
+    * Very fast and hard to hit, exclusively uses a regular long-sword if violence is necessary.
+  * **Dia and Dillon:** Two Gnomes who operate what seems to literally be a flying saucer. 
+    * They're newcomers to the whole illegal street racing thing, but they're both talented pilots, and their saucer has a number of ingenious features.
+    * **Reactive Armor:** If a powerful projectile makes contact with the vehicle, it blows up and destroys it. One use on each of the 4 sides.
+    * **Camouflage:** It's not invisible, but you're not quite sure //exactly// where it is.
+    * **Sleeper Smoke:** Open Cockpits beware, if they're ahead of you, you might end up napping.
+
+=== The Race ===
+
+This race takes place exclusively in Tavicks landing. It starts and ends in Lower Tavicks Landing, traveling vertically through middle and upper Tavicks Landing, before making it's way back down the other side.
+
+  * **Starting Straight**:
+    * Regular drag race start. The first complication is that as soon as they start, a large amount of garbage is falling towards you.
+  * **Upward Straight**:
+    * bridges and parapets regularly need to be dodged. **Bon the Wizard** decides to test the mettle of the newcomers and casts a spell at them.
+  * **Upper Tavicks Landing Straight**:
+    * They blast through one of the richer portions of Upper Tavicks landing, causing trouble for some of the currently shopping residents.
+    * As they make the turn for the bottom straight, they blow past a Sharn Watch Skycoach, and a chase is initiated.
+  * **Downward Straight**:
+    * Falling isn't really an issue here, since you can always just get back on your own machine. the trouble is dodging the bridges and skycoaches.
+    * Anyone who is falling behind starts getting aggressive with their less than legal techniques.
+  * Escape: Who crosses the finish line first isn't really important. It's about who gets away from the watch.
 ==== Lincoln Park ====
 
 This is when they realize that the plaza their hotel faces is actually **Lincoln Park**, with a statue and plaque of [[wiki:orkridge:Eberron#Broham Lincoln]]. They find a man with a tall hat feeding birds, and upon a second look, he and the statue look very similar. Broham speaks first to anyone who looks like they've done a lot of fighting. He assumes any and all Warforged fought in the war.
