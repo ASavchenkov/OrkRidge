@@ -30,6 +30,13 @@
     * A book that functions as a bag of holding.
     * Has 10 charges, regains 2 at dawn.
     * Automatically uses a charge to cast identify on an object.
+  * **Vape-o-Tron 9000**
+    * Once per day you can blow some fat cotton using this magical device.
+    * The cloud represents something that will be useful at some point in the future (up to the discretion of the DM)
+    * Roll a CON check to determine the size and clarity of the divining cloud.
+  * **Book of the Boar**
+    * A completely ordinary, but incredibly dull and uninteresting book. It's full of long words and technical digressions.
+    * Upon attempting to read the book, a creature immediately makes a DC 12 WIS saving throw, and on failure falls into a non-magical slumber.
 ===== Eberron =====
 
   * **CrossFire Bow:**
@@ -49,3 +56,6 @@
     * Ammunition: Diesel
     * (Holds 20, 1 piece of ammunition per damage die rolled.)
     * 3d4! (exploding dice) slashing damage.
+  * **Hollow Point Ammunition**
+    * Roll 3x weapon damage dice on a critical hit. (does not apply to other damage dice such as  sneak attack.)
+    * Hard to find as ballistic firearms are rare in Eberron.
