@@ -1,0 +1,20 @@
+====== Items! ======
+
+===== Eberron =====
+
+  * **CrossFire Bow:**
+    * A modification of the standard crossbow.
+    * **Piercing** damage replaced with **Fire** damage.
+    * Does not have the loading property.
+    * **Full Auto**
+      * An uncontrollable burst of projectiles.
+      * 15 ft cube needs to make DC (8+Dex+prof) Dex save.
+      * Needs 1 minute to cool down after use.
+  * **Smart Scope:** To-Hit bonus without damage bonus.
+    * +1 variant: A red dot sight.
+    * +2 variant: Automatic adjustment for range.
+    * +3 variant: Automatic adjustment for wind and Coriolis effect.
+  * **Chainsaw:**
+    * Heavy
+    * Ammunition
+    * 3d4! (exploding dice) slashing damage.
