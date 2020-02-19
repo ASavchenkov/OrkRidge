@@ -17,6 +17,12 @@ The contingent of Oosah military that happened to be in New Elfington, led by Dr
 
 ===== Effects of Eberron on Faerunians =====
 
+//The looters had tried to break in, and they had broken. What did they think they could get out of a restaurant anyways? Even as one of the better faring shops in the district they operated on razor thin profit margins. A few broken windows, overturned tables. A deep fryer damaged when he had used it as a weapon. Nothing that couldn't easily be replaced.//
+
+//He starts sweeping up the glass when he notices a larger shard glint, his own eye an image in it. Broken glass isn't reflective is it? Zanriel (Player Character) must have ordered the fancy stuff. //
+
+//Damn, why is it so hard to focus? Gonna get a headache at this rate. I should go and take a nap. The Glyph of Warding should do for now.//
+
 Eberron is a more advanced simulation. It has slightly different physics, graphical processing, kinematics. These minute differences in the linkage between the mind of an individual and the world around it cause problems for the mind. Some can adapt, as the Warforged did, while others suffer increasingly horrible mental damage over the months to come.
 
 The very first pieces of this information should be hinted at while they're still in new Elfington, but the first real alarm should be raised when they're already in Sharn.
@@ -27,6 +33,14 @@ The very first pieces of this information should be hinted at while they're stil
   - Splitting migranes
   - Loss of coordination.
   - Various madnesses.
+
+===== Cold War in Faerun =====
+
+Meanwhile, Faerun is in chaos. Not only is the world in economic turmoil, but the existence of this weapon is now public. Superpowers globally search for any leads on how they can develop it themselves, and Oosah's military intelligence agencies are working 24/7 to find out what nation or organization could have stolen the technology and used it against them.
+
+So far, they suspect the newly freed Gerbaut. The Oosah public thinks this might be revenge for stopping Gerbaut imperialism. Of course, the characters know what's really happening, but they're not there.
+
+So begins the Cold War.
 ===== Children on the Edge =====
 
 At some point the party likely gets to the edge of the plateau. They notice some children pretty close to the edge.
@@ -163,7 +177,7 @@ Conversation with the participants reveal why the [[wiki:orkridge:Eberron#The Ra
   * **Dia and Dillon:** Two Gnomes who operate what seems to literally be a flying saucer. 
     * They're newcomers to the whole illegal street racing thing, but they're both talented pilots, and their saucer has a number of ingenious features.
     * **Reactive Armor:** If a powerful projectile makes contact with the vehicle, it blows up and destroys it. One use on each of the 4 sides.
-    * **Camouflage:** It's not invisible, but you're not quite sure //exactly// where it is.
+    * **Momentary Intangibility:** It's not invisible, but for a moment it wasn't there. Once during the race, **Dia and Dillon** can avoid an attack or effect emanating in a line, and it affects whoever is behind them.
     * **Sleeper Smoke:** Open Cockpits beware, if they're ahead of you, you might end up napping.
 
 === The Race ===
@@ -188,13 +202,3 @@ This is when they realize that the plaza their hotel faces is actually **Lincoln
 "How did you do it? How did you go back to civvie life after that shit?"
 
 After this conversation takes its course, he asks them to join his [[wiki:orkridge:Eberron#The Race of Eight Winds (Baka R)|Baka R]] team, and the players remember their dream with Thin Anthony Hopkins.
-===== Heated Debate =====
-
-The party is invited to the highest towers to begin the hearings. Everyone has something they want out of the situation, including New Elfington, hence the entourage they sent.
-
-  * [[wiki:orkridge:New Elfington]] just wants to get the city back home where it was.
-  * **New Cyre** believes new Elfington to be the promised land. A city within Cyre, safe from the Gray mist. They actually want to emigrate there and start fighting against the Gray Mist.
-  * **Breland** wants to set up businesses there and make a lot of profit off of looting Cyre beneath the Mist.
-  * **Thrane**: The Sacred Flame claims this to be the work of evil forces. No one is to be let in or out until they have deemed the situation stable and free of demonic influence.
-  * **Aundair** just wants to send its people to New Elfington to do some research.
-  * **Everyone** puts 2 and 2 together at some point, and realizes that the "devices" used in the war were not purely destructive. They teleport to potentially livable places. The rush is on to rediscover this technology, and use it for both military and civil purposes.
