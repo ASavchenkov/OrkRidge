@@ -1,5 +1,35 @@
-====== Items! ======
+====== Items ======
 
+===== Faerun =====
+
+  * **Experimental Repeating Rifle**
+    * Dex weapon range 150/400
+    * 2d6 + dex damage.
+    * Requires an action to reload after 3 shots are made.
+    * **Misfire**
+      * On a 1, the weapon misfires. Unjamming is generally easy and take 1 minute, but the rifle is unusable until it is unjammed. 
+  * **Experimental Revolver:**
+    * Identical to the rifle except for the following changes.
+    * Light.
+    * 2d4 + DEX damage.
+  * **Kitanya**:
+    * long sword with **finesse**.
+    * 9 Charges which do not replenish.
+    * Physical damage that would force a death saving throw is blocked by this sentient sword. In return, the player character develops more and more cat like features.
+    * When The 9th charge is used up, the character turns into a sentient **Cat**
+  * **Dynamite:**
+    * Crafted: Once invented, 1 stick needs 25gp of nitroglycerin and wood pulp.
+    * Otherwise identical to **DMG page 268**.
+  * **Cat Sticker Book**
+    * A Book with 10,000 stickers in it.
+    * The application of a sticker causes an effect from The [[https://hideous.github.io/# | Net Libram of Random Magical Effects]]
+  * ** Bag of Everything you don't need**
+    * Regains 1 charge every day.
+    * Expend one charge to reach into the bag and get a random item.
+  * **[[https://www.reddit.com/r/UnearthedArcana/comments/90chso/the_book_of_holding_a_twist_to_the_familiar_bag/|Book of Holding]]**
+    * A book that functions as a bag of holding.
+    * Has 10 charges, regains 2 at dawn.
+    * Automatically uses a charge to cast identify on an object.
 ===== Eberron =====
 
   * **CrossFire Bow:**
@@ -16,5 +46,6 @@
     * +3 variant: Automatic adjustment for wind and Coriolis effect.
   * **Chainsaw:**
     * Heavy
-    * Ammunition
+    * Ammunition: Diesel
+    * (Holds 20, 1 piece of ammunition per damage die rolled.)
     * 3d4! (exploding dice) slashing damage.
