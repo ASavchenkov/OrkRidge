@@ -24,9 +24,13 @@ The below are merely examples of options the GM might prepare or improvise on th
   * **Have someone attack:** They have weapons, and the player has made themselves vulnerable in fiction somehow. Apply harm as defined by the fiction.
   * **Unstable environment:** An explosion might cause a rockfall, a herd of animals might be bearing down on the players.
   * **Bad Luck:** The grenade bounces just right to go in the wrong direction. You're assassinating someone in a crowd of civilians and miss. Use sparingly.
+
+Much like with a regular PbtA game, NPCs and the environment will likely need pre-made moves, ones that are once again, to a certain extent predictable.
 ====== Player Moves ======
 
-These are moves that everyone has by default:
+The moves available to a player can be determined by class, equipment, or even situation. A character might have a certain skill always available to them thanks to their training, or the ability to shoot someone far away thanks to their high power rifle, or the ability to take cover behind some cover if they're next to a particularly large wall.
+
+Below are some examples.
 
   * **Get it Done:**: Any fiction that is better described by the base PbtA moves. Simply use the original system rules for this action.
   * **Run for it:**: Move four units with some objective in mind. This might be cover, escape, or an item. What this objective is determines appropriate GM responses.
@@ -37,10 +41,17 @@ These are moves that everyone has by default:
     * **Mixed:** Choose one of the below.
 
 
-====== Weapons ======
+====== Gear ======
 
-Combat is mostly carried out through the use of weapons, whether it be firearms, swords, pikes, bows, laser guns, or even fists.
-These are generic moves when a more specific one from the weapon doesn't apply.
+Even a systems analyst knows how a handgun works, but they're probably not very good at long range shooting. These are moves or modifications to play that are made accessible simply by having a functional piece of gear, and might be modified due to mechanical or fictional circumstance.
+
+===== Weapons =====
+[[wiki:afpd:Weapons|More on Weapons]]
+
+
+Combat is mostly carried out through the use of weapons, whether it be firearms, swords, pikes, bows, laser guns, or even fists. Thus, weapons get their own section.
+
+Below are generic moves when a more specific one from the weapon doesn't apply.
 
   * **Any Ranged Weapon:**
     * **Success:** Target takes n harm. and/or special effect of weapon.
@@ -62,54 +73,10 @@ These are generic moves when a more specific one from the weapon doesn't apply.
       * **Practice Throwing:** the AOE actually lands in an adjacent square of the GMs choosing.
       * **Telegraphed:** They saw it coming from a mile away. Everyone managed to get down. reduce harm by -1.
 
-===== More Specific Weapons =====
+====== Character Moves ======
 
-==== Sniper Rifle ====
-3 Harm.
-Range 20
+[[wiki:afpd:Character Moves|More on Character Moves]]
 
-  * **Precision Shot:** Skill - 1
-    * **Success:** Apply up to the harm of the weapon, plus one of the following effects.
-      * **Headshot:** Apply full harm +1.
-      * **Trick Shot:** You hit a specific body part or item on their person. It is disabled.
-      * **Long Distance** The target is up to double the range of the weapon away. You'll have to compensate for the Coriolis effect.
-    * **Mixed:**
-      * **Compromised Position:** Everyone in line of sight knows your position.
-      * There's gotta be more I can add.
+Moves can also be made available by some inherent trait of the character, whether it be brute strength or rigorous training. Heck, it might even be some **Gear** implanted into their body. These moves function exactly like the moves in the previous section, and their categorization is mostly arbitrary.
 
-=== Mods ===
-
-  * **Silencer:** -1 Harm. You can attempt to hide to avoid the effects of **Compromised Position**
-  * **AP rounds:** -1 Harm. Ignores up to 2 armor.
-  * **Disassembly:** The components can fit in an inconspicuous briefcase. Takes a minute to assemble.
-==== Machine Gun ====
-
-3 Harm.
-Range 4
-
-  * **Spray and Pray:** Skill; area 3 units in diameter
-    * **Success:** Apply Harm-1 to anyone in the area.
-    * **Mixed:** Choose one of the below effects.
-      * **Trigger Discipline:** The clip runs dry. You'll have to reload as a move.
-      * **Collateral Damage:** //Everyone// in the area takes Harm-1
-  * **Suppressing Fire:** Skill; area 3 units in diameter.
-    * **Success:** Anyone who makes a move in the area that puts them in your line of sight immediately takes Harm-1.
-    * **Mixed:** If any of the targets can harm you, they fire back.
-      * **Counter Suppression:** Take cover to avoid harm, but they're no longer affected.
-      * **Take one for the Team:** They apply their harm to you.
-      * **Too Late:** They complete their move before taking harm.
-
-=== Mods ===
-
-  * **Extended Magazine:** Negate one occurrence of **Trigger Discipline.**
-  * **Light:** Allows you to **Run and Gun**. Roll once. Use the result for any weapon ability and **Run For It**
-
-==== Handgun ====
-2 Harm.
-Range 2
-
-* **Quick Draw:** Skill;
-    * **Success:** If your target 
-    * **Mixed:** Choose one of the below effects.
-      * **Trigger Discipline:** The clip runs dry. You'll have to reload as a move.
-      * **Collateral Damage:** //Everyone// in the area takes Harm-1
+The design of these moves is more crucial though, as the less transient the availability of a move is, the greater it's cumulative effect on balance is.

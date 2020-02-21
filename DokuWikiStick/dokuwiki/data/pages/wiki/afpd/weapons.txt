@@ -1,0 +1,51 @@
+===== Weapons =====
+
+==== Sniper Rifle ====
+3 Harm.
+Range 20
+
+  * **Precision Shot:** Skill - 1
+    * **Success:** Apply up to the harm of the weapon, plus one of the following effects.
+      * **Headshot:** Apply full harm +1.
+      * **Trick Shot:** You hit a specific body part or item on their person. It is disabled.
+      * **Long Distance** The target is up to double the range of the weapon away. You'll have to compensate for the Coriolis effect.
+    * **Mixed:**
+      * **Compromised Position:** Everyone in line of sight knows your position.
+      * There's gotta be more I can add.
+
+=== Mods ===
+
+  * **Silencer:** -1 Harm. You can attempt to hide to avoid the effects of **Compromised Position**
+  * **AP rounds:** -1 Harm. Ignores up to 2 armor.
+  * **Disassembly:** The components can fit in an inconspicuous briefcase. Takes a minute to assemble.
+==== Machine Gun ====
+
+3 Harm.
+Range 4
+
+  * **Spray and Pray:** Skill; area 3 units in diameter
+    * **Success:** Apply Harm-1 to anyone in the area.
+    * **Mixed:** Choose one of the below effects.
+      * **Trigger Discipline:** The clip runs dry. You'll have to reload as a move.
+      * **Collateral Damage:** //Everyone// in the area takes Harm-1
+  * **Suppressing Fire:** Skill; area 3 units in diameter.
+    * **Success:** Anyone who makes a move in the area that puts them in your line of sight immediately takes Harm-1.
+    * **Mixed:** If any of the targets can harm you, they fire back.
+      * **Counter Suppression:** Take cover to avoid harm, but they're no longer affected.
+      * **Take one for the Team:** They apply their harm to you.
+      * **Too Late:** They complete their move before taking harm.
+
+=== Mods ===
+
+  * **Extended Magazine:** Negate one occurrence of **Trigger Discipline.**
+  * **Light:** Allows you to **Run and Gun**. Roll once. Use the result for any weapon ability and **Run For It**
+
+==== Handgun ====
+2 Harm.
+Range 2
+
+* **Quick Draw:** Skill;
+    * **Success:** If your target 
+    * **Mixed:** Choose one of the below effects.
+      * **Trigger Discipline:** The clip runs dry. You'll have to reload as a move.
+      * **Collateral Damage:** //Everyone// in the area takes Harm-1
