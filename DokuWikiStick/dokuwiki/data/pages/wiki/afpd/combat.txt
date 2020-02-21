@@ -41,11 +41,11 @@ Below are some examples.
     * **Mixed:** Choose one of the below.
 
 
-====== Gear ======
+===== Gear Based Moves=====
 
 Even a systems analyst knows how a handgun works, but they're probably not very good at long range shooting. These are moves or modifications to play that are made accessible simply by having a functional piece of gear, and might be modified due to mechanical or fictional circumstance.
 
-===== Weapons =====
+==== Weapons ====
 [[wiki:afpd:Weapons|More on Weapons]]
 
 
@@ -73,7 +73,7 @@ Below are generic moves when a more specific one from the weapon doesn't apply.
       * **Practice Throwing:** the AOE actually lands in an adjacent square of the GMs choosing.
       * **Telegraphed:** They saw it coming from a mile away. Everyone managed to get down. reduce harm by -1.
 
-====== Character Moves ======
+===== Character Based Moves =====
 
 [[wiki:afpd:Character Moves|More on Character Moves]]
 
