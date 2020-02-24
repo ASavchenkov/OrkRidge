@@ -11,6 +11,11 @@ Notable Individuals are categorized by whether they are first met by the party i
   * Inventor of **artificial electricity** (in Faerun) and elevators.
   * Primary driving force behind the construction of **Actor Tower**
 
+==== Black Spider Equivalent ====
+
+  * Whatever the original antagonist of the prior adventure was.
+  * Used to be room-mates with [[wiki:orkridge:notable individuals#Eddard Teller]]
+    * Thinks he "sold out" to the Gerbaut military.
 ==== Eddard Teller ====
 
   * Inventor of **The Device** along with [[wiki:orkridge:notable_individuals#Stannis Ulam]]
@@ -20,12 +25,25 @@ Notable Individuals are categorized by whether they are first met by the party i
     * with the addition of the spells
       * Summon Greater Demon.
       * Teleportation Circle.
+
+==== Kallan Starfield ====
+
+  * "Assistant" to [[wiki:orkridge:notable individuals#Eddard Teller]].
+  * Highly intelligent **sorcerer.**
+  * **Abjurer** stat block,
+    * With 16 INT and 18 CHA. (and spellcasting based off of CHA)
+    * **Teleportation Circle** spell.
+    * **Haste** spell, with the ability to **twin** it as a sorcerer might do.
 ==== Leosh Teller ====
 
   * Son of [[wiki:orkridge:notable_individuals#Eddard Teller]].
   * Member of the Esanian Resistance
   * Good friend of [[wiki:orkridge:notable individuals#Stannis Ulam]] thanks to their shared moral values with regard to **The Device** prior to [[wiki:orkridge:chapter 5| The Financial Crash]].
   * Instigator of the terrorist attack in [[wiki:orkridge:chapter_5|The Financial Crash]].
+  * Statblock Progression
+    * First Encounter: **Conjurer**
+    * [[wiki:orkridge:Chapter 5|wiki:orkridge:Chapter 5]] : **Archmage**
+      * With **Power Word Kill**
 
 
 ----
