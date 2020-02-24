@@ -85,7 +85,20 @@ Post War Faerun is debt hungry, and after two years of what seems to be growth, 
 
 Level 10
 
-===== Chapter 6 Foreign Relations =====
+===== Chapter 7 Foreign Relations =====
 [[wiki:orkridge:Chapter 7]]
 
 Level 11
+
+
+====== Character Specifics ======
+
+===== Zanriel =====
+
+Hexblade is tired of Shadowfell, and it's not alone. It and his comrades want light.
+
+After [[wiki:orkridge:Chapter 1#The Device | a random mountain]] teleports to Shadowfell, it realizes that whatever magic caused this could be used to teleport his entire city into the Feywild.
+
+It is in the interest of this goal that it employs a number of Warlocks to collect items and information of relevance to this teleportation magic. When one of his warlocks is teleported during the events of [[wiki:orkridge:chapter_5| The Financial Crash]], it realizes that whatever material [[wiki:orkridge:Leosh]] used could speed his efforts.
+
+It needs the lichium used in Eberronian Sky Coaches. Once it collects enough, it creates the device, and teleports the entire cliff city of Edgeton to... Eberron, right at the end of the [[wiki:orkridge:Eberron#The Race of Eight Winds (Baka R)]]. That's right, directing the device is //hard//.
