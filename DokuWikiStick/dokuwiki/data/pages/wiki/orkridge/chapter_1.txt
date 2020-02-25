@@ -16,7 +16,7 @@ Two Gerbaut mages hide in ambush. Both have double the maximum range on their sp
 
 ====== The Device ======
 
-Working through this dungeon, they find it suspiciously easy, and recently disturbed. They finally find a large spherical device with dozens of the same tiny **Teleportation Circles** on it. They're accosted by [[wiki:orkridge:notable_individuals#Eddard Teller]] and his entourage. The party is a loose end for his secretive weapon design group, and Teller will leave the capture of the party to his crew.
+Working through this dungeon, they find it suspiciously easy, and recently disturbed. They finally find a large spherical device with dozens of the same tiny **Teleportation Circles** on it. They're accosted by [[wiki:orkridge:notable_individuals#Eddard Teller]] and his entourage. The party is a loose end for his secretive weapon design group.
 
 ===== Encounter NPCs =====
 
@@ -27,6 +27,30 @@ Working through this dungeon, they find it suspiciously easy, and recently distu
   * 4 heavily armored guards with pikes instead of morningstars (PotA : Black Earth Guard).
   * Two mage officers(VGM : Illusionist).
 
+After summoning the demon, Eddard and Kallen head to the nearly finished teleportation circle. They trust their employees to subdue the interlopers.
+
 Regardless of result, the players witness the weapon in action far enough away so as to not be within its effective range, and the cave system and mountain above it vanish into thin air, leaving a 2 mile wide crater.
 
-Either in chains, or bloodied and wanted by the Gerbaut military, the party will need to somehow end up in Neverwinter. Circumstance puts them in contact with the Resistance. The party will be asked to perform several acts of subterfuge, including stealing some advanced weaponry (lever action rifles), and destroying some advanced technology (Electrical applicances of war, designed by Esanians for the Gerbaut against their will). Their hideout is discovered sooner or later, and one of the wizards leading the Resistance creates a teleportation circle for them to escape to Oosah and notify them of this new superweapon. The party is the only group to escape cleanly however, and all but two wizards are captured by the Gerbaut.
+====== Option 1: Party Loses ======
+
+The Gerbaut fight to subdue and capture. Succeeding, they cuff the party and take them to a Neverwinter jail for questioning and a clandestine execution.
+
+In the jail, there are just two other occupants, [[wiki:orkridge:notable_individuals#Delphine]] and [[wiki:orkridge:notable_individuals#Emil]]. After a short (and if they don't want guards on them, quiet) conversation, an air raid siren goes off.
+
+//That's our cue// says Delphine, to the nodding approval of Emil. They stand and seem to prepare themselves to fight. Then a blast of dragonfire cuts the building in half, narrowly missing the party. Delphine and Emil invite the party to escape with them as guards are focused on the airborne attack on the city.
+
+====== Option 2: Party Wins ======
+
+A timer is going down on **The Device**. The party has plenty of time to get out, but they still need to //do it//.
+
+It is at this point that they do need to end up in Neverwinter. The best course of action is to see what the players want to do. If they want to figure out what's going on, one of the guards will have orders to bring them to the clandestine jail in Neverwinter.
+
+If the conversation does not naturally go in the direction of visiting Neverwinter, simply ask honestly for the players to come up with a good reason to go there, or come up with a quest hook yourself if you're feeling bold.
+
+In Neverwinter, when they pass by an innocuous enough looking building (the jail from Option 1), they hear air raid sirens, and they see a [[wiki:orkridge:notable_individuals#Dron|young bronze dragon]], as well as several smaller figures raining fire on oddly precise locations in the city. The dragon cuts the building in half, and from it scurry [[wiki:orkridge:notable_individuals#Delphine]] and [[wiki:orkridge:notable_individuals#Emil]], followed by two guards. The guards notice the party on a wanted poster, and become hostile.
+
+Emil and Delphine invite the party to follow them and escape the city by avoiding military buildings (the only targets of the air raid).
+
+
+
+ The party will be asked to perform several acts of subterfuge, including stealing some advanced weaponry (lever action rifles), and destroying some advanced technology (Electrical applicances of war, designed by Esanians for the Gerbaut against their will). Their hideout is discovered sooner or later, and one of the wizards leading the Resistance creates a teleportation circle for them to escape to Oosah and notify them of this new superweapon. The party is the only group to escape cleanly however, and all but two wizards are captured by the Gerbaut.
