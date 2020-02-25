@@ -16,6 +16,13 @@ Notable Individuals are categorized by whether they are first met by the party i
   * Whatever the original antagonist of the prior adventure was.
   * Used to be room-mates with [[wiki:orkridge:notable individuals#Eddard Teller]]
     * Thinks he "sold out" to the Gerbaut military.
+
+==== Delphine ====
+
+  * Gnome sorcerer.
+  * Sister by circumstance to [[wiki:orkridge:notable_individuals#Emil]]
+  * Member of Esanian Resistance.
+  * First meets the party in or near a Gerbaut jail.
 ==== Eddard Teller ====
 
   * Inventor of **The Device** along with [[wiki:orkridge:notable_individuals#Stannis Ulam]]
@@ -26,6 +33,12 @@ Notable Individuals are categorized by whether they are first met by the party i
       * Summon Greater Demon.
       * Teleportation Circle.
 
+==== Emil ====
+
+  * Powerful orc warrior.
+  * Member of Esanian resistance.
+  * Brother by circumstance to [[wiki:orkridge:notable_individuals#Delphine]]
+  * First encountered by the players in or next to a Gerbaut jail.
 ==== Kallan Starfield ====
 
   * "Assistant" to [[wiki:orkridge:notable individuals#Eddard Teller]].

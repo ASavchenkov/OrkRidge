@@ -16,9 +16,16 @@ Two Gerbaut mages hide in ambush. Both have double the maximum range on their sp
 
 ====== The Device ======
 
-Working through this dungeon, they find it suspiciously easy, and recently disturbed. They finally find a large spherical device with dozens of the same tiny **Teleportation Circles** on it. They're accosted by **Eddard Teller** and his entourage. The party is a loose end for his secretive weapon design group, and Teller will leave the capture of the party to his crew.
+Working through this dungeon, they find it suspiciously easy, and recently disturbed. They finally find a large spherical device with dozens of the same tiny **Teleportation Circles** on it. They're accosted by [[wiki:orkridge:notable_individuals#Eddard Teller]] and his entourage. The party is a loose end for his secretive weapon design group, and Teller will leave the capture of the party to his crew.
 
+===== Encounter NPCs =====
 
+  * [[wiki:orkridge:notable_individuals#Eddard Teller]] (VGTM: Evoker):
+    * immediately casts **Summon Greater Demon** to summon a demon of DMs choice. One perfect source of the blood for this spell is that of the **Ghillie Mages** if they died.
+  * [[wiki:orkridge:notable_individuals#Kallan Starfield]] (VGTM : Abjurer):
+    * Protects Eddard Teller at all costs.
+  * 4 heavily armored guards with pikes instead of morningstars (PotA : Black Earth Guard).
+  * Two mage officers(VGM : Illusionist).
 
 Regardless of result, the players witness the weapon in action far enough away so as to not be within its effective range, and the cave system and mountain above it vanish into thin air, leaving a 2 mile wide crater.
 
