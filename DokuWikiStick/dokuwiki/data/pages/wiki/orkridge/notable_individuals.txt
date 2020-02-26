@@ -4,10 +4,17 @@ Notable Individuals are categorized by whether they are first met by the party i
 
 ===== Faerun =====
 
+==== Amy Sandbar ====
+
+  * Middle aged female monk.
+  * Creator and logistical head of the resistance.
+  * **Martial Arts Adept** stat block.
+
 ==== Azusa Actor ====
 
   * Current primary heir of the Actor family, due to the unreliability of the older male heir.
   * Creator of the [[wiki:orkridge:notable individuals#Char Marks]] persona.
+    * Regularly assists the Esanian Resistance as Char Marks.
   * Inventor of **artificial electricity** (in Faerun) and elevators.
   * Primary driving force behind the construction of **Actor Tower**
 
@@ -57,6 +64,7 @@ Notable Individuals are categorized by whether they are first met by the party i
     * **Haste** spell, with the ability to **twin** it as a sorcerer might do.
 ==== Leosh Teller ====
 
+  * Does his best not to reveal his last name.
   * Son of [[wiki:orkridge:notable_individuals#Eddard Teller]].
   * Member of the Esanian Resistance
   * Good friend of [[wiki:orkridge:notable individuals#Stannis Ulam]] thanks to their shared moral values with regard to **The Device** prior to [[wiki:orkridge:chapter 5| The Financial Crash]].

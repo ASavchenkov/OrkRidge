@@ -31,7 +31,8 @@ After summoning the demon, Eddard and Kallen head to the nearly finished telepor
 
 Regardless of result, the players witness the weapon in action far enough away so as to not be within its effective range, and the cave system and mountain above it vanish into thin air, leaving a 2 mile wide crater.
 
-====== Option 1: Party Loses ======
+====== Getting to Neverwinter ======
+===== Option 1: Party Loses =====
 
 The Gerbaut fight to subdue and capture. Succeeding, they cuff the party and take them to a Neverwinter jail for questioning and a clandestine execution.
 
@@ -39,7 +40,7 @@ In the jail, there are just two other occupants, [[wiki:orkridge:notable_individ
 
 //That's our cue// says Delphine, to the nodding approval of Emil. They stand and seem to prepare themselves to fight. Then a blast of dragonfire cuts the building in half, narrowly missing the party. Delphine and Emil invite the party to escape with them as guards are focused on the airborne attack on the city.
 
-====== Option 2: Party Wins ======
+===== Option 2: Party Wins =====
 
 A timer is going down on **The Device**. The party has plenty of time to get out, but they still need to //do it//.
 
@@ -49,8 +50,61 @@ If the conversation does not naturally go in the direction of visiting Neverwint
 
 In Neverwinter, when they pass by an innocuous enough looking building (the jail from Option 1), they hear air raid sirens, and they see a [[wiki:orkridge:notable_individuals#Dron|young bronze dragon]], as well as several smaller figures raining fire on oddly precise locations in the city. The dragon cuts the building in half, and from it scurry [[wiki:orkridge:notable_individuals#Delphine]] and [[wiki:orkridge:notable_individuals#Emil]], followed by two guards. The guards notice the party on a wanted poster, and become hostile.
 
+====== The Resistance ======
+
+
 Emil and Delphine invite the party to follow them and escape the city by avoiding military buildings (the only targets of the air raid).
 
+The resistance hideout is an unfinished hotel along the southern shore of Neverwinter, outside of the city walls. It's just columns and concrete floor, along with some concrete walls.
 
+It is here that the party meets the "rest of" the resistance:
 
- The party will be asked to perform several acts of subterfuge, including stealing some advanced weaponry (lever action rifles), and destroying some advanced technology (Electrical applicances of war, designed by Esanians for the Gerbaut against their will). Their hideout is discovered sooner or later, and one of the wizards leading the Resistance creates a teleportation circle for them to escape to Oosah and notify them of this new superweapon. The party is the only group to escape cleanly however, and all but two wizards are captured by the Gerbaut.
+  * [[wiki:orkridge:notable_individuals#Stannis Ulam]]
+  * [[wiki:orkridge:notable_individuals#Amy Sandbar]]
+
+The conversation likely naturally makes a turn towards the weapon the party witnessed, and the Gerbaut scientist ([[wiki:orkridge:notable_individuals#Eddard Teller]]) they encountered.
+
+Stannis Ulam takes a keen interest in this, as, unknown to the party, he co-invented the device, but never saw it in effect. This prompts him to take the party to speak with [[wiki:orkridge:notable_individuals#Leosh Teller]], whom he merely calls "a talented artificer". Leosh has seismometers in several locations, and should be able to confirm the party's story.
+
+===== Leo's Artificing =====
+
+This artificer is inside the city walls, and the party is wanted, so they will need to disguise themselves. Stannis Ulam enters through a lightly guarded portcullis. The guard on this shift is under the effect of a **Geas** spell, so the entrance is uneventful.
+
+Leo's Artificing is a quaint shop down a small cobbled alleyway. Numerous magical items are on sale, including what seem to be very powerful magical weapons. All of them are very good fakes, thanks to **Nystul's Magic Aura**. In reality this shop is a front for Resistance operations, and the entirety of the "income" this shop makes, comes in the form of stolen Gerbaut gold.
+
+Leosh desires a conversation with Stannis in the back room, and if the party attempts to, they overhear a conversation about the weapon. Leosh recorded seismic readings alright, which means the weapon finally works.
+
+===== Resistance Efforts =====
+
+The current members have a game plan. Weaken the Gerbaut defenses from the inside, then report to the Oosah military that they can invade.
+
+==== Advanced Weapon Shipment ====
+
+Some advanced infantry weaponry is apparently being shipped into Neverwinter. These are [[wiki:orkridge:items#Experimental Repeating Rifle]] and [[wiki:orkridge:items# Experimental Revolver]] prototypes.
+
+  * The weapons will enter the city by //steam powered jetski//.
+  * Then will be transferred to a //horse powered quadcycle//.
+  * And finally taken to the elite garrison in downtown Neverwinter.
+
+Success means stealing or destroying the weapons, and escaping without leading the enemy to the hideout. Resistance members are willing to assist, though it is likely that they will need to focus on auxilliary functions such as making sure the gate is open when they make their getaway.
+
+==== Electrical Prototypes ====
+
+[[wiki:orkridge:notable_individuals|Azusa Actor]] was coerced by the Gerbaut military to turn her research efforts to the Gerbaut military cause, under threat of redistributing ownership of the family industry to Gerbaut citizens. The laboratory where she is developing these weapons is on the 20th story of [[wiki:orkridge:Neverwinter#Actor Tower]].
+
+This needs to happen during the Actor Tower ribbon cutting ceremony, in order to divert suspicion away from her, as she will be present at the ceremony.
+
+Some weapons on the 20th floor are powered by the electricity developed by the steam engines in the basement.
+
+  * **Mecha Chimera**: A regular **Chimera**, but instead of a breath weapon, each head can fire a taser once during the battle.
+  * **Robo Golem**: **Flesh Golem**, but with Plate Armor.
+  * **Electromagnetic Turret**, Fires a piercing sabot each round.
+    * This is represented by a **Lightning Bolt** that does 6d6 **piercing damage** instead of 8d6 lightning damage.
+
+Each prototype weapon is powered by an armored tether with AC 18, but an HP of 5. Severing this tether disables the weapon.
+
+There are a number of non operational prototypes and other items here too, including...
+
+  * A flywheel powered motorbike.
+  * A magnetic grappling hook.
+  * A [[wiki:orkridge:items#Book of the Boar]]

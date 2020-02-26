@@ -4,7 +4,7 @@
 
   * **Experimental Repeating Rifle**
     * Dex weapon range 150/400
-    * 2d6 + dex damage.
+    * 2d6 + DEX damage.
     * Requires an action to reload after 3 shots are made.
     * **Misfire**
       * On a 1, the weapon misfires. Unjamming is generally easy and take 1 minute, but the rifle is unusable until it is unjammed. 
