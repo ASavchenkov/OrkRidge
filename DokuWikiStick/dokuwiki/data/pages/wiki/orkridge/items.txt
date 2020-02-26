@@ -2,41 +2,70 @@
 
 ===== Faerun =====
 
-  * **Experimental Repeating Rifle**
-    * Dex weapon range 150/400
-    * 2d6 + DEX damage.
-    * Requires an action to reload after 3 shots are made.
-    * **Misfire**
-      * On a 1, the weapon misfires. Unjamming is generally easy and take 1 minute, but the rifle is unusable until it is unjammed. 
-  * **Experimental Revolver:**
-    * Identical to the rifle except for the following changes.
-    * Light.
-    * 2d4 + DEX damage.
-  * **Kitanya**:
-    * long sword with **finesse**.
-    * 9 Charges which do not replenish.
-    * Physical damage that would force a death saving throw is blocked by this sentient sword. In return, the player character develops more and more cat like features.
-    * When The 9th charge is used up, the character turns into a sentient **Cat**
-  * **Dynamite:**
-    * Crafted: Once invented, 1 stick needs 25gp of nitroglycerin and wood pulp.
-    * Otherwise identical to **DMG page 268**.
-  * **Cat Sticker Book**
-    * A Book with 10,000 stickers in it.
-    * The application of a sticker causes an effect from The [[https://hideous.github.io/# | Net Libram of Random Magical Effects]]
-  * ** Bag of Everything you don't need**
-    * Regains 1 charge every day.
-    * Expend one charge to reach into the bag and get a random item.
-  * **[[https://www.reddit.com/r/UnearthedArcana/comments/90chso/the_book_of_holding_a_twist_to_the_familiar_bag/|Book of Holding]]**
-    * A book that functions as a bag of holding.
-    * Has 10 charges, regains 2 at dawn.
-    * Automatically uses a charge to cast identify on an object.
-  * **Vape-o-Tron 9000**
-    * Once per day you can blow some fat cotton using this magical device.
-    * The cloud represents something that will be useful at some point in the future (up to the discretion of the DM)
-    * Roll a CON check to determine the size and clarity of the divining cloud.
-  * **Book of the Boar**
-    * A completely ordinary, but incredibly dull and uninteresting book. It's full of long words and technical digressions.
-    * Upon attempting to read the book, a creature immediately makes a DC 12 WIS saving throw, and on failure falls into a non-magical slumber.
+==== Bag of Everything You Don't Need ====
+
+  * Regains 1 charge every day.
+  * Expend one charge to reach into the bag and get a random item.
+
+==== Book of Holding ====
+
+  * [[https://www.reddit.com/r/UnearthedArcana/comments/90chso/the_book_of_holding_a_twist_to_the_familiar_bag/|Book of Holding]]
+  * A book that functions as a bag of holding.
+  * Has 10 charges, regains 2 at dawn.
+  * Automatically uses a charge to cast identify on an object.
+
+==== Book of the Boar====
+
+  * A completely ordinary, but incredibly dull and uninteresting book.
+  * It's full of long words and technical digressions.
+  * Upon attempting to read the book, a creature immediately makes a DC 12 WIS saving throw.
+    * On a failure falls into a light, non-magical slumber.
+
+==== Cat Sticker Book ====
+
+  * A Book with 10,000 stickers in it.
+  * The application of a sticker causes an effect from The [[https://hideous.github.io/# | Net Libram of Random Magical Effects]]
+
+==== Crucifix Ballistae ====
+  * Range 400/800ft
+  * 2d10 + DEX piercing damage
+  * Weighs 40lbs
+  * Takes an action to set up.
+  * Loading property cannot be circumvented.
+  * [[https://www.reddit.com/r/DnD/comments/857314/cool_nonmagical_weapons/| Source]]
+
+==== Dynamite ====
+
+  * Crafted: Once invented, 1 stick needs 25gp of nitroglycerin and wood pulp.
+  * Otherwise identical to **DMG page 268**.
+
+==== Experimental Repeating Rifle ====
+
+  * Dex weapon range 150/400
+  * 2d6 + DEX damage.
+  * Requires an action to reload after 3 shots are made.
+  * **Misfire**
+    * On a 1, the weapon misfires. Unjamming is generally easy and take 1 minute, but the rifle is unusable until it is unjammed. 
+    
+==== Experimental Revolver ====
+
+  * Identical to the rifle except for the following changes.
+  * Light.
+  * 2d4 + DEX damage.
+  
+==== Kitanya ====
+
+  * long-sword with **finesse**.
+  * 9 Charges which do not replenish.
+  * Physical damage that would force a death saving throw is blocked by this sentient sword. In return, the player character develops more and more cat like features.
+  * When The 9th charge is used up, the character turns into a sentient **Cat**
+
+==== Vape-o-Tron 9000 ====
+
+  * Once per day you can blow some fat cotton using this magical device.
+  * The cloud represents something that will be useful at some point in the future (up to the discretion of the DM)
+  * Roll a CON check to determine the size and clarity of the divining cloud.
+
 ===== Eberron =====
 
   * **CrossFire Bow:**

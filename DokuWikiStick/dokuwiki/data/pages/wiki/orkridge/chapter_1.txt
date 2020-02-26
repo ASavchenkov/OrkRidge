@@ -108,3 +108,33 @@ There are a number of non operational prototypes and other items here too, inclu
   * A flywheel powered motorbike.
   * A magnetic grappling hook.
   * A [[wiki:orkridge:items#Book of the Boar]]
+
+
+===== Compromised Position =====
+
+A fixed plot point is that the party is somehow tracked by the Gerbaut, either through their own blundering, as the result of a chase, or thanks to the efforts of a particularly cunning Gerbaut officer.
+
+They are fired upon at great distance by powerful ballistae, at which point [[wiki:orkridge:notable_individuals#Stannis Ulam]] immediately hides behind cover and announces that he needs 1 minute to cast **Teleportation Circle** to get everyone out.
+
+Ideally this happens right after the characters get a short rest after destroying the electrical prototypes.
+
+//Note: This encounter involves a fireball, and thus may involve one or more instagib. This is technically not an issue for a party of this level, but make sure they had the opportunity to be prepared with some sort of healing.//
+
+NPC stat blocks for the following encounter come from [[https://www.reddit.com/r/DnD/comments/3piisb/homebrew_the_kings_army_complete_monster_pack/| The Kings Army]] homebrew monster pack by **AshenBolt**
+
+  * Two pairs of **Archer**s set up with [[wiki:orkridge:items#Crucifix Ballistae]] 400 feet away on some rooftops.
+    * Theses ballistae provide half cover for the one archer firing it.
+    * Players roll perception checks against a flat DC subject to DM discretion to notice this happening. Those who fail are surprised in the first round of combat.
+
+36 seconds (6 rounds) pass before the ground forces make their move. 90 feet separate the rest of the buildings and the resistance hideout.
+
+  * one back line **Blue Elf**
+  * Two **Sergeant**s
+  * 8 **infantryman**
+
+===== Escape =====
+
+Assuming the party has some degree of success defending their position, [[wiki:orkridge:notable_individuals|Stannis Ulam]] completes the **Teleportation Circle**, and the rest of the resistance begins to head through. Stannis and Leosh wait for the party to go through, but as the party reaches the circle, it shuts down.
+
+The permanent circle was compromised, and the resistance was teleporting into a trap.
+Stannis changes the runes to a different permanent circle, and tells the party to alert Oosah of the weapon and of the resistance's position. He and Leosh stay behind as the rear guard, then **Dimension Door** to narrowly escape and attempt to save their friends.
