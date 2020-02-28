@@ -53,6 +53,12 @@
   * Light.
   * 2d4 + DEX damage.
   
+  
+==== Keynes-igami Crown ====
+
+  * Cursed item.
+  * When worn, allows the user to see the net worth of other individuals.
+  * Reduces financial gains of the wearer by 50%.
 ==== Kitanya ====
 
   * long-sword with **finesse**.
