@@ -3,6 +3,12 @@
 "Ork Ridge" is an adventure focused on the "what if?" of a Faerun going through an industrial and cultural revolution. Nationalistic governments seek to dominate the world, and talented magical talent is tapped to create horrible weapons. Levels 5-10 follow the players as they discover the creation of such a weapon, and try to stop its further development and use. Levels 11-15 then take the players, and the entire city they're in, to [[wiki:orkridge:Eberron]], where this city's mayor enlists them in securing the future of his people.
 
 ====== Changes to Faerun ======
+
+===== Physics =====
+
+Faerun is a crude simulation, and thus many nuanced natural phenomena don't occur.
+
+  * **No Rainbows**: Rainbows were programmed into Eberron as a "2.0" feature, but never back-ported to Faerun to avoid disturbing too many people with a change in the simulation.
 ===== Geopolitics =====
 
 Traditional serfdoms and kingdoms no longer dominate the land, instead having recently been replaced by oligarchies, dictatorships, and in some rare cases, real democracy. Nations are no longer defined by race. Elves, Dwarves, and orcs can be found most anywhere. Bigotry is still rampant, but there are rarely groups of one race around anymore. It's just not economically sane anymore.
