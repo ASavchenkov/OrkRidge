@@ -69,7 +69,7 @@ Below are generic moves when a more specific one from the weapon doesn't apply.
 
 
   * **AOE:** **Success:** The targets take n harm.
-    * **Mixed:** The GM makes a soft move. Examples include:
+    * **Mixed:** Choose one from the below:
       * **Practice Throwing:** the AOE actually lands in an adjacent square of the GMs choosing.
       * **Telegraphed:** They saw it coming from a mile away. Everyone managed to get down. reduce harm by -1.
 

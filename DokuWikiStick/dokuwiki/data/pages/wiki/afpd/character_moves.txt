@@ -6,7 +6,8 @@ Though it isn't absolutely necessary, we stick with the tried and true PbtA mode
 
 ==== Starting Moves ====
 
-  * **Positioning advantage** You're always ready for things to kick off. At the beginning of combat, Roll INT
+  * **Positioning advantage**
+  * You're always ready for things to kick off. At the beginning of combat, Roll INT
     * **Success:**
       * Move up to your movement speed anywhere.
       * If a fictional obstacle between where you want to be and where you are can reasonably be overcome, you were already prepared to do it.
@@ -28,3 +29,18 @@ Though it isn't absolutely necessary, we stick with the tried and true PbtA mode
 
 ==== Choose one more from the below. ====
 
+  * **Hold Still**:
+    * Choose a target.
+    * If that target does not move at it's next opportunity (during the next GM move), you have +1 to any move targeting them.
+  * **Up Close and Personal**:
+    * Attack with a weapon of range 1
+    * if you roll a 12+, choose an additional effect.
+      * Do //terrible harm//: Increase harm by 1.
+      * Weak point: Ignore up to 2 armor.
+        * Stacks with other armor piercing effects if narratively appropriate.
+      * Positioning: Take +1 forward to any move relevant to the target, or provide it to an appropriate ally.
+
+
+===== Bombardier =====
+
+==== Starting Moves ====
