@@ -71,9 +71,19 @@ Though it isn't absolutely necessary, we stick with the tried and true PbtA mode
 ==== Choose One More From Below ====
 
   * **IED:**
-    * You can use the parts from one bomb to make a different one. Roll DEX
+    * You can use the parts from one bomb (even a purchased one) to make a different one. Roll DEX
     * **Success:**
       * Replace one bomb in your inventory with another of equal or lesser value.
     * **Mixed:** Choose 1 from below.
       * **Rush Job:** Any move to use this device is rolled with a -1 penalty.
       * **Missing Parts:** remove one more bomb from your inventory, as its parts were needed to create this one.
+  * **Modular Design (prerequisite IED):**
+    * You've designed your bombs with easily swappable parts.
+    * When using parts from one of your own bombs, a **Mixed** success on **IED** counts as a **Success** instead.
+  * **Structural Engineer:**
+    * You know how things are built. Roll INT.
+    * **Success:**
+      * Take 3 hold.
+      * Spend these to ask the GM how you might be able to alter the terrain to achieve specific goals.
+    * **Mixed:**
+      * Take 1 hold instead.
