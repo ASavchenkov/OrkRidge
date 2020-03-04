@@ -8,17 +8,31 @@ This plot is basically entirely lifted from the book "Altered Carbon," with the 
 
 The wealthy aristocracy of the Skyway have plenty of vices, but none are quite as frowned upon in this city as bestiality. intermarriage of humans/elves/dwarves with Tabaxi and the like is still illegal here, and sexual relations between the two races are frowned upon in the public sphere. Weird and racist, but you know the saying: //"<del>Science</del> Society advances one funeral at a time."//
 
-Enter [[wiki:orkridge:notable_individuals|Rei d'Thuranni]], current leader of house **Thuranni**. The rich have their tastes, but need to be satisfied discreetly. Rei gets Tabaxi to her high altitude zeppelin in the "Heaviside Layer", where, willing or not, they service Rei's wealthy clients.
+Enter [[wiki:orkridge:notable_individuals|Rei d'Thuranni]], current leader of house **Thuranni**. The rich have their tastes, but need to be satisfied discreetly. Rei gets Tabaxi to her high altitude zeppelin in the "Heaviside Layer" via hot air balloon every year where, willing or not, they service Rei's wealthy clients. This pattern repeats for a number of reclusive groups in Breland.
 
-Griz(abella) was one that was unwilling, and actually escaped, plummeting into **The Hilt**, and finally washing ashore. Rei forged a religious document stating that Griz was "Anti Necromancy," and thus not to be raised or spoken to.
+Griz(abella) was one that was unwilling, and actually escaped, plummeting into **The Hilt**, and finally washing ashore. Rei forged a religious document stating that Griz(abella) was "Anti Necro", and thus not to be raised or spoken to.
 
 ===== Resolution 69,420 =====
 
 **Rei** asks **Laurens** to kill the resolution allowing **Speak With Dead** to be cast even on those with religious objections, but he refuses, so his wife **Celyria** helps **Rei** enchant him to crave the cats. He goes to **Heavyside Layer** and afterwards feels so weirded out that he kills himself to forget.
 
-===== Where the Party Steps In =====
+===== Grizabella =====
 
   * **Laurens** wants them to find out who killed him, as he doesn't think he would kill himself.
   * **Celyria** wants them to come up with a fake conclusion to cover for her enchanting him.
 
-As they investigate, they find that Laurens has been traveling to **Lower Dura** quite often, and trace his tracks to a clan of **Tabaxi** living in **Fallen**
+As they investigate, they find that Laurens has been traveling to **Lower Dura** quite often, specifically to a particularly low brow brothel. The proprietor of this brothel,**Jace Zirion** is tight lipped, but can be convinced to give up information, in this order.
+
+  - "Yeah he came here up until about a month ago. What's it to ya?"
+  - "Why did he stop?"
+    - "He found something he liked too much."
+  - "Who was it?"
+    - "Girl named Griz. I get why he didn't go for her. The upper classes don't really hold with that type of thing. Poor girl."
+
+They can then trace her origins down to the **Fallen** district, where a clan of **Tabaxi** live. **Griz**'s father: **Mr Mistoffelees** opens the door and puts up a bit of a fight. His wife got imprisoned for casting **Geas** on **Laurens**, and his daughter **Grizabella** is dead shortly after becoming the "Jellicle Choice".
+
+He tried talking to her spirit, but apparently, just a week before she died, she was registered as "Anti Necro", which is strange because she never mentioned any religious beliefs all her life.
+
+===== Trapp =====
+
+Going back to their hotel, they're attacked by **Codmin**, a triton and his simulacrum, who is working for [[wiki:orkridge:notable_individuals#Rei d'Thuranni]]
