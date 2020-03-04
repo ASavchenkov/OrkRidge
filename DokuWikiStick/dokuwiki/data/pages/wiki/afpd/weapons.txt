@@ -44,7 +44,7 @@ Range 4
 2 Harm.
 Range 2
 
-* **Quick Draw:** Skill;
+* **Quick Draw:** DEX;
     * **Success:** If your target 
     * **Mixed:** Choose one of the below effects.
       * **Trigger Discipline:** The clip runs dry. You'll have to reload as a move.

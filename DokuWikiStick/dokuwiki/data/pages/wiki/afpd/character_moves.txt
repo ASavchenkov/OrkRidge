@@ -44,3 +44,36 @@ Though it isn't absolutely necessary, we stick with the tried and true PbtA mode
 ===== Bombardier =====
 
 ==== Starting Moves ====
+
+  * **Homemade Booms**:
+    * You can't trust someone else with something as important as a bomb.
+    * Not that you can trust yourself either, but the devil you know amirite?
+    * When you spend an hour with the right tools and ingredients, roll INT.
+    * **Success:** Choose 3 bombs from the list below, duplicates allowed.
+      * **Frag**:
+        * It's for hurting people. **3 Harm** for anyone within 2 units.
+      * **Smoke**:
+        * Covers an area 5 units wide for 3 moves.
+        * **Run for It** moves automatically succeed.
+        * All moves requiring long range vision have a -1 penalty.
+      * **Demolition Charge**:
+        * **3 Harm** against soft targets.
+        * **5 Harm** against hard targets (including inanimate objects).
+        * Can be set to detonate on a trigger/timer.
+    * **Mixed:** Choose 1 from below.
+      * **Waste:** Only choose 2 bombs. Don't spill the nitro next time.
+      * **Volatile:** When anyone uses this bomb, a mixed success causes one additional effect.
+      * **Cleanup on Aisle 4:** You get your bombs, but you either left a mess, or drew attention to yourself while working.
+  * **Practiced Hands:**
+    * You //could// give your crafted stuff to someone else, but you still trust yourself more than your teammates.
+    * +1 on moves related to using your own bombs.
+
+==== Choose One More From Below ====
+
+  * **IED:**
+    * You can use the parts from one bomb to make a different one. Roll DEX
+    * **Success:**
+      * Replace one bomb in your inventory with another of equal or lesser value.
+    * **Mixed:** Choose 1 from below.
+      * **Rush Job:** Any move to use this device is rolled with a -1 penalty.
+      * **Missing Parts:** remove one more bomb from your inventory, as its parts were needed to create this one.
