@@ -27,7 +27,7 @@ Though it isn't absolutely necessary, we stick with the tried and true PbtA mode
     * You have +1 on moves pertaining to taking this target down, whether it be movement, weapon moves, or special moves.
     * Final judgement on relevance is up to the GM.
 
-==== Choose one more from the below. ====
+==== Choose One More From Below ====
 
   * **Hold Still**:
     * Choose a target.
@@ -87,3 +87,27 @@ Though it isn't absolutely necessary, we stick with the tried and true PbtA mode
       * Spend these to ask the GM how you might be able to alter the terrain to achieve specific goals.
     * **Mixed:**
       * Take 1 hold instead.
+
+===== Medic =====
+
+==== Starting Moves ====
+
+  * **Immediate Response:**
+    * If you take **Apply First Aid** to someone within two moves of them taking harm, take +1 on the roll.
+  * **Performance Enhancement Drugs**
+    * You can synthesize or purchase certain illicit substances.
+    * When taken, these substances increase their relevant stat by one for one move.
+    * They then decrease it by one for the next two moves you make.
+    * When you have the opportunity to replenish your supplies, roll either STYLE or MIND.
+    * **Success**:
+      * You get three doses, split between the stats in any way you choose.
+    * **Mixed**: Choose 1
+      * **Limited Supply:** Only gain 2 uses.
+      * **Take what you can**: The GM chooses three stats that are unavailable.
+
+==== Choose One More From Below ====
+
+  * Do <del>no</del> harm.
+    * Your knowledge of the human body makes it easier to hurt people.
+    * Where the fiction allows it, roll MIND instead of MEAT when you **Mix it Up** or use a weapon move.
+
