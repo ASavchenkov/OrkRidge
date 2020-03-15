@@ -52,7 +52,7 @@ Important NPCs will link to specific entries in [[wiki:orkridge:notable_individu
 
 Levels 4-5
 
-The adventure starts with the players heading to and exploring a cave dungeon. They stumble upon a Gerbaut secret weapon, and are embroiled in an [[wiki:orkridge:esania| Esanian]] resistance movement in Neverwinter, culminating in their hairy escape to The Oosahn city of New Elfington.
+The adventure starts with the players heading to and exploring a cave dungeon. They stumble upon a Gerbaut secret weapon, and are embroiled in an [[#Esania]] resistance movement in Neverwinter, culminating in their hairy escape to The Oosahn city of New Elfington.
 
 ===== Chapter 2 New Elfington=====
 [[wiki:orkridge:chapter_2]]
