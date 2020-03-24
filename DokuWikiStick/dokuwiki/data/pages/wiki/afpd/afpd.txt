@@ -4,12 +4,6 @@ This is a cyberpunk/modern companion adventure to [[wiki:orkridge:orkridge|Ork R
 
 [[wiki:afpd:mission_n|Mission N]] details how the world of [[wiki:orkridge:orkridge|Ork Ridge]] is a simulation with the sole purpose of "creating" AI.
 
-Earth’s technology has advanced significantly. [[wiki:afpd:Doodle|Doodle]] has partnered with [[wiki:afpd:Pauli Automotive|Pauli Automotive]] to make the first electric self driving car.
-
-[[wiki:afpd:Corps|Corps]].
-
-The EU government is even working on outlawing both the alternatives since it is obvious that they’re the cause of both the remaining smog and accidents. Criminals, the wealth, and the powerful (if you can tell the difference) want to retain the ability to drive their own cars. Think of the car situation in the movie iRobot.
-
 [[wiki:afpd:Kamen Korp|Kamen Korp]] is the only company that makes segways, and lobbies to make sure no one else can make them. The fine is 20% of gross revenue before taxes.
 
 [[wiki:afpd:Solarion|Solarion]] has low orbit vacations for those who can pay up, and [[wiki:afpd:Noblesse O.|Noblesse O.]] has secured a contract with a number of large nations to create the first ever Skyhook.

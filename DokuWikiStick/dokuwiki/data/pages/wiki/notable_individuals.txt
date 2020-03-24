@@ -127,7 +127,7 @@ Notable Individuals are categorized by whether they are first met by the party i
 ==== Rei d'Thuranni ====
 
   * Member and dubious leader of house Thuranni.
-  * Doesn't pop up often, because she is actually [[wiki:notable_individuals#Danielle Droman]], a member of [[wiki:afpd:corps#Academica]] who wants to see how the product is coming along, and wants to mess with [[wiki:notable_individuals#Thin Anthony Hopkins]]
+  * Doesn't pop up often, because she is actually dead, and has been replaced by [[wiki:notable_individuals#Danielle Droman]], a member of [[wiki:afpd:corps#Academica]] who wants to see how the product is coming along, and wants to mess with [[wiki:notable_individuals#Thin Anthony Hopkins]]
   * Also implicated in the [[wiki:orkridge:Altered Cats]].
 
 ===== Earth =====
@@ -139,3 +139,14 @@ These are the characters in [[wiki:afpd:afpd|Argument For Poor Design]]. Many wi
   * The leader of [[wiki:afpd:corps#Doodle]]'s effort to create AI.
   * Occasionally visits the characters in their dreams, though tries not to interfere too much.
   * Very rarely appears as other characters.
+  * 
+=== Quotes Lifted From Westworld ===
+
+  * I read a theory once that the human intellect was like peacock feathers. Just an extravagant display intended to attract a mate. All of art, literature, a bit of Mozart, William Shakespeare, Michelangelo, and the Empire State Building. Just an elaborate mating ritual. Maybe it doesn’t matter that we have accomplished so much for the basest of reasons. But, of course, the peacock can barely fly. It lives in the dirt, pecking insects out of the muck, consoling itself with its great beauty.
+  * Evolution forged the entirety of sentient life on this planet using only one tool… The mistake.
+  * You can’t play God without being acquainted with the devil.
+  * Everything in this world is magic, except to the magician.
+  * I’ve told you, [Bernard]. Never place your trust in us. We’re only human. Inevitably, we will disappoint you.
+==== Danielle Droman ====
+  * [[wiki:afpd:corps#Academica]]'s representative to check on [[wiki:afpd:corps#Doodle]]'s progress.
+  * Is an asshole and regularly messes with the party and [[wiki:notable_individuals#Thin Anthony Hopkins]].
