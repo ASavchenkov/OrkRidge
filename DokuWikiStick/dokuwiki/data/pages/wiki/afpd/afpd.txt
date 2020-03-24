@@ -1,3 +1,9 @@
+====== Argument For Poor Design ======
+
+This is a cyberpunk/modern companion adventure to [[wiki:orkridge:orkridge|Ork Ridge]], focused on the engineering aspect of ethical conundrums such as creating artificial intelligence. Talking about the philosophy of sentience is all well and good, but what happens when someone //actually makes one//? What would that look like? Who would be funding it, and what constraints would the creators be working under?
+
+[[wiki:afpd:mission_n|Mission N]] details how the world of [[wiki:orkridge:orkridge|Ork Ridge]] is a simulation with the sole purpose of "creating" AI.
+
 Earth’s technology has advanced significantly. [[wiki:afpd:Doodle|Doodle]] has partnered with [[wiki:afpd:Pauli Automotive|Pauli Automotive]] to make the first electric self driving car.
 
 [[wiki:afpd:Corps|Corps]].

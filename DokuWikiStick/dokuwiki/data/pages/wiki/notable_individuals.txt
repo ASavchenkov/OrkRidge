@@ -13,7 +13,7 @@ Notable Individuals are categorized by whether they are first met by the party i
 ==== Azusa Actor ====
 
   * Current primary heir of the Actor family, due to the unreliability of the older male heir.
-  * Creator of the [[wiki:orkridge:notable individuals#Char Marks]] persona.
+  * Creator of the [[wiki:notable_individuals#Char Marks]] persona.
     * Regularly assists the Esanian Resistance as Char Marks.
   * Inventor of **artificial electricity** (in Faerun) and elevators.
   * Primary driving force behind the construction of **Actor Tower**
@@ -21,13 +21,13 @@ Notable Individuals are categorized by whether they are first met by the party i
 ==== Black Spider Equivalent ====
 
   * Whatever the original antagonist of the prior adventure was.
-  * Used to be room-mates with [[wiki:orkridge:notable individuals#Eddard Teller]]
+  * Used to be room-mates with [[wiki:notable_individuals#Eddard Teller]]
     * Thinks he "sold out" to the Gerbaut military.
 
 ==== Delphine ====
 
   * Gnome sorcerer.
-  * Sister by circumstance to [[wiki:orkridge:notable_individuals#Emil]]
+  * Sister by circumstance to [[wiki:notable_individuals#Emil]]
   * Member of Esanian Resistance.
   * First meets the party in or near a Gerbaut jail.
 
@@ -40,9 +40,9 @@ Notable Individuals are categorized by whether they are first met by the party i
   * Runs air raids on the Gerbaut.
 ==== Eddard Teller ====
 
-  * Inventor of **The Device** along with [[wiki:orkridge:notable_individuals#Stannis Ulam]]
+  * Inventor of **The Device** along with [[wiki:notable_individuals#Stannis Ulam]]
   * Main antagonist of **Ork Ridge** arc.
-  * Father of [[wiki:orkridge:notable_individuals#Leosh Teller]]
+  * Father of [[wiki:notable_individuals#Leosh Teller]]
   * **Evoker Stat Block**
     * with the addition of the spells
       * Summon Greater Demon.
@@ -52,7 +52,7 @@ Notable Individuals are categorized by whether they are first met by the party i
 
   * Powerful orc warrior.
   * Member of Esanian resistance.
-  * Brother by circumstance to [[wiki:orkridge:notable_individuals#Delphine]]
+  * Brother by circumstance to [[wiki:notable_individuals#Delphine]]
   * First encountered by the players in or next to a Gerbaut jail.
 
 ==== The General ====
@@ -61,7 +61,7 @@ Notable Individuals are categorized by whether they are first met by the party i
   * First met when the party ends up teleporting into his command center.
 ==== Kallan Starfield ====
 
-  * "Assistant" to [[wiki:orkridge:notable individuals#Eddard Teller]].
+  * "Assistant" to [[wiki:notable_individuals#Eddard Teller]].
   * Highly intelligent **sorcerer.**
   * **Abjurer** stat block,
     * With 16 INT and 18 CHA. (and spellcasting based off of CHA)
@@ -70,9 +70,9 @@ Notable Individuals are categorized by whether they are first met by the party i
 ==== Leosh Teller ====
 
   * Does his best not to reveal his last name.
-  * Son of [[wiki:orkridge:notable_individuals#Eddard Teller]].
+  * Son of [[wiki:notable_individuals#Eddard Teller]].
   * Member of the Esanian Resistance
-  * Good friend of [[wiki:orkridge:notable individuals#Stannis Ulam]] thanks to their shared moral values with regard to **The Device** prior to [[wiki:orkridge:chapter 5| The Financial Crash]].
+  * Good friend of [[wiki:notable_individuals#Stannis Ulam]] thanks to their shared moral values with regard to **The Device** prior to [[wiki:orkridge:chapter 5| The Financial Crash]].
   * Instigator of the terrorist attack in [[wiki:orkridge:chapter_5|The Financial Crash]].
   * Statblock Progression
     * First Encounter: **Conjurer**
@@ -81,8 +81,8 @@ Notable Individuals are categorized by whether they are first met by the party i
 
 ==== Stannis Ulam ====
 
-  * Friends with [[wiki:orkridge:notable individuals#Eddard Teller]] prior to events 4 years ago at [[wiki:orkridge:the_lost_peaks#4 years ago| the Lost Peaks]]
-  * Mentor, friend, and Godfather of sorts to [[wiki:orkridge:notable_individuals#Leosh Teller]].
+  * Friends with [[wiki:notable_individuals#Eddard Teller]] prior to events 4 years ago at [[wiki:orkridge:the_lost_peaks#4 years ago| the Lost Peaks]]
+  * Mentor, friend, and Godfather of sorts to [[wiki:notable_individuals#Leosh Teller]].
   * **Diviner** Stat block,
     * With **Teleportation Circle** spell.
 
@@ -112,6 +112,7 @@ Notable Individuals are categorized by whether they are first met by the party i
 ==== Laurens ir'Tain ====
 
   * Wealthiest man in Sharn, if not Eberron and the world (wealth outside of *ahem* "civilized" nations is difficult to compare to that within.)
+  * Impersonated by [[wiki:notable_individuals#Thin Anthony Hopkins]] occasionally.
   * The person implicated in the [[wiki:orkridge:Altered Cats]].
   * Brelish ambassador to the United Kingdoms.
   * Known to be one of the **Bhishes**
@@ -126,4 +127,15 @@ Notable Individuals are categorized by whether they are first met by the party i
 ==== Rei d'Thuranni ====
 
   * Member and dubious leader of house Thuranni.
+  * Doesn't pop up often, because she is actually [[wiki:notable_individuals#Danielle Droman]], a member of [[wiki:afpd:corps#Academica]] who wants to see how the product is coming along, and wants to mess with [[wiki:notable_individuals#Thin Anthony Hopkins]]
   * Also implicated in the [[wiki:orkridge:Altered Cats]].
+
+===== Earth =====
+
+These are the characters in [[wiki:afpd:afpd|Argument For Poor Design]]. Many will also conincide with characters in both worlds.
+
+==== Thin Anthony Hopkins ====
+
+  * The leader of [[wiki:afpd:corps#Doodle]]'s effort to create AI.
+  * Occasionally visits the characters in their dreams, though tries not to interfere too much.
+  * Very rarely appears as other characters.

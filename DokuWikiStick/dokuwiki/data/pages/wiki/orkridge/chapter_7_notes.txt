@@ -20,14 +20,14 @@ Hexblade is tired of Shadowfell, and it's not alone. It and his comrades want li
 
 After [[wiki:orkridge:Chapter 1#The Device | a random mountain]] teleports to Shadowfell, it realizes that whatever magic caused this could be used to teleport his entire city into the Feywild.
 
-It is in the interest of this goal that it employs a number of Warlocks to collect items and information of relevance to this teleportation magic. When one of his warlocks is teleported during the events of [[wiki:orkridge:chapter_5| The Financial Crash]], it realizes that whatever material [[wiki:orkridge:notable_individuals#Leosh]] used could speed his efforts.
+It is in the interest of this goal that it employs a number of Warlocks to collect items and information of relevance to this teleportation magic. When one of his warlocks is teleported during the events of [[wiki:orkridge:chapter_5| The Financial Crash]], it realizes that whatever material [[wiki:notable_individuals#Leosh]] used could speed his efforts.
 
 It needs the lichium used in Eberronian Sky Coaches. Once it collects enough, it creates the device, and teleports the entire cliff city of Edgeton to... Eberron, right at the end of the [[wiki:orkridge:Eberron#The Race of Eight Winds (Baka R)]]. That's right, directing the device is //hard//.
 
 
 ==== Char Marks ====
 
-Talking with [[wiki:orkridge:notable_individuals#Magi Suko]] about getting medical supplies to New Elfington (potentially via a Boromar Smuggling route).
+Talking with [[wiki:notable_individuals#Magi Suko]] about getting medical supplies to New Elfington (potentially via a Boromar Smuggling route).
 
 Also interested in getting more involved in science.
 
@@ -41,7 +41,7 @@ Looking to take down the orbital blockade net by finding members of the previous
 The war has only just ended, and most effort has been on rebuilding, not getting back into space, but it is rumored that the control bunker is still dormant somewhere in [[wiki:orkridge:Eberron#Metrol]].
 ==== Wedge ====
 
-[[wiki:orkridge:notable_individuals#Laurens ir'Tain]] mentions to Wedge when they're leaving.
+[[wiki:notable_individuals#Laurens ir'Tain]] mentions to Wedge when they're leaving.
 
 "Oh. You there. I've been looking for an outsiders touch on something. Come by the ir'Tain manor if you're up for some well paying work."
 
@@ -49,7 +49,7 @@ He is hiring Wedge to resolve the [[wiki:orkridge:Altered Cats]]
 
 More-phine?
 
-[[wiki:orkridge:notable_individuals#Iyanna ir'Talan]] notices him at the pharmacy picking up the (legal and recreational) morphine. "Yo just cause it's legal doesn't mean you should be doing it."
+[[wiki:notable_individuals#Iyanna ir'Talan]] notices him at the pharmacy picking up the (legal and recreational) morphine. "Yo just cause it's legal doesn't mean you should be doing it."
 
 She thinks that morphine was made legal just because the large corps already had large production facilities for it, and the city decided to just tax it since it needs the money. She's unhappy with her father's complacency with the situation too.
 

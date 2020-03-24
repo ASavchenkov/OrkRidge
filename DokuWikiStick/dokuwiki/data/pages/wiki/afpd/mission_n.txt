@@ -17,8 +17,8 @@ Each of these corps wants a basically sentient robot, but is not planning on tre
 
 ===== Faerun and Eberron as Simulations =====
 
-"Nature made the Human using one tool: The mistake" - Dr. Ford; Westworld.
-"Thin Anthony Hopkins" has decided that the best way to create an AI is to simulate a universe and let it develop on its own. This requires an enormous datacenter, each individual stored and run on a special ASIC, but the combination of numerous enormous contracts makes it possible.
+"Evolution forged the entirety of sentient life on this planet using only one tool: The mistake." - Dr. Ford; Westworld.
+"Thin Anthony Hopkins" has decided that the best way to create an AI is to simulate a universe and let it develop on its own. This requires an enormous data-center, each individual stored and run on a special ASIC, but the combination of numerous enormous contracts makes it possible.
 
 ==== Faerun ====
 

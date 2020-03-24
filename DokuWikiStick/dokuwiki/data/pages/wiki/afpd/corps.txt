@@ -1,12 +1,16 @@
-===== LAPD =====
+===== Academica =====
 
-Half corrupt. There's still good people in it, but they know to keep their heads down. The city doesn't fund them, so they have to fund themselves if you know what I mean. Between [[wiki:afpd:mission_1]] and [[wiki:afpd:mission_2]], they complete the purchase of autonomous drones that are "certified" to deploy force if needed. These drones come from [[#Doodle]].
+Basically Blackwater
+
+===== Astro Dollars =====
 
 ===== Doodle =====
 
-An enormous Google equivalent. If there's a way to make money with something, Doodle owns a piece of it. Their current "big" venture is a partnership with [[#Pauli Automotive]] to integrate self driving tech into Pauli's electric cars.
+An enormous Google equivalent. They were contracted by a number of companies to create a true AI.
+Most important person in this company is  [[wiki:afpd:mission_n|See more]].
+===== LAPD =====
 
-===== Astro Dollars =====
+Half corrupt. There's still good people in it, but they know to keep their heads down. The city doesn't fund them, so they have to fund themselves if you know what I mean. Between [[wiki:afpd:mission_1]] and [[wiki:afpd:mission_2]], they complete the purchase of autonomous drones that are "certified" to deploy force if needed. These drones come from [[#Doodle]].
 
 ===== Noblesse O. =====
 Has secured a contract with a number of large nations to create the first ever Skyhook. 
@@ -15,6 +19,3 @@ Has secured a contract with a number of large nations to create the first ever S
 
 has low orbit vacations for those who can pay up.
 
-===== Academica =====
-
-Basically Blackwater
