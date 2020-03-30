@@ -2,31 +2,38 @@
 
 This Faerun is not the canonical D&D Faerun you're used to. A number of changes were made to satisfy the WW2 inspired geopolitics, and quite a few natural phenomena are changed due to the relationship Faerun has to [[wiki:afpd:afpd]].
 
-===== Physics =====
+====== Physics ======
 
 Faerun is a crude simulation, and thus many nuanced natural phenomena don't occur.
 
   * **No Rainbows**: Rainbows were programmed into Eberron as a “2.0” feature, but never back-ported to Faerun to avoid disturbing too many people with a change in the simulation.
 
-===== Geopolitics =====
+====== Notable Locations ======
+
+===== Esania =====
+Esanian territory stretches from the Reghed Glacier to just 50 miles North of [[wiki:orkridge:Waterdeep]], and just far enough East so to contain the entirety of the High Forest. Esania was the first functional democracy on all of Faerun, and was quite successful for it.
+==== Neverwinter ====
+[[wiki:orkridge:Neverwinter]]
+
+Capital of **Esania**.
+===== Gerbaut =====
+
+Due to a complex set of geopolitical constraints, the Gerbaut found imperial expansion necessary. The first nation they went for was Esania. Victory was rapid and decisive.
+
+===== Oosah =====
+
+A plutocratic federation of nations along the East coast of Faerun including Thay, Oosah is not happy about the Gerbaut having what amounts to a monopoly over the Northern Sword Coast. Esania must be liberated... for a price of course.
+
+==== New Elfington ====
+[[wiki:orkridge:New Elfington]]
+
+====== Geopolitics ======
 
 Traditional serfdoms and kingdoms no longer dominate the land, instead having recently been replaced by oligarchies, dictatorships, and in some rare cases, real democracy. Nations are no longer defined by race. Elves, Dwarves, and orcs can be found most anywhere. Bigotry is still rampant, but there are rarely groups of one race around anymore. It's just not economically sane anymore.
 
 The three nations this adventure focuses on are: **Esania**, **Gerbaut**, and **Oosah**. These nations are more or less the Faerun equivalents of WW2 France, Germany, and the USA. At the start of the adventure, Gerbaut is occupying Esania, and Oosah is preparing to “liberate” Esania.
 
-==== Esania ====
 
-Esanian territory stretches from the Reghed Glacier to just 50 miles North of [[wiki:orkridge:Waterdeep]], and just far enough East so to contain the entirety of the High Forest. Esania was the first functional democracy on all of Faerun, and was quite successful for it. It's capital is [[wiki:orkridge:Neverwinter]]. It is currently occupied by the Gerbaut.
-
-==== Gerbaut ====
-
-Due to a complex set of geopolitical constraints, the Gerbaut found imperial expansion necessary. The first nation they went for was Esania. Victory was rapid and decisive.
-
-==== Oosah ====
-
-A plutocratic federation of nations along the East coast of Faerun including Thay, Oosah is not happy about the Gerbaut having what amounts to a monopoly over the Northern Sword Coast. Esania must be liberated... for a price of course.
-
-Oosah is home to [[wiki:orkridge:New Elfington]], that serves as a spot for the players to rest mentally from the war effort.
 
 ===== Technology =====
 
