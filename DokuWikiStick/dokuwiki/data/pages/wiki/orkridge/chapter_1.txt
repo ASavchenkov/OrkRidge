@@ -1,4 +1,4 @@
-====== Chapter 1: Area 52 ======
+====== Area 52 ======
 
 The characters are off to some dungeon or other. Whwat's inside isn't particularly important. The fact that it resides in technically off limits territory near Neverwinter that the Gerbaut has reserved for highly secret reasons.  The **Lost Mine of Phandelver** would likely be a good option since DMs could transition from that starter adventure to this one rather easily (assuming they haven't built too much high fantasy lore up already).
 
@@ -16,13 +16,13 @@ Two Gerbaut mages hide in ambush. Both have double the maximum range on their sp
 
 ====== The Device ======
 
-Working through this dungeon, they find it suspiciously easy, and recently disturbed. They finally find a large spherical device with dozens of the same tiny **Teleportation Circles** on it. They're accosted by [[wiki:orkridge:notable_individuals#Eddard Teller]] and his entourage. The party is a loose end for his secretive weapon design group.
+Working through this dungeon, they find it suspiciously easy, and recently disturbed. They finally find a large spherical device with dozens of the same tiny **Teleportation Circles** on it. They're accosted by [[wiki:notable_individuals#Eddard Teller]] and his entourage. The party is a loose end for his secretive weapon design group.
 
 ===== Encounter NPCs =====
 
-  * [[wiki:orkridge:notable_individuals#Eddard Teller]] (VGTM: Evoker):
+  * [[wiki:notable_individuals#Eddard Teller]] (VGTM: Evoker):
     * immediately casts **Summon Greater Demon** to summon a demon of DMs choice. One perfect source of the blood for this spell is that of the **Ghillie Mages** if they died.
-  * [[wiki:orkridge:notable_individuals#Kallan Starfield]] (VGTM : Abjurer):
+  * [[wiki:notable_individuals#Kallan Starfield]] (VGTM : Abjurer):
     * Protects Eddard Teller at all costs.
   * 4 heavily armored guards with pikes instead of morningstars (PotA : Black Earth Guard).
   * Two mage officers(VGM : Illusionist).
@@ -36,7 +36,7 @@ Regardless of result, the players witness the weapon in action far enough away s
 
 The Gerbaut fight to subdue and capture. Succeeding, they cuff the party and take them to a Neverwinter jail for questioning and a clandestine execution.
 
-In the jail, there are just two other occupants, [[wiki:orkridge:notable_individuals#Delphine]] and [[wiki:orkridge:notable_individuals#Emil]]. After a short (and if they don't want guards on them, quiet) conversation, an air raid siren goes off.
+In the jail, there are just two other occupants, [[wiki:notable_individuals#Delphine]] and [[wiki:notable_individuals#Emil]]. After a short (and if they don't want guards on them, quiet) conversation, an air raid siren goes off.
 
 //That's our cue// says Delphine, to the nodding approval of Emil. They stand and seem to prepare themselves to fight. Then a blast of dragonfire cuts the building in half, narrowly missing the party. Delphine and Emil invite the party to escape with them as guards are focused on the airborne attack on the city.
 
@@ -48,7 +48,7 @@ It is at this point that they do need to end up in Neverwinter. The best course 
 
 If the conversation does not naturally go in the direction of visiting Neverwinter, simply ask honestly for the players to come up with a good reason to go there, or come up with a quest hook yourself if you're feeling bold.
 
-In Neverwinter, when they pass by an innocuous enough looking building (the jail from Option 1), they hear air raid sirens, and they see a [[wiki:orkridge:notable_individuals#Dron|young bronze dragon]], as well as several smaller figures raining fire on oddly precise locations in the city. The dragon cuts the building in half, and from it scurry [[wiki:orkridge:notable_individuals#Delphine]] and [[wiki:orkridge:notable_individuals#Emil]], followed by two guards. The guards notice the party on a wanted poster, and become hostile.
+In Neverwinter, when they pass by an innocuous enough looking building (the jail from Option 1), they hear air raid sirens, and they see a [[wiki:notable_individuals#Dron|young bronze dragon]], as well as several smaller figures raining fire on oddly precise locations in the city. The dragon cuts the building in half, and from it scurry [[wiki:notable_individuals#Delphine]] and [[wiki:notable_individuals#Emil]], followed by two guards. The guards notice the party on a wanted poster, and become hostile.
 
 ====== The Resistance ======
 
@@ -59,12 +59,12 @@ The resistance hideout is an unfinished hotel along the southern shore of Neverw
 
 It is here that the party meets the "rest of" the resistance:
 
-  * [[wiki:orkridge:notable_individuals#Stannis Ulam]]
-  * [[wiki:orkridge:notable_individuals#Amy Sandbar]]
+  * [[wiki:notable_individuals#Stannis Ulam]]
+  * [[wiki:notable_individuals#Amy Sandbar]]
 
-The conversation likely naturally makes a turn towards the weapon the party witnessed, and the Gerbaut scientist ([[wiki:orkridge:notable_individuals#Eddard Teller]]) they encountered.
+The conversation likely naturally makes a turn towards the weapon the party witnessed, and the Gerbaut scientist ([[wiki:notable_individuals#Eddard Teller]]) they encountered.
 
-Stannis Ulam takes a keen interest in this, as, unknown to the party, he co-invented the device, but never saw it in effect. This prompts him to take the party to speak with [[wiki:orkridge:notable_individuals#Leosh Teller]], whom he merely calls "a talented artificer". Leosh has seismometers in several locations, and should be able to confirm the party's story.
+Stannis Ulam takes a keen interest in this, as, unknown to the party, he co-invented the device, but never saw it in effect. This prompts him to take the party to speak with [[wiki:notable_individuals#Leosh Teller]], whom he merely calls "a talented artificer". Leosh has seismometers in several locations, and should be able to confirm the party's story.
 
 ===== Leo's Artificing =====
 
@@ -90,7 +90,7 @@ Success means stealing or destroying the weapons, and escaping without leading t
 
 ==== Electrical Prototypes ====
 
-[[wiki:orkridge:notable_individuals|Azusa Actor]] was coerced by the Gerbaut military to turn her research efforts to the Gerbaut military cause, under threat of redistributing ownership of the family industry to Gerbaut citizens. The laboratory where she is developing these weapons is on the 20th story of [[wiki:orkridge:Neverwinter#Actor Tower]].
+[[wiki:notable_individuals#Azusa Actor]] was coerced by the Gerbaut military to turn her research efforts to the Gerbaut military cause, under threat of redistributing ownership of the family industry to Gerbaut citizens. The laboratory where she is developing these weapons is on the 20th story of [[wiki:orkridge:Neverwinter#Actor Tower]].
 
 This needs to happen during the Actor Tower ribbon cutting ceremony, in order to divert suspicion away from her, as she will be present at the ceremony.
 
@@ -98,7 +98,7 @@ Some weapons on the 20th floor are powered by the electricity developed by the s
 
   * **Mecha Chimera**: A regular **Chimera**, but instead of a breath weapon, each head can fire a taser once during the battle.
   * **Robo Golem**: **Flesh Golem**, but with Plate Armor.
-  * **Electromagnetic Turret**, Fires a piercing sabot each round.
+  * **Electromagnetic Turret**, Fires an [[https://en.wikipedia.org/wiki/Armour-piercing_discarding_sabot|APDS]] each round.
     * This is represented by a **Lightning Bolt** that does 6d6 **piercing damage** instead of 8d6 lightning damage.
 
 Each prototype weapon is powered by an armored tether with AC 18, but an HP of 5. Severing this tether disables the weapon.
@@ -114,7 +114,7 @@ There are a number of non operational prototypes and other items here too, inclu
 
 A fixed plot point is that the party is somehow tracked by the Gerbaut, either through their own blundering, as the result of a chase, or thanks to the efforts of a particularly cunning Gerbaut officer.
 
-They are fired upon at great distance by powerful ballistae, at which point [[wiki:orkridge:notable_individuals#Stannis Ulam]] immediately hides behind cover and announces that he needs 1 minute to cast **Teleportation Circle** to get everyone out.
+They are fired upon at great distance by powerful ballistae, at which point [[wiki:notable_individuals#Stannis Ulam]] immediately hides behind cover and announces that he needs 1 minute to cast **Teleportation Circle** to get everyone out.
 
 Ideally this happens right after the characters get a short rest after destroying the electrical prototypes.
 
@@ -134,7 +134,7 @@ NPC stat blocks for the following encounter come from [[https://www.reddit.com/r
 
 ===== Escape =====
 
-Assuming the party has some degree of success defending their position, [[wiki:orkridge:notable_individuals|Stannis Ulam]] completes the **Teleportation Circle**, and the rest of the resistance begins to head through. Stannis and Leosh wait for the party to go through, but as the party reaches the circle, it shuts down.
+Assuming the party has some degree of success defending their position, [[wiki:notable_individuals#Stannis Ulam]] completes the **Teleportation Circle**, and the rest of the resistance begins to head through. Stannis and Leosh wait for the party to go through, but as the party reaches the circle, it shuts down.
 
 The permanent circle was compromised, and the resistance was teleporting into a trap.
 Stannis changes the runes to a different permanent circle, and tells the party to alert Oosah of the weapon and of the resistance's position. He and Leosh stay behind as the rear guard, then **Dimension Door** to narrowly escape and attempt to save their friends.

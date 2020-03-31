@@ -2,13 +2,34 @@
 
 This is the city the party ends up in after escaping [[wiki:orkridge:Neverwinter]].
 
+====== Factions ======
+
+Numerous groups are vying for control, or simply trying to survive in this city.
+
+===== Duads =====
+
+A large criminal organization primarily focused on illegal drugs, the Duads have recently been making big profits off of [some new drug]. In my case it was **powdered gold**.
+
+This drug is so popular during wartime that they even start branching out into music. They've been looking to acquire the [[wiki:orkridge:New Elfington#Swing Sisters]], but they've not been receptive to the Duads business propositions.
+
+===== Swing Sisters =====
+
+<del>Plagiarized from</del> "Inspired by" the [[https://en.wikipedia.org/wiki/The_Blues_Brothers_(film)|Blues Brothers]]
+
+A band consisting of [[wiki:notable_individuals#Jackie Swing]], [[wiki:notable_individuals#Ellie Swing]], as well as a complement of talented musicians from their long gone past. They're looking to do one last gig to pay their old churches taxes and save it.
+
+The law is hot on their tail though, after a number of egregious moving violations.
+They've also stolen business from The [[wiki:orkridge:new_elfington#Duads]] own musical efforts, but it's all OK because they're "on a mission from God".
+
+====== Notable Locations ======
+
 ===== Logistics Headquarters =====
 
 The first place the party visits. It's a pyramidal structure with some modest dormitories that the party might make use of depending on the relationship they build with [[wiki:notable_individuals#The General]] and [[wiki:notable_individuals#Dron]].
 
 ===== Theater =====
 
-Where the party might go to relax and see a show, potentially the **Swing Sisters** debut show.
+Where the party might go to relax and see a show, potentially the **Swing Sisters** reunion show.
 
 ===== Derby Arena =====
 

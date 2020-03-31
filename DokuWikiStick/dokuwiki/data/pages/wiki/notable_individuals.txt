@@ -52,6 +52,10 @@ Notable Individuals are categorized by whether they are first met by the party i
       * Summon Greater Demon.
       * Teleportation Circle.
 
+==== Ellie Swing ====
+
+  * One of the legendary **Swing Sisters**
+  * Half Elf
 ==== Emil ====
 
   * Powerful orc warrior.
@@ -63,6 +67,11 @@ Notable Individuals are categorized by whether they are first met by the party i
 
   * Overall military commander of the Oosah.
   * First met when the party ends up teleporting into his command center.
+
+==== Jackie Swing ====
+
+  * One of the legendary **Swing Sisters**
+  * Half dwarf.
 ==== Kallan Starfield ====
 
   * "Assistant" to [[wiki:notable_individuals#Eddard Teller]].
