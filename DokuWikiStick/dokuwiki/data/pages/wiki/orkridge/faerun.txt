@@ -11,7 +11,7 @@ Faerun is a crude simulation, and thus many nuanced natural phenomena don't occu
 ====== Notable Locations ======
 
 ===== Esania =====
-Esanian territory stretches from the Reghed Glacier to just 50 miles North of [[wiki:orkridge:Waterdeep]], and just far enough East so to contain the entirety of the High Forest. Esania was the first functional democracy on all of Faerun, and was quite successful for it.
+Esanian territory stretches from the Reghed Glacier to just 50 miles North of **Waterdeep**, and just far enough East so to contain the entirety of the **High Forest**. Esania was the first functional democracy on all of Faerun, and was quite successful for it.
 ==== Neverwinter ====
 [[wiki:orkridge:Neverwinter]]
 
