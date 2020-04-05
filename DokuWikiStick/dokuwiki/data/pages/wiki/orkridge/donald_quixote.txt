@@ -1,0 +1,14 @@
+====== Donald Quixote ======
+
+If the players ever spend time in a small town, they'll come across **Donald Quixote**, a paladin on a steed, who tells them:
+
+//"Go no further! See the beasts ahead? Enormous monstrosities menace you with their blades!"//
+He is pointing at a windmill.
+
+//"I will dispense with it and then you may pass."//
+
+He then charges with his lance at the windmill, and predictably sticks into it, not affecting it at all.
+
+====== Windmill Mimic ======
+
+That's right. The windmill really is a monster. It's a Gargantuan Mimic.
