@@ -1,6 +1,10 @@
 ====== Donald Quixote ======
 
-If the players ever spend time in a small town, they'll come across **Donald Quixote**, a paladin on a steed, who tells them:
+If the players ever spend time in a small town, they'll come across some kids complaining:
+
+//"Aww man. I can't believe that crazy dude won't let us check it out. I swear it really is haunted!"// -**Cattylan Brosnalian**
+
+That crazy dude is **Donald Quixote**, a paladin on a noble steed (a donkey). If they get too close to the "haunted windmill", he stops them and says:
 
 //"Go no further! See the beasts ahead? Enormous monstrosities menace you with their blades!"//
 He is pointing at a windmill.
@@ -11,4 +15,7 @@ He then charges with his lance at the windmill, and predictably sticks into it, 
 
 ====== Windmill Mimic ======
 
-That's right. The windmill really is a monster. It's a Gargantuan Mimic.
+That's right. The windmill really is a monster. It's a Gargantuan Mimic. Fighting it happens in two phases.
+
+  - Windmill Form: The blades move towards the bottom, and start spinning horizontally. These are it's weapons, and they're sticky, so don't get hit by them.
+  - Mimic Form: Once it's captured enough of the party, or been taken down enough health, it turns into its shapeless mimic form, and starts gobbling people up.
