@@ -107,7 +107,7 @@ Notable Individuals are categorized by whether they are first met by the party i
 
   * Saved a bunch of people from the Mourning in his ship, making several suicidal trips in.
   * Brelish war hero as a result. Has a park named after him in Sharn.
-  * Struggles to adapt to regular peacetime life, spends his free time racing and doing Aerial Jousts.
+  * Struggles to adapt to regular peacetime life, spends his free time racing with [[wiki:notable_individuals#Reda Aenward]] and doing Aerial Jousts.
   * Almost won the last Baka-R, but because he was alone, was knocked out early in the Sharn stage.
   * Uses Linkin Park quotes.
 
@@ -137,6 +137,12 @@ Notable Individuals are categorized by whether they are first met by the party i
   * Racially Ambiguous.
   * Represents the interests of New Cyre.
 
+==== Reda Aenward ====
+
+  * Air Elemental.
+  * "Served" alongside [[wiki:notable_individuals#Broham Lincoln]] in the war.
+    * (As with other elementals, was forcibly bound to the vehicle Broham piloted.
+  * They grew close over the course of the war, and at the end decided to continue flying together
 ==== Rei d'Thuranni ====
 
   * Member and dubious leader of house Thuranni.
