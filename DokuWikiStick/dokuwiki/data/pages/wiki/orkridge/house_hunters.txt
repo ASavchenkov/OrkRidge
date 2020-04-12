@@ -1,3 +1,23 @@
 ====== House Hunters ======
 
-People have been disappearing in the nearby neighborhoods. The most recent victim is [[https://en.wikipedia.org/wiki/Milo_Minderbinder|Melon Bandermander]], personal chef of [[wiki:notable_individuals#The General]]. [[wiki:notable_individuals#Dron]] is convinced that the 
+People have been disappearing in the nearby neighborhoods. The most recent victim is [[https://en.wikipedia.org/wiki/Milo_Minderbinder|Melon Bandermander]], personal chef of [[wiki:notable_individuals#The General]].
+
+[[wiki:notable_individuals#Dron]] is convinced that the [[wiki:orkridge:new_elfington#Duads]] are somehow involved, and wants the party to go find him if they have the time. His last communication with Melon was that he was going to an address to get "some real good stuff" for [[wiki:notable_individuals#The General]]. Dron gives them this address.
+
+When the party gets there, the house at the address is gone, with dozens of footprints leading into the street, as if it was carried away by a massive group of people.
+
+====== The Gazebo ======
+
+As the party is investigating the scene, some Xtreme teens skateboard past, chatting about the new gazebo that popped up overnight, and how they're going to tag it, which is funny because a gazebo takes more than one day to build. This happens to be the same direction that the footprints disappear in.
+
+Further investigation leads them to the same park where these teens are struggling with something. It seems one of them is stuck to something, perhaps some very sticky gum.
+
+====== Monster House ======
+
+In reality, this Gazebo is a mimic. It ate Melon Manderbander last night, and is planning to eat these teens. If the party gets too suspicious, it'll eat them too.
+
+Upon killing it, the most recent corpse, that of Melon Manderbander, is disgorged. He's definitely dead, but seems to have not digested properly. **Detect Magic** or an Arcana check show that he's under the effect of the spell **Gentle Repose**. (//Melon Manderbander doesn't hold with raising the dead, so he made sure to have a necklace enchanted with it to make sure he was never raised as a zombie.//). This means that he can be brought back from the dead with **Revivify**.
+
+====== Wet Markets ======
+
+Mimic meat is very rare, and highly sought after, and this much meat is sure to bring a large sum of money in. If the party revives him, he's sure to share some of the profits.
