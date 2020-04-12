@@ -54,7 +54,7 @@ Notable Individuals are categorized by whether they are first met by the party i
 
 ==== Ellie Swing ====
 
-  * One of the legendary **Swing Sisters**
+  * One of the legendary [[wiki:orkridge:Swing Sisters]]
   * Half Elf
 ==== Emil ====
 
@@ -63,6 +63,15 @@ Notable Individuals are categorized by whether they are first met by the party i
   * Brother by circumstance to [[wiki:notable_individuals#Delphine]]
   * First encountered by the players in or next to a Gerbaut jail.
 
+==== Funky Claude ====
+
+  * Originally a half elf necromancer/healer.
+  * Met the Warforged at [[wiki:orkridge:The Lost Peaks]] **90 years prior** to the adventure.
+  * Became a **Balenorn** to continue researching how to revive dead Warforged.
+  * Traveled with them to [[wiki:orkridge:New Elfington]] after figuring out how to revive their dead.
+  * Got in hot water with the [[wiki:orkridge:new_elfington#Duads]] in New Elfington just prior to the adventure, and got whacked.
+  * Luckily had a **clone** ready, but woke up with amnesia.
+  * When the party meets him, he's the agent for the [[wiki:orkridge:Swing Sisters]], booking them big gigs.
 ==== The General ====
 
   * Overall military commander of the Oosah.
@@ -70,7 +79,7 @@ Notable Individuals are categorized by whether they are first met by the party i
 
 ==== Jackie Swing ====
 
-  * One of the legendary **Swing Sisters**
+  * One of the legendary [[wiki:orkridge:Swing Sisters]]
   * Half dwarf.
 ==== Kallan Starfield ====
 
