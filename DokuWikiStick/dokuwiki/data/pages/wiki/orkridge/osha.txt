@@ -1,0 +1,51 @@
+====== OSHA ======
+
+In [[wiki:orkridge:New Elfington]], there is a dynamite factory. In the middle of the night, the party awakes to the sound of a small explosion, shortly followed by an enormous explosion (we're talking fractions of a second), and a raging fire. Events and clues here closely follow the [[https://en.wikipedia.org/wiki/Chernobyl_disaster | Chernobyl disaster]].
+
+The party arrives to firemen attempting to put the fire out. **Datelove MorkSork**, the person in charge of the factory, is on a stretcher, barely conscious. He thinks one of his crewmen, **Akim**, was a saboteur, and needs to be caught and stopped. He's certain the [[wiki:orkridge:Faerun#Gerbaut]] are somehow responsible. Firemen start falling ill and needing to be dragged away.
+
+====== What Happened ======
+
+First, we need to cover some things about dynamite, notably that it's just some sort of sorbent, such as wood pulp, mixed with nitroglycerin. [[https://en.wikipedia.org/wiki/Dynamite | Wikipedia]] is a much better source for actually learning how it is made.
+
+This means that you need to make nitroglycerin first, once again described well on [[https://en.wikipedia.org/wiki/Nitroglycerin#Manufacturing | Wikipedia]].
+
+Thus this is a dynamite factory, but it's also making nitroglycerin at the same time to avoid having to transport it too far.
+
+===== Mistake 1 =====
+
+In short, when mixing the acid and glycerin, heat is released, which can create nitrogen dioxide, which is both poisonous and at risk of explosion. for this reason  you need to keep things around **22 degrees C**. If things got hotter than **30 degrees C**, you're supposed to drown the mixture to keep it from exploding.
+
+**Datelove** didn't think this was necessary, and instructed employees to attempt salvaging the mixture instead by increasing cooling capacity. This failed, and caused the first small explosion.
+
+===== Mistake 2 =====
+
+The factory has been working so "efficiently" that the dynamite can't be moved fast enough! Great right? Not when it [[https://en.wikipedia.org/wiki/Dynamite#Storage_considerations | sits in the loading bay for weeks at a time]].
+
+If you don't flip it occasionally, it starts to "weep" nitroglycerin, which is sensitive enough that the first explosion can set //it// off, setting the rest of the dynamite off.
+
+===== Mistake 3 =====
+
+Storing the intermediate products close to each other was a bad idea. Now that the containers are damaged, both the acid and glycerin are pouring into each other, slowly burning and releasing poison into the air. If this isn't stopped, the whole city could get sick.
+
+====== Clues ======
+
+===== Akim is Dead =====
+
+Plunging into the factory fire, the party likely finds **Akim** dead, no evidence of sabotage around him.
+
+===== The Sickness =====
+
+**Ignitin**, a fire genasi firefighter, is getting sick from the **nitrogen dioxide** (reddish brown, harsh smelling gas). There's a chemical reaction going on in there that's poisoning people.
+
+===== Two Explosions =====
+
+Witnesses state there were two explosions, one smaller and one larger right after. **Datelove** believes this to be evidence in favor of his theory.
+
+===== Janitors Closet =====
+
+If the party goes in to try to rescue survivors, they find a janitor. On asking her about the incident, or just her duties, she mentions that she was tired of having to clean up oil spills around the loading dock. (This oil being the nitroglycerin that wept out of the dynamite sticks.)
+
+===== Other Survivors =====
+
+If this is not enough, other survivors might mention their anxiety over **Datelove**'s orders to try to salvage runaway reactions.

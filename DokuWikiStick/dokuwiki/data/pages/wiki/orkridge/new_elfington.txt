@@ -32,6 +32,18 @@ This was not to the liking of the Duads, and when the Warforged were not willing
 Unfortunately, Claude recently disappeared, and the bodies have slowly been piling up. By the time the party shows up, there is only one Warforged left, and he's planning to run a team of non Warforged.
 ====== Notable Locations ======
 
+===== Derby Arena =====
+
+An enormous arena used to stage highly violent demolition derbies.
+
+===== Duad Hideout =====
+
+A hideout that the Duads stage their operations from.
+
+===== Dynamite Factory =====
+
+The focus of [[wiki:orkridge:OSHA]], a factory where rushed quotas end in horrible consequences.
+
 ===== Logistics Headquarters =====
 
 The first place the party visits. It's a pyramidal structure with some modest dormitories that the party might make use of depending on the relationship they build with [[wiki:notable_individuals#The General]] and [[wiki:notable_individuals#Dron]].
@@ -40,10 +52,3 @@ The first place the party visits. It's a pyramidal structure with some modest do
 
 Where the party might go to relax and see a show, potentially the **Swing Sisters** reunion show.
 
-===== Derby Arena =====
-
-An enormous arena used to stage highly violent demolition derbies.
-
-===== Duad Hideout =====
-
-A hideout that the Duads stage their operations from.

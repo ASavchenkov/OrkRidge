@@ -17,7 +17,7 @@ In the meantime, they need a team //right now//. Will the party join the last su
 There is only one rule. When the teams conveyance stops moving for a full minute, they're out. Violence is assumed.
 
 ====== Contestants ======
-
+----
 ===== Aquatic Arcana =====
 
 A manta ray shaped hovercraft captained by a mage (potentially **Jim Darkmagic** if you have **Acquisitions Inc.**). Primarily focused on permanently killing or maiming Warforged under instruction from the [[wiki:orkridge:new_elfington#Duads]].
