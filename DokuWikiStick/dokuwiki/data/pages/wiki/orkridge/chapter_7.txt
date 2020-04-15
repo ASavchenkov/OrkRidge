@@ -31,8 +31,9 @@ If the nature of New Elfington's appearance is revealed by the party (and it's v
 
 ===== Leosh's Plans =====
 
-Leosh has his own plans. He's made it out of New Elfington with his father through a casting of a **Teleport** spell, specifically to **Anythrawn Keep**. From there he makes an arduous journey through Thrane to **Aundair: Arcanix**, where he hopes to learn how to control **The Device**, and bring the city back.
+Leosh has his own plans. He's made it out of New Elfington with his father through a casting of a **Teleport** spell, specifically to **Anythrawn Keep**. From there he makes an arduous journey through Thrane to **Aundair: Arcanix**, where he hopes to learn more about the physics behind this device he made.
 
+This gets him embroiled in the [[wiki:orkridge:COLA]] strikes at **Arcanix**
 ===== Rainbow =====
 
 After their first session in the **United Kingdoms**, it starts raining. This is important because when it stops raining, there will be a rainbow, which should be entirely foreign to native Faerunians since //there aren't any rainbows on Faerun.//
@@ -43,15 +44,13 @@ It hurts to look at, but the pain subsides over time, and it's beautiful.
 
 It is at this point that the party will probably want to become involved in the city. They have some time to do what they want to do. Certain thematically appropriate "side quests" are linked below.
 
-[[wiki:orkridge:Altered CATS]]: A rip off of "Altered Carbon" and "CATS". Classic murder mystery with two twists.
+  * [[wiki:orkridge:Altered CATS]]: A rip off of "Altered Carbon" and "CATS". Classic murder mystery with two twists.
+  * [[wiki:orkridge:Baka R]]
+  * [[wiki:orkridge:COLA]]
+  * [[wiki:orkridge:Lichium]] Try to learn the secrets of "The Device" 
+  * [[wiki:orkridge:Orbital Blockade]] Metro 2033 inspired delve into Metrol
+  * [[wiki:orkridge:Steamed Hams]] "Steamed Hams" 
 
-[[wiki:orkridge:Orbital Blockade]] Metro 2033 inspired delve into Metrol.
-
-[[wiki:orkridge:Lichium]] Try to learn the secrets of "The Device" 
-
-[[wiki:orkridge:Steamed Hams]] "Steamed Hams" 
-
-[[wiki:orkridge:Baka R]]
 
 ----
 ====== Dreaming Dark ======
