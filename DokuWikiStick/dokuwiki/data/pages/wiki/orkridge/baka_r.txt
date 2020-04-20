@@ -24,8 +24,19 @@ This may come into play outside of **Korth** and in **The Demon Wastes**.
 
 The route contestants need to take is given to them the day before. This consists of directions, and checkpoints that contestants need to pass through.
 
-This years roadbook is nearly suicidal, with checkpoints near [[https://eberron.fandom.com/wiki/Korth | Korth]] and an entire section traversing **The Labyrinth** in [[https://eberron.fandom.com/wiki/The_Demon_Wastes | The Demon Wastes]]
+One of [[wiki:notable_individuals#Broham Lincoln]]'s friends here finds him the night before.
 
+//"Hey, you get a roadbook yet?"//
+
+//"Nope. Don't feel like standing in line."//
+
+//"Well, I'll save you the trouble. You can have mine"//
+
+//"Come again?"//
+
+//"I'm not going, and neither should you."//, he say's as he tosses the map to Broham.
+
+This years roadbook is nearly suicidal, with checkpoints near [[https://eberron.fandom.com/wiki/Korth | Korth]] and an entire section traversing **The Labyrinth** in [[https://eberron.fandom.com/wiki/The_Demon_Wastes | The Demon Wastes]]
 ==== (Start) Lake Home ====
 
 A town of beach dwarves in the Mror Holds serves as the starting point, as well as the best place to party before the race. It's Fantasy Miami.
@@ -38,19 +49,38 @@ A city focused entirely on security gets bored, so it's agreed to allow the firs
 
 A simple task, but not necessarily easy. The air is cold and thin up here. Here's to hoping you have some sort of breathing apparatus or magic.
 
-==== Teryk ====
+==== Atur ====
 
-Might be a good place to have people resupply you on the move.
+Might be a good place to have people resupply you on the move if you don't have the magical survivability.
 
-==== The Nightwood and Korth ====
+==== The Nightwood ====
 
-A forest with close ties to the Plane of Mabar, it is host to a number of horrible monsters. Unfortunately, the next checkpoint is in between the Nightwood and Korth. If you don't want to be shot down by Karrnath long range AA, you'll need to come in through the Nightwood, hit the checkpoint, and bug out west.
+A forest with close ties to the Plane of Mabar, it is host to a number of horrible monsters. Most decide to go around. Broham thinks going through it is a better idea. It sure would save time.
 
-If you're looking for a fun scripted event, then [[wiki:notable_individuals#Broham Lincoln]] is flying during the exit from the **Northern Wood**, and is unable to cope with the large number of defenses. He is knocked out, and the party crashes. After a short time, someone else lands next to them, giving them the **Coopertition** speech.
+If the party is cool with this, and they end up going through The Nightwood, they could run into basically any monster, a **zombie beholder** perhaps?
+
+==== Korth ====
+
+If you're looking for a fun scripted event, then [[wiki:notable_individuals#Broham Lincoln]] is flying during the exit from the **Northern Wood**, and is unable to cope with the large number of surface to air defenses. He is knocked out, and the party crashes.
+
+Karranth military police are advancing on the crash site to arrest the interlopers, and the party will need to defend itself.
+
+I personally sent a **Bone Knight** and **4 Karrnathi Undead Soldiers** at the party, but gave them some cool abilities.
+
+  * The **Bone Knight** had the ability to call for **fire support**, producing increasingly accurate fireballs each turn.
+    * //FB-2, this is MP-5, fire mission, over//
+    * //Grid PG 934 498, over//
+    * //Armed Baka-R participants in cover. Danger Close, over.//
+    * (//Adjust Fire. Direction 1700, add x, left y, over.//
+  * the **Karrnathi Undead Soldiers** had
+    * the ability to fire on any moving creature as a reaction
+    * As well as reduce the movement speed and effectiveness of anyone they were shooting at.
+
+After a short time, someone else lands next to them, giving them the **Coopertition** speech, and helping them repair the ship.
 
 ==== Thronehold, Flamekeep, The Face of Tira, Fairhaven, Passage ====
 
-All places with lots of spectators and not much danger.
+All places with lots of spectators and not much danger. Thronehold is where most are actually resupplying. If the ship sustained damage, it's a good idea to phone ahead and get spare parts.
 
 ==== Arcanix ====
 
