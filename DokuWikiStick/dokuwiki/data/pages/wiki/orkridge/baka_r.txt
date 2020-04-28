@@ -57,7 +57,7 @@ Might be a good place to have people resupply you on the move if you don't have 
 
 A forest with close ties to the Plane of Mabar, it is host to a number of horrible monsters. Most decide to go around. Broham thinks going through it is a better idea. It sure would save time.
 
-If the party is cool with this, and they end up going through The Nightwood, they could run into basically any monster, a **zombie beholder** perhaps?
+If the party is cool with this, and they end up going through The Nightwood, they could run into basically any monster.
 
 ==== Korth ====
 
@@ -97,6 +97,7 @@ There are four checkpoints in [[https://eberron.fandom.com/wiki/The_Demon_Wastes
 
 The party may have to rescue some people who got taken down by a Rakshasa and its minions. Remember **Coopertition**.
 
+Alternatively, The demons could force the party to play "Trial by Trolley." with your favorite characters added into the mix.
 ==== The Great Crag ====
 
 Once the party has left **The Demon Wastes**, they're on the home stretch. The only checkpoint left before Sharn is **The Great Crag** in [[https://eberron.fandom.com/wiki/Droaam | Droaam]].
