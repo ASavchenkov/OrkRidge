@@ -61,15 +61,15 @@ If the party is cool with this, and they end up going through The Nightwood, the
 
 ==== Korth ====
 
-If you're looking for a fun scripted event, then [[wiki:notable_individuals#Broham Lincoln]] is flying during the exit from the **Northern Wood**, and is unable to cope with the large number of surface to air defenses. He is knocked out, and the party crashes.
+If you're looking for a fun scripted event, then [[wiki:notable_individuals#Broham Lincoln]] is flying during the exit from the **Northern Wood**. He expected SAM fire, but he didn't expect combat air patrols or any real alertness. Unfortunately, as nations re-start research into "The Device", they get increasingly paranoid.
 
-Karranth military police are advancing on the crash site to arrest the interlopers, and the party will need to defend itself.
+Karranth commandos are advancing on the crash site to arrest the interlopers, and the party will need to defend itself.
 
 I personally sent a **Bone Knight** and **4 Karrnathi Undead Soldiers** at the party, but gave them some cool abilities.
 
   * The **Bone Knight** had the ability to call for **fire support**, producing increasingly accurate fireballs each turn.
-    * //FB-2, this is MP-5, fire mission, over//
-    * //Grid PG 934 498, over//
+    * //Foxtrot-Beta-2, this is Mike-Papa-5, fire mission, over//
+    * //Grid Papa-Golf 934 498, over//
     * //Armed Baka-R participants in cover. Danger Close, over.//
     * (//Adjust Fire. Direction 1700, add x, left y, over.//
   * the **Karrnathi Undead Soldiers** had
