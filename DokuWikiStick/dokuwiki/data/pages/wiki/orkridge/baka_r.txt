@@ -98,6 +98,8 @@ There are four checkpoints in [[https://eberron.fandom.com/wiki/The_Demon_Wastes
 The party may have to rescue some people who got taken down by a Rakshasa and its minions. Remember **Coopertition**.
 
 Alternatively, The demons could force the party to play "Trial by Trolley." with your favorite characters added into the mix.
+
+**In Trial By Trolley, death tokens convert into levels of exhaustion for the PCs**
 ==== The Great Crag ====
 
 Once the party has left **The Demon Wastes**, they're on the home stretch. The only checkpoint left before Sharn is **The Great Crag** in [[https://eberron.fandom.com/wiki/Droaam | Droaam]].
