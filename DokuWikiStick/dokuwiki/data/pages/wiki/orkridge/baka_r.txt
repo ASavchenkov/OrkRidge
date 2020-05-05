@@ -34,7 +34,7 @@ One of [[wiki:notable_individuals#Broham Lincoln]]'s friends here finds him the 
 
 //"Come again?"//
 
-//"I'm not going, and neither should you."//, he say's as he tosses the map to Broham.
+//"I'm not going, and neither should you."//, she say's as he tosses the map to Broham.
 
 This years roadbook is nearly suicidal, with checkpoints near [[https://eberron.fandom.com/wiki/Korth | Korth]] and an entire section traversing **The Labyrinth** in [[https://eberron.fandom.com/wiki/The_Demon_Wastes | The Demon Wastes]]
 ==== (Start) Lake Home ====
@@ -47,7 +47,7 @@ A city focused entirely on security gets bored, so it's agreed to allow the firs
 
 ==== Icetop Mountains ====
 
-A simple task, but not necessarily easy. The air is cold and thin up here. Here's to hoping you have some sort of breathing apparatus or magic.
+A simple task, but not necessarily easy. The air is cold and thin up here. Here's to hoping you have some sort of breathing apparatus and magic cooling.
 
 ==== Atur ====
 
@@ -89,7 +89,7 @@ This is where [[wiki:notable_individuals#Leosh Teller]] ended up in his search f
 
 ==== The Demon Wastes ====
 
-There are four checkpoints in [[https://eberron.fandom.com/wiki/The_Demon_Wastes | The Demon Wastes]]:
+There are four checkpoints in [[wiki:orkridge:The Demon Wastes]]:
 
   - The Ash Beacon
   - North-East entrance to **The Labyrinth**

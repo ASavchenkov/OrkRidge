@@ -12,6 +12,7 @@ This is the point at which the [[wiki:orkridge:orkridge | Ork Ridge]] and [[wiki
     * Land Drones that can operate in poor conditions with poor communications.
   * [[wiki:afpd:corps#LAPD]]: Wants drones that can enforce the law in lower income neighborhoods.
   * [[wiki:afpd:corps#Solarion]]: Wants drones to do work in hazardous conditions.
+  * [[wiki:afpd:corps#Doodle]]: Wants self driving car AI.
 
 Each of these corps wants a basically sentient robot, but is not planning on treating them well. They see a new source of slaves, and have offered the Doodle AI division "A deal they couldn't refuse."
 
