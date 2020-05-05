@@ -70,13 +70,14 @@ I personally sent a **Bone Knight** and **4 Karrnathi Undead Soldiers** at the p
   * The **Bone Knight** had the ability to call for **fire support**, producing increasingly accurate fireballs each turn.
     * //Foxtrot-Beta-2, this is Mike-Papa-5, fire mission, over//
     * //Grid Papa-Golf 934 498, over//
-    * //Armed Baka-R participants in cover. Danger Close, over.//
+    * //Armed Baka-R participants in cover. Danger Close.//
     * (//Adjust Fire. Direction 1700, add x, left y, over.//
+    * //Fire for effect, over."//
   * the **Karrnathi Undead Soldiers** had
     * the ability to fire on any moving creature as a reaction
     * As well as reduce the movement speed and effectiveness of anyone they were shooting at.
 
-After a short time, someone else lands next to them, giving them the **Coopertition** speech, and helping them repair the ship.
+After a short time, someone else lands next to them, potentially a close friend of Broham Lincoln, **Guie Kova**, giving them the **Coopertition** speech, and helping them repair the ship.
 
 ==== Thronehold, Flamekeep, The Face of Tira, Fairhaven, Passage ====
 
@@ -84,7 +85,7 @@ All places with lots of spectators and not much danger. Thronehold is where most
 
 ==== Arcanix ====
 
-This is where [[wiki:notable_individuals#Leosh Teller]] ended up in his search for the appropriate knowledge and materials. If the party has ignored him up until now, he is in the middle of heisting both.
+This is where [[wiki:notable_individuals#Leosh Teller]] ended up in his search for the appropriate knowledge and materials. If the party has ignored him up until now, he is in the middle of heisting both, while simultaneously starting a labour movement in the midst of the [[wiki:orkridge:COLA]] debacle.
 
 ==== The Demon Wastes ====
 
