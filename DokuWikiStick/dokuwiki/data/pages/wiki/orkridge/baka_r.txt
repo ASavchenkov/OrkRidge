@@ -111,3 +111,26 @@ These are just some cool rock climbing monsters who watch the race after really 
 
 This is the final stage of the race, and involves several checkpoints. The danger here is the other contestants. Since this is so close to the finish line, **coopertition** goes out the window. Everyone wants the checkered flag.
 
+The contestants include some of those that were there during the first street race:
+
+  * **Bon the Wizard:** An undercover member of the blackened book who prefers to do his investigations up close and personal.
+    * Crew of two burly goons with a well hidden intelligence.
+  * [[wiki:notable_individuals#Rei d'Thuranni]] Runs a sky-cycle alone.
+    * Very fast and hard to hit, exclusively uses a regular long-sword if violence is necessary.
+  * **Dia and Dillon:** Two Gnomes who operate what seems to literally be a flying saucer. 
+    * They're newcomers to the whole illegal street racing thing, but they're both talented pilots, and their saucer has a number of ingenious features.
+    * **Reactive Armor:** If a powerful projectile makes contact with the vehicle, it blows up and destroys it. One use on each of the 4 sides.
+    * **Momentary Intangibility:** It's not invisible, but for a moment it wasn't there. Once during the race, **Dia and Dillon** can avoid an attack or effect emanating in a line, and it affects whoever is behind them.
+    * **Sleeper Smoke:** Open Cockpits beware, if they're ahead of you, you might end up napping.
+  * **The Magic School Bus:** "Seat belts everyone!","Please let this be a normal field trip!"
+    * **Carlos Ramon:** Tasha's Hideous Laughter upcast on everyone.
+    * **Ralphie; SportsBall:** Attack that stuns a PC if it hits.
+    * **Tim; Psychadelic painting:** Dancing lights.
+    * **Dorthy Ann; Berate:** Charisma save or take psychic damage.
+  * [[wiki:orkridge:demolition_derby#The Gravy Train]]
+  * **The Mystery Machine**
+    * **"Let's Split up:** When the gang is split into two groups, they are under the effect of the spell **Bless**.
+    * **"Let's see who they really are!"**
+      * If one of the gang has grappled a creature, another member can attempt to "remove the mask".
+      * If the creature is wearing a mask, it is removed regardless of mundane or magical means to retain it.
+      * If the creature is not wearing a mask, their face is ripped off, for significant slashing damage.

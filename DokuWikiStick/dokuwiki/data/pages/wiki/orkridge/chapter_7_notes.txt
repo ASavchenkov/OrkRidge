@@ -18,7 +18,7 @@ Hexblade asks Zanriel to steal the hot rock for him.
 
 Hexblade is tired of Shadowfell, and it's not alone. It and his comrades want light.
 
-After [[wiki:orkridge:Chapter 1#The Device | a random mountain]] teleports to Shadowfell, it realizes that whatever magic caused this could be used to teleport his entire city into the Feywild.
+After [[wiki:orkridge:Chapter 1#The Device | a random mountain]] teleports to Shadowfell, it realizes that whatever magic caused this could be used to teleport his entire city into the plane of light.
 
 It is in the interest of this goal that it employs a number of Warlocks to collect items and information of relevance to this teleportation magic. When one of his warlocks is teleported during the events of [[wiki:orkridge:chapter_5| The Financial Crash]], it realizes that whatever material [[wiki:notable_individuals#Leosh]] used could speed his efforts.
 
@@ -47,12 +47,35 @@ The war has only just ended, and most effort has been on rebuilding, not getting
 
 He is hiring Wedge to resolve the [[wiki:orkridge:Altered Cats]]
 
-More-phine?
 
-[[wiki:notable_individuals#Iyanna ir'Talan]] notices him at the pharmacy picking up the (legal and recreational) morphine. "Yo just cause it's legal doesn't mean you should be doing it."
+=== Sledge ===
 
-She thinks that morphine was made legal just because the large corps already had large production facilities for it, and the city decided to just tax it since it needs the money. She's unhappy with her father's complacency with the situation too.
+As a rookie sniper, Wedge and Sledge were paired up, doing security sweeps in the [[wiki:orkridge:the_lost_peaks|Northern Forest]]. Supposedly some Elves were giving the eggheads trouble. Unfortunately, partly because of the orders given to him, and partly through his own failures, the mercenary company is ambushed by the elves.
 
+**Sledge**, Wedge's spotter, dies.
+
+Eventually, the merc company pulls back, and the Gerbaut push the Elves out.
+
+The **Necromancer** that will be in charge of **The Ghoulash** finds **Sledge** just as he dies.
+//"Hexblade. I have another one for you."//
+
+=== Undead Sledge ===
+
+Wedge is assigned to guard **The Ghoulash**, where he recognizes his close friend in skeleton form. At some point they have an intimate conversation.
+
+//"Wedge, my friend. What is left to believe in, when you are betrayed by your own? When all that you are, all that you have done, is buried beneath the lies and the deceit of corrupt men. I will die in this wretched place.//
+
+//The Necromancer, Teller, Hexblade... All. Must. Die//
+
+=== The Lost Peaks ===
+
+//For three days, I have hunted The Necromancer. For three days, luck alone has saved his wretched life. Sniping your enemy is like hunting any other animal.//
+
+Unfortunately, he is "killed" when he stays on the other side of the portal?
+
+=== Eddard Teller ===
+
+//This is the problem with justice, Wedge. You must take it into your own hands.//
 ==== Roveliss ====
 
 Roveliss is aiming to create an underground zen network of bards. Unfortunately Eberron already has a network of bards, in the form of a corporate propaganda machine called **The Circle of Song**. Corrupted by the economic influence of the Dragonmarked houses, this organization primarily creates "sponsored content", and is always happy to have someone new to exploit.
@@ -118,4 +141,37 @@ It rains that night. When they wake up, they see a rainbow. For everyone except 
   * Brohams friend comes down after deciding to race anyways, smokes the area to give them some cover.
   * Does the coopertition speech.
   * News at Thronehold is that there's some [[wiki:orkridge:COLA]] related stuff going on. The negotiations have gotten more cut and dry.
+
+===== Session 10 Plans =====
+
   * Arcanix police witches try to stop the party because of an ongoing terrorist threat.
+  * The sniper undead was actually Wedge's old friend, who he lost in battle, due to a "mistake" he made.
+
+===== Session 11 Plans =====
+
+  * <del>Sledge is going to start working with Wedge to kill Hexblade.
+    * "Sniping your enemy is like hunting any other animal.
+    * "For three days, I have hunted him. For three days, luck alone has saved his wretched life.
+    * He gives Wedge his rifle, a VSS
+      * loaded with subsonic force rounds. It does 1d6 force damage, but doesn't reveal your position if you miss.
+    * He may need to search all of **Edgeton**, but finally runs into Hexblade's personal vehicle.
+    * Hopefully they take it down.</del>
+
+===== Session 12 Plans =====
+
+  * There is one item that can heal Zanriel:
+    * His space jam, which can only be accessed by someone who has done a lot of bludgeoning damage (ie: wedge)
+  * The final leg of the race.
+    * The magic school bus isn't actually in the race, so they don't need to fight the kids.
+    * But a mysterious figure sends a Time-Stop cruise missile at them.
+  * The masks and medical supplies aren't working very well. The effect seems to be purely psychological.
+    * Things got especially bad when an aurora borealis appeared above for a short time, giving everyone migraines.
+    * Magi Suko is arguing with Dron about the masks not being defective, but this being a different effect.
+      * "I know this sounds strange, but we have a mind flayer on staff. Let them take a look.
+      * This might happen as a magical video based conference call.
+  * Also riots are starting to get out of hand, especially considering Char Actor basically endorsed Char Marks.
+    * [[wiki:notable_individuals#Iyanna ir'Talan]] is pissed off at him for this too, since she's a cop and all.
+  * Multiple people want the nuke
+    * Hexblade needs it to get to the plane of light.
+    * Breland and Aundair need it for nuke reasons, but also need to capture Char Marks.
+    * Wedge needs it because he wants a nuke.

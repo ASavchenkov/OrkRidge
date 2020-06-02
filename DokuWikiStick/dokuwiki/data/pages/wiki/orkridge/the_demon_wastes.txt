@@ -1,0 +1,4 @@
+====== The Demon Wastes ======
+[[wiki:afpd:corps#Doodle]] has it's own reason to support the development of [[wiki:orkridge:eberron|Eberron]]. The Demon Wastes are designed for one thing, to develop AI that have desirable reactions to the Trolley Problem. All vehicles in the Demon Wastes become Trolleys, and the only way to get out of **The Labyrinth** is to make the "correct" choices when choosing which track to drive over.
+
+Any movement through **The Labyrinth** has to happen via trolley, and the psychology of the demons here reflects it. Those who make the **correct** choices eventually make it out into Eberron, but by that time are veritably insane.
