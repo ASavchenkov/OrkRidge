@@ -162,12 +162,25 @@ Notable Individuals are categorized by whether they are first met by the party i
 
 These are the characters in [[wiki:afpd:afpd|Argument For Poor Design]]. Many will also conincide with characters in both worlds.
 
+==== Dan Gurney ====
+
+  * Works for **Thin Anthony Hopkins**, specifically maintaining the servers and robot arms.
+  * Gun nut with enough firepower and ammunition to arm a spec-ops squad to the teeth.
+==== Danielle Droman ====
+  * [[wiki:afpd:corps#Academica]]'s representative to check on [[wiki:afpd:corps#Doodle]]'s progress.
+  * Is an asshole and regularly messes with the party and [[wiki:notable_individuals#Thin Anthony Hopkins]].
+
+==== Susan Barnes ====
+  * focused on cybersecurity for [[wiki:afpd:corps#Doodle]]
+  * Works closely with **Thin Anthony Hopkins** on his project.
+  * Also happens to be the **Lo-fi Hip Hop** girl, DJing an underground (literally in the sewers of LA) music scene.
+
 ==== Thin Anthony Hopkins ====
 
   * The leader of [[wiki:afpd:corps#Doodle]]'s effort to create AI.
   * Occasionally visits the characters in their dreams, though tries not to interfere too much.
   * Very rarely appears as other characters.
-  * 
+
 === Quotes Lifted From Westworld ===
 
   * I read a theory once that the human intellect was like peacock feathers. Just an extravagant display intended to attract a mate. All of art, literature, a bit of Mozart, William Shakespeare, Michelangelo, and the Empire State Building. Just an elaborate mating ritual. Maybe it doesn’t matter that we have accomplished so much for the basest of reasons. But, of course, the peacock can barely fly. It lives in the dirt, pecking insects out of the muck, consoling itself with its great beauty.
@@ -175,6 +188,3 @@ These are the characters in [[wiki:afpd:afpd|Argument For Poor Design]]. Many wi
   * You can’t play God without being acquainted with the devil.
   * Everything in this world is magic, except to the magician.
   * I’ve told you, [Bernard]. Never place your trust in us. We’re only human. Inevitably, we will disappoint you.
-==== Danielle Droman ====
-  * [[wiki:afpd:corps#Academica]]'s representative to check on [[wiki:afpd:corps#Doodle]]'s progress.
-  * Is an asshole and regularly messes with the party and [[wiki:notable_individuals#Thin Anthony Hopkins]].

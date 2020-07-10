@@ -1,0 +1,28 @@
+====== Mission N+1 ======
+====== Body Heist ======
+
+As an AI you're much less mortal. Body destroyed? Just upload yourself to a new body. Only one problem with that. These are the only bodies you have...
+
+The good news is that [[wiki:afpd:corps#Academica]] contracted [[wiki:afpd:corps#Kamen Korp]] to design and manufacture hundreds of these chassis. It would be great to... liberate some of them.
+
+===== The Factory =====
+
+Due to the secrecy of the project, the factory is not heavily guarded. In order to keep things on the down low, **Academica** focused on surveillance and quick response. How quick this response is has been left up to the GM. **Academica** rapid response teams make it to the factory within 3 minutes of first notification in my setting.
+
+===== Inside =====
+
+For enhanced secrecy, most operations are automated. When operating at full capacity, approximately 10 employees are on premises, including security personnel. A slow day may involve fewer workers.
+
+One of these employees also secretly works directly for [[wiki:afpd:corps#Academica]], **Karen** works as a secretary who primarily does data entry, but is actually a skilled hacker. If something suspicious goes on, she notifies the rapid response team.
+===== Rapid Response =====
+
+One OH-6 Little Bird and one AH-6 Little Bird are used. The first fast-ropes 6 Academica commandos dressed in civilian uniforms to analyze the situation. The latter stays at a safe distance unless its gunship capabilities are requested.
+
+3 of the commandos are armed with **Assault Rifles** (3-harm near/far loud autofire) and 2 are armed with **SMGs** (2-harm close/near loud autofire), and one with  a **Shotgun** (3-harm near/far loud reload), all suppressed.
+
+Each commando additionally carries **Gas Grenades** and **Flashbangs**, as well as a **Knife**,
+and has an **armored vest** under their suit.
+
+These 6 function as a **small gang** with these tools at its disposal.
+
+The **AH-6 Little Bird** is //+fast, + rugged, +loud// and armed with an **Assault Cannon** (4-harm near/far area messy breach clumsy)

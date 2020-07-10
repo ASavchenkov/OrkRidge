@@ -1,11 +1,26 @@
-The Pepsi killer.
+====== Lo-Fi Hip Hop ======
+The group is watching the press conference where Doodle is selling some profiling tech to the [[wiki:afpd:corps#LAPD]] when a lunatic runs up to the stage and stabs the presenter to death. Security needs to shoot the assailant dead in the process.
 
-The group is watching the press conference where Doodle is selling some profiling tech to the [[wiki:afpd:corps#LAPD]]
+**Sam Pennyworth** (really [[wiki:notable_individuals#Danielle Droman]]) gives the party a job. This isn't the first such unexplained attack. The higher ups at [[wiki:afpd:corps#Doodle]] aren't convinced that this is just a normal lunatic, but don't want to make waves.
 
-Sam Pennyworth is giving the job to them. Find out 
+Either convince her that there's no foul play, or find who did it.
 
-"Lost tapes from Los Angeles" gives them the location to the underground chill beats club.
+===== The Truth =====
 
-The Lieutenant Detective in charge (is a dude).
+However the party arrives at the truth, it is as such:
 
-Jimbo
+[[wiki:notable_individuals#Susan Barnes]] has used what she's learned working on **Faerun and Eberron** to develop a sort of **Suggestion** through music. In the right conditions, someone listening to these beats would find a particular type of person distasteful, and would feel anger and fury towards them. In many cases this would just be weird for the person, but some go further than others.
+
+She specifically targeted [[wiki:afpd:corps#Doodle]] C-Levels focused on developing AI tech for the [[wiki:afpd:corps#LAPD]] and [[wiki:afpd:corps#Academica]]. This kept these two entities dependent on the success of **Faerun and Eberron**, and kept them from being too aggressive in negotiations.
+
+
+
+====== Notes ======
+
+Jimbo, the Lieutenant Detective in charge, thinks this is a waste of time.
+
+"Lost tapes from Los Angeles" gives them the location to the underground Lo-fi Hip Hop club.
+
+The party wasn't very discrete, and the **LAPD** followed them to one of these clubs, raiding it and killing quite a few.
+
+The party barely escaped through the dark maze that is future LA's abandoned sewage system.

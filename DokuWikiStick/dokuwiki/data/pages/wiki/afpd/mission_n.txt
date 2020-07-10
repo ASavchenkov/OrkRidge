@@ -1,4 +1,5 @@
 ====== Mission N ======
+[[wiki:afpd:Mission N Notes]]
 
 This is the point at which the [[wiki:orkridge:orkridge | Ork Ridge]] and [[wiki:afpd:AFPD]] plots converge.
 
@@ -42,9 +43,9 @@ Thin Anthony Hopkins did note that the effects were lessened for adventurers, so
 
 This also comes with pressure from Doodle to finish the project so they can hand the results over to [[wiki:afpd:corps#Academica]] and company.
 
-==== The Raid ====
+===== The Mission =====
 
-With the delays Hopkins has introduced to try and get some adventurers out, Doodle has agreed to let Academica take the facility with force if necessary, and Hopkins is aware of this, to the point of knowing the exact time of the raid.
+With the delays Hopkins has introduced to try and get some adventurers out, Doodle has agreed to let Academica take the facility with force if necessary, and Hopkins is aware of this, to the point of knowing the exact time of the raid, thanks to the work of
 
 Those that agree to come out are brought to the datacenter/office hybrid from [[wiki:afpd:Mission 1]]. Their bodies are robotic humanoid chassis, of great similarity to their Faerunian bodies. let them Hopkins and his employees have 20 minutes to explain as much as they can before they need to evacuate the party, after all, Academica doesn't know that they were planning to do this.
 

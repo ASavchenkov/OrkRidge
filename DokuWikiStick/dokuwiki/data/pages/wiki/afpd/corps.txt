@@ -10,6 +10,10 @@ Basically Blackwater
 
 An enormous Google equivalent. They were contracted by a number of companies to create a true AI.
 Most important person in this company is  [[wiki:afpd:mission_n|See more]].
+
+===== Kamen Korp =====
+
+An manufacturing and automation empire, most mundane robotics is handled by this company. It's LA factory has been contracted by [[wiki:afpd:corps#Academica]] to manufacture humanoid combat chassis. This design and manufacture happened in tandem with the AI development at [[wiki:afpd:corps#Doodle]] (more info [[wiki:afpd:mission_n|here]])
 ===== LAPD =====
 
 Half corrupt. There's still good people in it, but they know to keep their heads down. The city doesn't fund them, so they have to fund themselves if you know what I mean. Between [[wiki:afpd:mission_1]] and [[wiki:afpd:mission_2]], they complete the purchase of autonomous drones that are "certified" to deploy force if needed. These drones come from [[#Doodle]].

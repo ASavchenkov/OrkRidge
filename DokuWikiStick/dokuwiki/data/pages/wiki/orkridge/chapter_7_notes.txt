@@ -199,6 +199,8 @@ It rains that night. When they wake up, they see a rainbow. For everyone except 
         * 1 damage
         * crit blinds in one eye.
       * Pepper spray
+        * Blind enemies in a 15 foot cone.
+        * DC 15 con save.
       * Tear gas canisters (stinking cloud)
       * riot shields
       * Also two conspicuously empty slots with biohazard symbols on them.
@@ -208,4 +210,7 @@ It rains that night. When they wake up, they see a rainbow. For everyone except 
     * **Fallen** becomes a veritable fortress, innavigable by anyone other than the CATS themselves.
   * The **King's Citadel** dispatches a team of **Dark Lanterns** to gather intelligence on the party, and see if they can be turned into an asset.
     * They know Roveliss was the dinosaur.
+    * **Dick Dickerson**
+    * **John Johnerson**
   * They meet the mind flayer on the train.
+  * Rage Against the Machine
