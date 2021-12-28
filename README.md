@@ -1,21 +1,17 @@
 # OrkRidge
 
-#Usage Guide
+## Usage Guide
 
 Ork Ridge is a dokuwiki: https://www.dokuwiki.org/dokuwiki
 
-##Release Zip File (Windows)
+### Release Zip File (Windows)
 
 Just download the zip, unzip it.
 Go into OrkRidge-master->DokuWikiStick, and double click run.
 
-##git repo (Windows, DokuWikiStick)
+### Git Repo (Requires Existing DokuWiki Installation)
 
-clone the repo.
-Download DokuWikiStick from the website.
-Extract DokuWikiStick folder into the git repo. don't replace files (though it probably works even if you do?)
+This repository is set up to be easily cloneable into a DokuWiki farm.
 
-##git repo(Any System)
-install dokuwiki
-drag and drop the "dokuwiki" folder into... wherever that is...
-Good luck!
+Make sure you have the [DokuWiki Farmer](https://www.dokuwiki.org/plugin:farmer) plugin installed and configured.
+Clone the repository to wherever your wiki farm is.
