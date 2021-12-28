@@ -1,0 +1,17 @@
+/data/attic/*
+!/data/attic/_dummy
+/data/cache/*
+!/data/cache/_dummy
+/data/index/*
+!/data/index/_dummy
+/data/locks/*
+!/data/locks/_dummy
+/data/log/*
+!/data/log/_dummy
+/data/media_attic/*
+!/data/media_attic/_dummy
+/data/media_meta/*
+!/data/media_meta/_dummy
+/data/meta/*
+!/data/meta/_dummy
+/data/tmp/*
